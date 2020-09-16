@@ -1,0 +1,510 @@
+==============================================================
+Guild: The Papal States
+Channel: 『⛪』St. Peter's Basilica『⛪』 / 🥗╠﹝food-stall
+==============================================================
+
+[28-May-20 03:52 AM] CrimsonPanzer#1693
+s?m
+
+[28-May-20 03:52 AM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats for the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+__14 Days__: `2,723 messages`
+7 Days: `2,723 messages`
+24 Hours: `711 messages`
+Top 5 Users
+`1st.`  @Unknown: `1,333 messages`
+`2nd.`  @Unknown: `207 messages`
+`3rd.`  @Unknown: `196 messages`
+`4th.`  @Unknown: `165 messages`
+`5th.`  @Unknown: `103 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `472 messages`
+`2nd.`  #🏪╠﹝the-market: `259 messages`
+`3rd.`  #🏛-╠﹝make-a-party: `246 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/715487711653527632/chart.png
+Command used s?stats messages
+
+[01-Jun-20 09:54 PM] angrynova#0024
+One salad please
+
+[01-Jun-20 09:54 PM] angrynova#0024
+llol
+
+[03-Jun-20 08:36 PM] Otto#2219
+Yay i am in the leaderboard :3
+
+[03-Jun-20 08:36 PM] Otto#2219
+s?m
+
+[03-Jun-20 08:36 PM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats for the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+__14 Days__: `7,638 messages`
+7 Days: `3,951 messages`
+24 Hours: `60 messages`
+Top 5 Users
+`1st.`  @Unknown: `3,318 messages`
+`2nd.`  @Unknown: `383 messages`
+`3rd.`  @Unknown: `342 messages`
+`4th.`  @Unknown: `307 messages`
+`5th.`  @Unknown: `305 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `2,346 messages`
+`2nd.`  #🔶╚﹝verification: `745 messages`
+`3rd.`  #🤣╠﹝memes-and-art: `588 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/717914646073573397/chart.png
+Command used s?stats messages
+
+[03-Jun-20 08:36 PM] Otto#2219
+Nvm
+
+[03-Jun-20 11:49 PM] Pope Benedict XV#0904
+s?mem
+
+[03-Jun-20 11:49 PM] Statbot#3472
+
+{Embed}
+The Papal States's Member Count Overview
+Memberflow and count for the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+Also displayed are the past 7 days and "24 hours" if not already configured.
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Members
+Users: `95`
+Bots: `14`
+Memberflow past __14 days__
+Change: `+51 members (+46.78%)`
+Memberflow past 7 days
+Change: `+19 members (+17.43%)`
+Memberflow past 24 hours
+Change: `±0 members (±0%)`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/717963217212538880/chart.png
+Command used s?stats members
+
+[03-Jun-20 11:49 PM] Pope Benedict XV#0904
+s?m
+
+[03-Jun-20 11:49 PM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats for the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+__14 Days__: `7,757 messages`
+7 Days: `4,070 messages`
+24 Hours: `179 messages`
+Top 5 Users
+`1st.`  @Pope Benedict XV: `3,326 messages`
+`2nd.`  @Unknown: `482 messages`
+`3rd.`  @Unknown: `342 messages`
+`4th.`  @Unknown: `307 messages`
+`5th.`  @Unknown: `305 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `2,350 messages`
+`2nd.`  #🔶╚﹝verification: `745 messages`
+`3rd.`  #🤣╠﹝memes-and-art: `590 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/717963259428208680/chart.png
+Command used s?stats messages
+
+[03-Jun-20 11:49 PM] Pope Benedict XV#0904
+Dang
+
+[03-Jun-20 11:52 PM] King Edward I#2029
+Hmm
+
+[03-Jun-20 11:53 PM] King Edward I#2029
+Steady growth of members, but varying levels of activity
+
+[03-Jun-20 11:55 PM] King Edward I#2029
+What happened on June 3rd ?
+
+[04-Jun-20 12:13 AM] Pope Benedict XV#0904
+H
+
+[04-Jun-20 01:32 AM] Sir Oswald Mosley#3925
+Hey!
+
+[04-Jun-20 01:32 AM] Sir Oswald Mosley#3925
+I've sent 305 messages!
+
+[04-Jun-20 01:32 AM] Sir Oswald Mosley#3925
+Boom!
+
+[04-Jun-20 01:32 AM] Pope Benedict XV#0904
+H
+
+[04-Jun-20 01:32 AM] crud#0711
+eggs benedict is always first
+
+[04-Jun-20 01:33 AM] Pope Benedict XV#0904
+What
+
+[04-Jun-20 01:33 AM] crud#0711
+Whaf
+
+[04-Jun-20 01:33 AM] Pope Benedict XV#0904
+Whaf
+
+[05-Jun-20 10:35 AM] Otto#2219
+!order
+
+[05-Jun-20 10:35 AM] Virtual Diner#0323
+:question: | You must provide something to order.
+
+[05-Jun-20 10:35 AM] Otto#2219
+Forget it, i am going to Cafe.
+
+[05-Jun-20 10:35 AM] Pope Benedict XV#0904
+Lmao
+
+[22-Jun-20 05:40 PM] Captain Elijah Ireland#4825
+@—🗝️👑🗝️Top Administrators🗝️👑🗝️— the main hall channel disappeared
+
+[22-Jun-20 11:24 PM] Pope Benedict XV#0904
+Huh
+
+[22-Jul-20 03:28 AM] A baguette filled with mangos#7120
+s?m
+
+[22-Jul-20 03:28 AM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats in the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+in the past __14 days__: `4,586 messages`
+7 Days: `2,199 messages`
+24 Hours: `135 messages`
+Top 5 Users
+`1st.`  @Pope Benedict XV: `1,071 messages`
+`2nd.`  @Unknown: `511 messages`
+`3rd.`  @Unknown: `355 messages`
+`4th.`  @Unknown: `300 messages`
+`5th.`  @A baguette filled with mangos: `294 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `1,751 messages`
+`2nd.`  #🏭╚﹝papal-industries: `717 messages`
+`3rd.`  #🔶╚﹝verification: `328 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/735412836330766406/chart.png
+Command used s?stats messages
+
+[22-Jul-20 03:28 AM] A baguette filled with mangos#7120
+Woooo
+
+[22-Jul-20 03:28 AM] A baguette filled with mangos#7120
+5th
+
+[22-Jul-20 03:28 AM] A baguette filled with mangos#7120
+@Foliamane Me gonna ovetake u
+
+[22-Jul-20 03:30 AM] A baguette filled with mangos#7120
+s?m
+
+[22-Jul-20 03:30 AM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats in the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+in the past __14 days__: `4,590 messages`
+7 Days: `2,203 messages`
+24 Hours: `139 messages`
+Top 5 Users
+`1st.`  @Pope Benedict XV: `1,071 messages`
+`2nd.`  @Unknown: `511 messages`
+`3rd.`  @Unknown: `355 messages`
+`4th.`  @Foliamane: `300 messages`
+`5th.`  @A baguette filled with mangos: `298 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `1,751 messages`
+`2nd.`  #🏭╚﹝papal-industries: `717 messages`
+`3rd.`  #🔶╚﹝verification: `328 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/735413565175103558/chart.png
+Command used s?stats messages
+
+[22-Jul-20 03:31 AM] A baguette filled with mangos#7120
+Ok
+
+[22-Jul-20 03:31 AM] A baguette filled with mangos#7120
+2 more messages
+
+[22-Jul-20 03:32 AM] A baguette filled with mangos#7120
+s?m
+
+[22-Jul-20 03:32 AM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats in the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+in the past __14 days__: `4,593 messages`
+7 Days: `2,206 messages`
+24 Hours: `142 messages`
+Top 5 Users
+`1st.`  @Pope Benedict XV: `1,071 messages`
+`2nd.`  @Unknown: `511 messages`
+`3rd.`  @Unknown: `355 messages`
+`4th.`  @A baguette filled with mangos: `301 messages`
+`5th.`  @Foliamane: `300 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `1,751 messages`
+`2nd.`  #🏭╚﹝papal-industries: `717 messages`
+`3rd.`  #🔶╚﹝verification: `328 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/735414015567593472/chart.png
+Command used s?stats messages
+
+[22-Jul-20 03:32 AM] A baguette filled with mangos#7120
+Hehe
+
+[22-Jul-20 04:44 AM] Foliamane#3308
+Yeah probably
+
+[22-Jul-20 04:44 AM] Foliamane#3308
+Wasn't very active
+
+[22-Jul-20 04:45 AM] Foliamane#3308
+The past week
+
+[22-Jul-20 04:45 AM] Foliamane#3308
+Had personal problems
+
+[22-Jul-20 04:45 AM] Foliamane#3308
+s?m
+
+[22-Jul-20 04:45 AM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats in the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+in the past __14 days__: `4,604 messages`
+7 Days: `2,217 messages`
+24 Hours: `153 messages`
+Top 5 Users
+`1st.`  @Pope Benedict XV: `1,071 messages`
+`2nd.`  @Unknown: `513 messages`
+`3rd.`  @Unknown: `355 messages`
+`4th.`  @A baguette filled with mangos: `309 messages`
+`5th.`  @Foliamane: `300 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `1,751 messages`
+`2nd.`  #🏭╚﹝papal-industries: `720 messages`
+`3rd.`  #🔶╚﹝verification: `328 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/735432280264147015/chart.png
+Command used s?stats messages
+
+[22-Jul-20 04:45 AM] Foliamane#3308
+But hay it's fine with me
+
+[22-Jul-20 07:13 AM] Baguette#3711
+Nice
+
+[24-Jul-20 12:21 AM] someonexxx#1863
+s?m
+
+[24-Jul-20 12:21 AM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats in the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+in the past __14 days__: `4,434 messages`
+7 Days: `2,212 messages`
+24 Hours: `56 messages`
+Top 5 Users
+`1st.`  @Pope Benedict XV: `965 messages`
+`2nd.`  @Unknown: `597 messages`
+`3rd.`  @A baguette filled with mangos: `442 messages`
+`4th.`  @Baguette: `381 messages`
+`5th.`  @Foliamane: `340 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `1,610 messages`
+`2nd.`  #🏭╚﹝papal-industries: `827 messages`
+`3rd.`  #🔶╚﹝verification: `336 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/736090583222845540/chart.png
+Command used s?stats messages
+
+[24-Jul-20 12:21 AM] someonexxx#1863
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522590614192178/736090622196449431/Screenshot_2020-07-24-09-10-15-360_com.discord.png
+
+[24-Jul-20 12:21 AM] someonexxx#1863
+but
+
+[24-Jul-20 12:21 AM] someonexxx#1863
+idk
+
+[24-Jul-20 11:33 AM] Pope Benedict XV#0904
+s?mem
+
+[24-Jul-20 11:33 AM] Statbot#3472
+
+{Embed}
+The Papal States's Member Count Overview
+Memberflow and count in the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+Also displayed are the past 7 days and "24 hours" if not already configured.
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Members
+Users: `229`
+Bots: `15`
+Memberflow in the past __14 days__
+Change: `+19 members (+7.75%)`
+Memberflow past 7 days
+Change: `+11 members (+4.48%)`
+Memberflow past 24 hours
+Change: `+1 members (+0.4%)`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/736259888300425316/chart.png
+Command used s?stats members
+
+[24-Jul-20 11:34 AM] Pope Benedict XV#0904
+@someonexxx
+
+[24-Jul-20 11:34 AM] Pope Benedict XV#0904
+s?m
+
+[24-Jul-20 11:34 AM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats in the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+in the past __14 days__: `4,681 messages`
+7 Days: `2,459 messages`
+24 Hours: `303 messages`
+Top 5 Users
+`1st.`  @Pope Benedict XV: `904 messages`
+`2nd.`  @Unknown: `614 messages`
+`3rd.`  @A baguette filled with mangos: `488 messages`
+`4th.`  @Baguette: `356 messages`
+`5th.`  @Foliamane: `343 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `1,464 messages`
+`2nd.`  #🏭╚﹝papal-industries: `881 messages`
+`3rd.`  #🔶╚﹝verification: `300 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/736259922697912320/chart.png
+Command used s?stats messages
+
+[13-Aug-20 01:44 PM] lilKing#8722
+s?m
+
+[13-Aug-20 01:44 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+Oof
+
+[13-Aug-20 01:44 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+I’m 3rd
+
+[13-Aug-20 01:45 PM] lilKing#8722
+I can’t see it
+
+[13-Aug-20 01:45 PM] lilKing#8722
+s?m
+
+[13-Aug-20 01:45 PM] Statbot#3472
+
+{Embed}
+The Papal States's Message Overview
+Message stats in the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Message Sum
+in the past __14 days__: `6,033 messages`
+7 Days: `2,146 messages`
+24 Hours: `678 messages`
+Top 5 Users
+`1st.`  @Pope Benedict XV: `1,555 messages`
+`2nd.`  @Foliamane: `735 messages`
+`3rd.`  @𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟: `597 messages`
+`4th.`  @Unknown: `556 messages`
+`5th.`  @Unknown: `232 messages`
+Top 3 Channels
+`1st.`  #⭐╠﹝roma: `2,700 messages`
+`2nd.`  #⚔╚﹝meeting-hall: `679 messages`
+`3rd.`  #🏭╚﹝papal-industries: `536 messages`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522590614192178/743540664255512596/chart.png
+Command used s?stats messages
+
+[13-Aug-20 01:45 PM] lilKing#8722
+Ok
+
+[13-Aug-20 01:45 PM] Foliamane#3308
+The Aug 1st peak
+
+[13-Aug-20 01:45 PM] Foliamane#3308
+I miss it
+
+[13-Aug-20 01:45 PM] lilKing#8722
+Same
+
+[13-Aug-20 01:45 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+Yes
+
+[13-Aug-20 01:45 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+My server barely even gets 500 messages a day
+
+[13-Aug-20 01:46 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+Only around 200 average
+
+[13-Aug-20 01:46 PM] Foliamane#3308
+My server got wiped before there was anyone on it
+
+[13-Aug-20 01:46 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+F
+
+==============================================================
+Exported 76 message(s)
+==============================================================
+
+

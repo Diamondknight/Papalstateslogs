@@ -1,0 +1,184 @@
+==============================================================
+Guild: Papal State
+Channel: ▬▬▬𝐀𝐃𝐌𝐈𝐍𝐒▬▬▬ / │wick-logs
+==============================================================
+
+[05-Sep-20 07:54 AM] Wick#3938
+
+{Embed}
+*Tolgus (depression hit me again)#5940 has been muted temporarily for 1m!*
+:rightSort: **Heat Factor:** *Regular Message Spam*
+:rightSort: **Channel:** #│roma **[│roma]**
+:rightSort: **Message:** `⚠️`|| *Gg* ||
+:rightSort: **Member:** @Unknown **[Tolgus (depression hit me again)#5940]**
+
+
+[05-Sep-20 03:56 PM] Wick#3938
+
+{Embed}
+*Ante Pavelić#2555 has been muted temporarily for 1m!*
+:rightSort: **Heat Factor:** *Discord Server Invite Presence*
+:rightSort: **Channel:** #│roma **[│roma]**
+:rightSort: **Message:** `⚠️`|| *https://discord.gg/3nSBckY* ||
+:rightSort: **Member:** @Unknown **[Ante Pavelić#2555]**
+
+
+[05-Sep-20 04:05 PM] superioroberto#8726
+fuck you wick
+
+
+[06-Sep-20 12:10 AM] Wick#3938
+
+{Embed}
+Mute result:
+:activity: **Reason:** No reason.
+:trustedAdmin: **Moderator:**  @Unknown:owner:
+:mute: **Details:** 
+:space::rightDoubleArrow: Duration: :cancel:
+:space::rightDoubleArrow: Hack Mute: :cancel:
+:space::rightDoubleArrow: No-Avatar: :cancel:
+:space::rightDoubleArrow: DM-Members: :cancel:
+:success: Successful mutes
+:rightSort: `Deutsches Heer Private 1-1-8#0400` :mute:
+:cancel: Unsuccessful mutes
+All users were muted!
+
+
+[06-Sep-20 12:11 AM] Wick#3938
+
+{Embed}
+Unmute result:
+:activity: **Reason:** No reason.
+:trustedAdmin: **Moderator:**  @Unknown:owner:
+:rightSort: **Details:** 
+:space::rightDoubleArrow: No-Avatar: :cancel:
+:space::rightDoubleArrow: DM-Members: :cancel:
+:success: Successful unmutes
+:rightSort: `Deutsches Heer Private 1-1-8#0400`
+:cancel: Unsuccessful unmutes
+All users were unmuted!
+
+
+[06-Sep-20 12:12 AM] Wick#3938
+
+{Embed}
+Mute result:
+:activity: **Reason:** No reason.
+:trustedAdmin: **Moderator:**  @Unknown:owner:
+:mute: **Details:** 
+:space::rightDoubleArrow: Duration: :cancel:
+:space::rightDoubleArrow: Hack Mute: :cancel:
+:space::rightDoubleArrow: No-Avatar: :cancel:
+:space::rightDoubleArrow: DM-Members: :cancel:
+:success: Successful mutes
+:rightSort: `Destuches Heer Private#1382` :mute:
+:cancel: Unsuccessful mutes
+All users were muted!
+
+
+[06-Sep-20 12:18 AM] Wick#3938
+
+{Embed}
+Unmute result:
+:activity: **Reason:** No reason.
+:trustedAdmin: **Moderator:**  @Unknown:owner:
+:rightSort: **Details:** 
+:space::rightDoubleArrow: No-Avatar: :cancel:
+:space::rightDoubleArrow: DM-Members: :cancel:
+:success: Successful unmutes
+:rightSort: `Destuches Heer Private#1382`
+:cancel: Unsuccessful unmutes
+All users were unmuted!
+
+
+[06-Sep-20 12:40 AM] Wick#3938
+
+{Embed}
+Mute result:
+:activity: **Reason:** No reason.
+:trustedAdmin: **Moderator:**  @Unknown:owner:
+:mute: **Details:** 
+:space::rightDoubleArrow: Duration: :cancel:
+:space::rightDoubleArrow: Hack Mute: :cancel:
+:space::rightDoubleArrow: No-Avatar: :cancel:
+:space::rightDoubleArrow: DM-Members: :cancel:
+:success: Successful mutes
+:rightSort: `Chill Vibes™#9652` :mute:
+:cancel: Unsuccessful mutes
+All users were muted!
+
+
+[06-Sep-20 12:42 AM] Wick#3938
+
+{Embed}
+Unmute result:
+:activity: **Reason:** No reason.
+:trustedAdmin: **Moderator:**  @Unknown:owner:
+:rightSort: **Details:** 
+:space::rightDoubleArrow: No-Avatar: :cancel:
+:space::rightDoubleArrow: DM-Members: :cancel:
+:success: Successful unmutes
+:rightSort: `Chill Vibes™#9652`
+:cancel: Unsuccessful unmutes
+All users were unmuted!
+
+
+[12-Sep-20 08:23 PM] superioroberto#8726
+!ban FJ#1191
+
+
+[12-Sep-20 08:23 PM] Dyno#3861
+
+{Embed}
+:dynoError: I can't find user FJ#1191.
+
+
+[12-Sep-20 08:23 PM] BetterAntispam#1393
+:blobthinkingeyes:  Oops, I couldn't find that user.
+
+
+[12-Sep-20 08:23 PM] UnbelievaBoat#1046
+
+{Embed}
+superioroberto#8726
+:xmark: Invalid `<user>` argument given. 
+
+Usage:
+`ban <user> [days delete] [reason]`
+
+
+[12-Sep-20 08:23 PM] superioroberto#8726
+fuckign
+
+
+[12-Sep-20 08:24 PM] superioroberto#8726
+!ban FJ#1191 40 annoying traitor
+
+
+[12-Sep-20 08:24 PM] BetterAntispam#1393
+:blobthinkingeyes:  Oops, I couldn't find that user.
+
+
+[12-Sep-20 08:24 PM] Dyno#3861
+
+{Embed}
+:dynoError: I can't find user FJ#1191.
+
+
+[12-Sep-20 08:24 PM] UnbelievaBoat#1046
+
+{Embed}
+superioroberto#8726
+:xmark: Invalid `<user>` argument given. 
+
+Usage:
+`ban <user> [days delete] [reason]`
+
+
+[12-Sep-20 08:24 PM] superioroberto#8726
+god fucking
+
+
+==============================================================
+Exported 19 message(s)
+==============================================================

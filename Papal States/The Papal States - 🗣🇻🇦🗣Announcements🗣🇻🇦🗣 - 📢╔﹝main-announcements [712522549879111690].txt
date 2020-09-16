@@ -1,0 +1,1500 @@
+==============================================================
+Guild: The Papal States
+Channel: 🗣🇻🇦🗣Announcements🗣🇻🇦🗣 / 📢╔﹝main-announcements
+==============================================================
+
+[20-May-20 06:35 AM] Pope Benedict XV#0904
+Elections are postponed till we reach back to 150 members and are stable enough to conduct Elections @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[21-May-20 06:06 AM] Pope Benedict XV#0904
+I can now say that we are ready! Now you all can **START INVITING**  for the state of the church. hurrah! DM me for partnerships and to join the #deleted-channel @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 👏👏get inviting👏👏 chop chop
+
+{Reactions}
+Waaaaa Salute
+
+[23-May-20 07:46 AM] Pope Benedict XV#0904
+Bruh invige
+
+[24-May-20 07:25 AM] Pope Benedict XV#0904
+Sorry for the ping but this is an important announcement from the discord team
+
+[24-May-20 07:25 AM] Pope Benedict XV#0904
+@everyone Please read this carefully A fair warning, Look out for a Discord user by the name of 𝓘𝔃𝔃𝔂 with the tag #2911. She is going around sending friend requests to random Discord users, and those who accept her friend requests will have their accounts DDoSed and their groups exposed with the members inside it becoming a victim as well. Spread the word and send this to as many Discord servers as you can. If you see this user, DO NOT accept her friend request and immediately block her. Our team is currently working very hard to remove this user from our database. Please stay safe. -Discord team 
+Copy and paste this to all the servers you are in
+
+{Reactions}
+👍🏾 (13)
+
+[24-May-20 07:25 AM] Pope Benedict XV#0904
+Stay safe
+
+[24-May-20 07:25 AM] Pope Benedict XV#0904
+Stay home
+
+[26-May-20 07:33 AM] Pope Benedict XV#0904
+There are chances of the papal states restarting elections again on 4 or 5 (day)  - 6 (month) - 2020 (year) so start making parties we still have __3 more slots__ till then, Stay safe and __Keep Inviting__ People for the state of the church.
+
+-signing of 
+Pope Benedict XV 
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+👍 (7) 🇻🇦 (4)
+
+[26-May-20 11:48 PM] Pope Benedict XV#0904
+1 slot is still left go ahead make a party in #🏛-╠﹝make-a-party
+
+[27-May-20 02:00 AM] Pope Benedict XV#0904
+No more slots are left
+
+[27-May-20 06:57 AM] Pope Benedict XV#0904
+Do you think we should reduce the roles for the military so that it becomes easier for the soldiers (also it will look that we have professional soldiers) @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 we shall discuss in #⭐╠﹝roma
+
+[27-May-20 06:58 AM] Pope Benedict XV#0904
+This will help the soldiers to attend training
+
+[27-May-20 06:58 AM] Pope Benedict XV#0904
+I guess
+
+[27-May-20 06:58 AM] Pope Benedict XV#0904
+Hmm
+
+[30-May-20 09:59 AM] Pope Benedict XV#0904
+https://securityboulevard.com/2020/05/updated-anarchygrabber-steals-passwords-spreads-to-discord-friends/
+ sorry for the ping but i have a friend that caught this thing so just stay informed and take caution
+
+{Embed}
+https://securityboulevard.com/2020/05/updated-anarchygrabber-steals-passwords-spreads-to-discord-friends/
+Updated AnarchyGrabber Steals Passwords, Spreads to Discord Friends...
+Researchers found an updated version of AnarchyGrabber that steals victims’ plaintext passwords for and infects victims’ friends on Discord. Detected as AnarchyGrabber3, the new trojan variant modified the Discord client’s %AppData%Discordmodulesdiscord_desktop_coreindex.js fi...
+https://3b6xlt3iddqmuq5vy2w0s5d3-wpengine.netdna-ssl.com/state-of-security/wp-content/uploads/sites/3/spreader-feature.jpg
+
+
+{Reactions}
+oh_shit (3) 👍
+
+[30-May-20 09:59 AM] Pope Benedict XV#0904
+@everyone ^ imp
+
+[31-May-20 06:01 AM] Pope Benedict XV#0904
+@everyone There is a new Discord Trojan attack going around where it logs you out of Discord and you have to log back in. Once you log back in, it then has access to your account and user tokens.
+With this information, it is disabling 2FA and locking the user out of their accounts. It then attempts to log into your linked accounts, such as YouTube, Twitch, Steam, etc.. If you use the same password for these accounts, then it will likely be successful in doing that.
+This Trojan is being passed around disguised as a link to a game.
+If you download this fake game,during its install process it will modify the Discord JS files instructing Discord to load up a couple of extra scripts that convert your password into plain text that it can then harvest. This is why it logs you out and you are required to log back in.
+To prevent this from happening, do not download any software at all that has been passed to your Discord.
+If you have downloaded anything recently and you have been logged out of Discord, do not log back in. Instead, uninstall Discord and re-install it from the official discord website.
+This does not affect the Web Browser version.
+It has recently been covered by multiple websites; see the Forbes article below.
+The article below describes how you can check your own installation for the presence of this malware. It isn't hard; a single line in one file should tell you if you are infected. Read below for instructions:
+https://www.forbes.com/sites/leemathews/2020/05/25/warning-malware-steal-discord-passwords/#4f74438b4572There
+
+{Embed}
+https://www.forbes.com/sites/leemathews/2020/05/25/warning-malware-steal-discord-passwords/
+Gamers Beware: Stealthy Malware Steals Your Discord Password And At...
+Today, Discord has 250 million registered users and around 15 million of them active on any given day... which is why it’s become a popular target for cybercriminals.
+https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1162572804%2F0x0.jpg
+
+[31-May-20 06:02 AM] Pope Benedict XV#0904
+My god cyber crime is really active these days
+
+[31-May-20 06:02 AM] Pope Benedict XV#0904
+Stay safe my friends <3
+
+{Reactions}
+👍 (6)
+
+[01-Jun-20 01:10 AM] Pope Benedict XV#0904
+@everyone Do NOT accept friend requests from bobyblobfish#1566 He is a hacker. Tell everyone on your friends list because if somebody on your list adds one of them, they'll be on your list too. He will figure out your personal computer's IP and address by just befriending, so copy & paste this message wherever you can. He is going around sending friend requests to random discord users, and those who accept his requests will have their accounts and their IP Addresses revealed to him by just accepting a friend request. Spread the word and send this to as many discord servers as you can. If you see this user, DO NOT accept his friend request and immediately block him. -Discord Team
+
+{Reactions}
+🧐 (2)
+
+[01-Jun-20 01:10 AM] Pope Benedict XV#0904
+3rd report
+
+[01-Jun-20 01:10 AM] Pope Benedict XV#0904
+My god!
+
+[01-Jun-20 01:10 AM] Pope Benedict XV#0904
+Cyber crime dang
+
+[01-Jun-20 01:10 AM] Pope Benedict XV#0904
+They take work at home seriously lmao
+
+{Reactions}
+lmao (3)
+
+[01-Jun-20 01:12 AM] Pope Benedict XV#0904
+3 people left due to that ping f
+
+{Reactions}
+coolcry (6)
+
+[02-Jun-20 01:55 AM] Pope Benedict XV#0904
+We reached 100 members! 👌 @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+🥳 (6) partycat (3) PartyParrot (3) PartyTada (3)
+
+[02-Jun-20 03:15 AM] Pope Benedict XV#0904
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/717290335507578950/Screenshot_20200602-121424_Chrome.jpg
+
+{Reactions}
+lmao (2)
+
+[02-Jun-20 03:27 AM] Pope Benedict XV#0904
+@everyone Sorry had to ping this VERY important...Ok bad news it tmrw is pridefall which is a cyber attack event, on all social media platforms including discord there will be people trying to send you gore, extreme profanity, porn, racist slurs, and there will also be ip grabbers hackers and doxxers. I advise no one to accept any friend requests from people you don't know, stay safe.
+Please pass this on to any servers that you own or have admin perms and can server ping in to spread awareness. Just tryna let you guys know
+
+[02-Jun-20 03:27 AM] Pope Benedict XV#0904
+Spread it
+
+[04-Jun-20 05:36 AM] Pope Benedict XV#0904
+Saturday is Elections everybody keep that in mind
+
+[04-Jun-20 05:36 AM] Pope Benedict XV#0904
+(6 june)
+
+[04-Jun-20 08:05 AM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 the #🏘-╚﹝the-citizens-council , #💰╠﹝loans , #🏡╚﹝properties are now open to all! go ahead and check them out!
+
+[05-Jun-20 07:16 AM] Pope Benedict XV#0904
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/718438073997983764/Screenshot_20200605-161203_Discord.jpg
+
+{Reactions}
+🇫 (5)
+
+[05-Jun-20 08:40 AM] Pope Benedict XV#0904
+I Pope Benedict XV, officially retire I shall still be present in the office as a senior cardinal or just a retired pope. This might be sad for some of you all but my period of reign is over the name of the new pope and a ceremony shall begin shortly till then keep an eye on the #🏰╔﹝palazzo-apostolico Channel you shall be pinged and notified when the ceremony will begin __IT IS IMPORTANT FOR EVERYONE TO WATCH AND CELEBRATE IT IF THEY CAN__ the Coronation will happen after the pope's speech in #⭐╠﹝roma
+
+{Reactions}
+🇫 (8) 👉 👌
+
+[05-Jun-20 08:42 AM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 ^ till then keep an eye on #🏰╔﹝palazzo-apostolico
+
+[07-Jun-20 02:57 AM] Pope Benedict XV#0904
++poll @lilKing can you type here
+
+{Reactions}
+👍 (3) 👎 🤷 (3)
+
+[08-Jun-20 01:03 AM] Pope Benedict XV#0904
+Dear people, Elections are postponed and the date shall be discussed due to some issues in the Elections and due to some parties cheating. This might be harsh but we might be reducing the number of parties to 4 or 5 and might also be abolishing Radical parties. Basically the plan is to reduce chaos and the state shall be making few parties such as (social democratic party/democratic socialist Party, God's Party, Monarchist party, Democratic Party) our plan is to basically reduce the extremism and to reduce chaos this might also reduce the options for the Elections but we added parties from both the left and right. This plan is still being discussed so stay tuned. @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+🇵 (4) 🇮 (4) 🇳 (4) 🇬 (4) Waaaaa (3) 🤔
+
+[08-Jun-20 01:04 AM] Pope Benedict XV#0904
+Maybe the state shall not make parties but the people through #🏛-╠﹝make-a-party but the parties should not be extremist.
+
+[08-Jun-20 01:05 AM] Pope Benedict XV#0904
+(the god's party can stay)
+
+{Reactions}
+👍 (3)
+
+[08-Jun-20 01:52 AM] Pope Benedict XV#0904
+Sorry to the ping but just dm me if you are a social democrat/ Democratic socialist you know for the Political party @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[08-Jun-20 01:52 AM] Pope Benedict XV#0904
+I shall ping u no more
+
+[08-Jun-20 01:53 AM] Pope Benedict XV#0904
+Anybody?
+
+[08-Jun-20 02:06 AM] Pope Benedict XV#0904
+Alr got an idea just make a united leftist front or something
+
+[08-Jun-20 02:06 AM] Pope Benedict XV#0904
+But remember
+
+[08-Jun-20 02:06 AM] Pope Benedict XV#0904
+No
+
+[08-Jun-20 02:06 AM] Pope Benedict XV#0904
+Extremism
+
+[11-Jun-20 12:59 AM] Pope Benedict XV#0904
+Dear people, this is an urgent Announcement, are general secretary(Captain Partrick Jones #6342) has been caught red-handed copying my server by using the xenon codes he has been declared as a __Traitor of the State__ for his actions and using my Channel format without my permission. He might also be responsible for the nuking of the Server with him is the tsar of Russia Felix and probably the French emperor disguised as a cardinal cuz those two hate me for a reason I don't know why. @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+Waaaaa (6) stronk (7) Suspicious (5) Revenge (5) yikes (8) 🇨 (7) 🇷 (6) 🇺 (6) 🇸 (6) 🇦 (6) 🇩 (6) 🇪 (6) ✝️ (4) 👎 (2) 🤨 (2)
+
+[11-Jun-20 01:00 AM] Pope Benedict XV#0904
+Thou shall pay for this
+
+[11-Jun-20 01:00 AM] Pope Benedict XV#0904
+:stronk:
+
+{Reactions}
+stronk (13)
+
+[11-Jun-20 01:02 AM] Pope Benedict XV#0904
+Yes crusade
+
+[11-Jun-20 01:02 AM] Pope Benedict XV#0904
+We shall see about that
+
+{Reactions}
+🇱 (4)
+
+[11-Jun-20 01:02 AM] Pope Benedict XV#0904
+Deus vult
+
+{Reactions}
+🇩 (10) 🇪 (10) 🇺 (10) 🇸 (10) 🇻 (9) 🆙 (9) 🇱 (9) 🇹 (9) ❕ (7)
+
+[11-Jun-20 03:31 AM] Pope Benedict XV#0904
+Blames above ^ might be wrong so :p
+
+{Reactions}
+Annoyed_Squidward (3)
+
+[14-Jun-20 02:45 AM] Pope Benedict XV#0904
+@everyone spread this to every server your in
+Dont install Thunder VPN
+It is a app that was made by DARK web Users,this is no joke
+So they can IP track you and kill you
+That's what exactly happened to Orcus bat who is our ally
+If you dont want what he got sadly 
+Spread the news and keep away from this app
+Thank you from
+
+@【𝐓𝐅𝐑】Jarry the spider god
+
+{Reactions}
+oh_shit (8)
+
+[14-Jun-20 02:45 AM] Pope Benedict XV#0904
+^ imp
+
+[15-Jun-20 02:58 AM] Pope Benedict XV#0904
+Everyone it's time for a skribbl.io event! __Note: please use your discord Username__
+https://skribbl.io/?cBIqHWrXQJbx @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Embed}
+https://skribbl.io/?cBIqHWrXQJbx
+skribbl - Free Multiplayer Drawing & Guessing Game
+skribbl io is a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world! Score the most points and be the winner!
+https://skribbl.io/res/thumbnail.png
+
+
+{Reactions}
+👍
+
+[15-Jun-20 03:00 AM] Pope Benedict XV#0904
+There was a small issue
+
+[15-Jun-20 03:01 AM] Pope Benedict XV#0904
+Our belarussian allies had to shut the game down for some reasons
+
+[15-Jun-20 03:01 AM] Pope Benedict XV#0904
+I will try making a private session
+
+[15-Jun-20 03:01 AM] Pope Benedict XV#0904
+Till then stay tuned!
+
+[15-Jun-20 03:02 AM] Pope Benedict XV#0904
+New link
+
+[15-Jun-20 03:15 AM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 sorry for the second ping here is the new link
+
+{Reactions}
+🇴 (2) 🇰 (2)
+
+[15-Jun-20 03:15 AM] Pope Benedict XV#0904
+https://skribbl.io/?sVIb9JrI2gvm
+
+{Embed}
+https://skribbl.io/?sVIb9JrI2gvm
+skribbl - Free Multiplayer Drawing & Guessing Game
+skribbl io is a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world! Score the most points and be the winner!
+https://skribbl.io/res/thumbnail.png
+
+[15-Jun-20 03:16 AM] Pope Benedict XV#0904
+^ join m8
+
+[15-Jun-20 03:22 AM] Pope Benedict XV#0904
+Oof lost connection
+
+[15-Jun-20 03:37 AM] Pope Benedict XV#0904
+—session over—
+
+[15-Jun-20 03:37 AM] Pope Benedict XV#0904
+Lmao
+
+[15-Jun-20 03:37 AM] Pope Benedict XV#0904
+It was fun
+
+[15-Jun-20 11:31 PM] Pope Benedict XV#0904
+Dear people we are this '-' close to getting 150 members and reach back to our glorious potential we have almost recovered. The first one to make us reach 150 get's a promotion and a medal from the pope @lilKing or me @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[15-Jun-20 11:34 PM] Pope Benedict XV#0904
+:Pinched_Fingers:
+
+{Reactions}
+Pinched_Fingers (11)
+
+[16-Jun-20 01:18 AM] Pope Benedict XV#0904
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/722334372388143194/Screenshot_20200616-101457_Discord.jpg
+
+{Reactions}
+mega_laugh (2) epik (2)
+
+[16-Jun-20 05:30 AM] Pope Benedict XV#0904 (pinned)
+Dear people we finally reached 150 memebers and the competition I told you about the first person to invite the 150th member yeah the first one was me so
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/722397728663142440/20200616_142934.png
+
+{Reactions}
+mega_laugh (11) Bruh_Moment (6)
+
+[16-Jun-20 05:31 AM] Pope Benedict XV#0904
+You can question about where I learned such epic cropping skills later
+
+[16-Jun-20 05:31 AM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 Announcement #📢╔﹝main-announcements
+
+[16-Jun-20 05:44 AM] Pope Benedict XV#0904
+It's hard for Android ya know
+
+[16-Jun-20 05:45 AM] Pope Benedict XV#0904
+Pinned a message.
+
+[17-Jun-20 01:47 AM] Pope Benedict XV#0904
+Dear members today I am very sad a close friend of mine @the_soviet_slav is no more... He commited suicide... I tried to stop him but his mental condition worsened and I couldn't do anything... oh god... I shall pray for his family... @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+✝️ (32) 🙏 (29) ☦️ (3)
+
+[17-Jun-20 01:47 AM] Pope Benedict XV#0904
+🙏
+
+[17-Jun-20 01:47 AM] Pope Benedict XV#0904
+Pray for him and his family everyone
+
+{Reactions}
+🙏 (30)
+
+[17-Jun-20 01:48 AM] Pope Benedict XV#0904
+It shows he is online
+
+[17-Jun-20 01:48 AM] Pope Benedict XV#0904
+I am not sure
+
+[17-Jun-20 01:48 AM] Pope Benedict XV#0904
+He didn't reply
+
+[17-Jun-20 01:48 AM] Pope Benedict XV#0904
+He showed a picture of cuts
+
+[17-Jun-20 01:48 AM] Pope Benedict XV#0904
+On his hand
+
+[17-Jun-20 01:49 AM] Pope Benedict XV#0904
+Rip
+
+[17-Jun-20 02:09 AM] Gellert Grindelwald#0897
+This is not fake
+
+[17-Jun-20 11:42 PM] Pope Benedict XV#0904
+Shall we have a passport for the vatican and where people get there passports through applications and you can use these passports in other nation roleplays also. And should we have a self promotion channel?
+
+•I agree with having the passport system and the self promotion channel 👍 
+•I agree with having a passport system but not a self promotion channel ☝️
+•I agree with having a self promotion channel but not the passport system ✌️
+•I disagree with both 👎
+
+{Reactions}
+👍 (26) ☝️ (7) ✌️ (4) 👎 (3)
+
+[17-Jun-20 11:43 PM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[17-Jun-20 11:44 PM] Pope Benedict XV#0904
+Ping
+
+[18-Jun-20 05:25 AM] Pope Benedict XV#0904
+K
+
+[18-Jun-20 05:25 AM] Pope Benedict XV#0904
+Majority wins
+
+[19-Jun-20 12:51 PM] Pope Benedict XV#0904
+If you are wondering why am I not able to do the above stuff the reason is that I got exams I will try to complete the stuff by Sunday and also try to start the Elections (+mayor elections) soon my exams shall end on __24th June__ but I will try to complete the following work before that. Till then keep the server active and keep Inviting people for the nation. @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+👍 (9)
+
+[19-Jun-20 01:29 PM] Pope Benedict XV#0904
++poll exams gey
+
+{Reactions}
+👍 (4) 👎 🤷
+
+[19-Jun-20 01:29 PM] Pope Benedict XV#0904
+Lol
+
+[19-Jun-20 01:30 PM] Pope Benedict XV#0904
+Does anyone even check this > #🐦╠﹝vatican-news-twitter ?
+
+{Reactions}
+👍 (4) gay (2)
+
+[19-Jun-20 02:46 PM] Gellert Grindelwald#0897
+yes
+
+[20-Jun-20 11:39 PM] Pope Benedict XV#0904
+Yes
+
+[21-Jun-20 02:22 AM] Pope Benedict XV#0904
+**Announcement**
+
+The #🛂╚﹝passport-application channel is now open check out it's template from #🛂╔﹝template **REMEMBER ALL CITIZENS NEED TO HAVE THE PASSPORT AFTER YOUR PASSPORT IS READY MAKE SURE TO SAVE IT SOME WHERE.** the #╠﹝self-advertisement channel is also open now. __My plans for today:__ **•reworking the entire administration system** @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[21-Jun-20 02:22 AM] Pope Benedict XV#0904
+Get your passports from #🛂╚﹝passport-application
+
+[21-Jun-20 07:03 AM] Pope Benedict XV#0904
+Currently a vote is being held in the HQs of the Political parties from #📑╔﹝list-of-parties tell me your name in your respective party HQs if you are Interested in becoming a candidate for Elections. The Elections shall be held tommorow **Hopefully** @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[22-Jun-20 12:36 AM] Pope Benedict XV#0904
+If anyone sent you the following message:
+
+Hello, this is a message from the discord creator and he tells you a little bit about what will happen on discord on July 23rd. Please do not send it back to the person you received it. Dear Discord members, Discord is supposed to close on November 7, 2020 because it has become too populated. Many members complained that the discord has become very slow. Indicate that there are many active members of the discord but also many new members. We will send this message to see if the members are active or not. If you are active, please send to 15 other users using copy and paste to show that you are still active. Those who do not send this message within 2 weeks will be deleted without hesitation to make more room. Send this message to all your friends to show you're still active and you will not be deleted.
+
+{Reactions}
+yikes (8) rich_laugh (6) 🤦‍♂️ (9) retard (5)
+
+[22-Jun-20 12:36 AM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[22-Jun-20 01:25 AM] Pope Benedict XV#0904
+Does anybody even know this exists ↓
+
+[22-Jun-20 01:26 AM] Pope Benedict XV#0904
+#╠﹝self-advertisement
+
+[22-Jun-20 02:14 AM] Pope Benedict XV#0904
+Turns out that thing I posted was fake
+
+[22-Jun-20 02:14 AM] Pope Benedict XV#0904
+Sorry for ping
+
+{Reactions}
+😂 (4) 👌 (4) Bruh_Moment (4)
+
+[22-Jun-20 02:14 AM] Pope Benedict XV#0904
+:p
+
+[22-Jun-20 05:46 AM] Pope Benedict XV#0904
+**__🇻🇦FIFTH GENERAL PAPAL ELECTIONS🇻🇦__**
+
+ℹ️ Elections are held every 2 weeks. This election is for selecting general secretaries for the   
+       state. If you want to know about the Political parties of our nation check out this channel
+       #📑╔﹝list-of-parties .
+
+**__☑️ go to the channel #🧧╚﹝vote-confirmation to confirm your vote by saying 'I Voted'__
+
+🌟**NOTE: IF YOU DO NOT SAY __'I VOTED'__ IN THE #🧧╚﹝vote-confirmation        
+      CHANNEL YOUR VOTE WILL NOT BE COUNTED**
+
+🔗Voting link: https://forms.gle/zSCbAjFHjioUZFoe6   __Voting shall end in 48 hours__ 
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Embed}
+https://forms.gle/zSCbAjFHjioUZFoe6
+Fifth General Papal Elections
+Election will end in 48 hours
+https://lh5.googleusercontent.com/Eqgq1S06UFi3Ll2iXCm_cK4bfr_74ec-2M9PE8iR1PUzSkiqDlJSx6Rwmp5BoBpws3FbgJ4=w1200-h630-p
+
+
+{Reactions}
+👍 (7)
+
+[24-Jun-20 05:09 AM] Pope Benedict XV#0904
+__**Election Results**__
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/725291547838513182/Screenshot_20200624-140835_Chrome.jpg
+
+[24-Jun-20 05:14 AM] Pope Benedict XV#0904
+**results**
+1. @—God's Party— (winner) 12 votes
+2. @—National Unionist Party of the Papal States— 5 votes
+3. @—International Monarchist Party— @—United Right Wing— (tie) 4 votes
+4. @—United Libertarian Front(left-wing)— 3 votes
+
+[24-Jun-20 05:15 AM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 election results are out! #📢╔﹝main-announcements
+
+{Reactions}
+GWjiangoOmegaLUL (6) noice (7) 👍 (7) stronk (4) cri (5)
+
+[24-Jun-20 05:16 AM] Pope Benedict XV#0904
+New @✠Secretary of State✠ @Gellert Grindelwald
+
+[24-Jun-20 05:18 AM] Gellert Grindelwald#0897
+Grazie
+
+[24-Jun-20 05:19 AM] Gellert Grindelwald#0897
+Et benedictio Dei omnipotentis: Patris et Filii et Spiritus sancti descendat super vos et maneat semper.
+
+[25-Jun-20 05:03 PM] Gellert Grindelwald#0897
+Pray for @the_soviet_slav  grandma.
+
+[25-Jun-20 05:03 PM] Gellert Grindelwald#0897
+Ave Maria, gratia plena, Dominus tecum.
+Benedicta tu in mulieribus, et benedictus fructus ventris tui, Jesus.
+Sancta Maria, Mater Dei, ora pro nobis peccatoribus,
+nunc et in hora mortis nostrae. Amen.
+
+[26-Jun-20 03:27 AM] Pope Benedict XV#0904
+Amen
+
+[26-Jun-20 03:51 AM] Pope Benedict XV#0904
+Anybody who is __responsible, active and not in any political party__ who wants to be a candidate for @Legate of Papal Mainland ? Till now we only have two candidates one is @Otto and the other is @Alexandrina Victoria governorship elections are on sunday. __DM me if you want to be candidate__. Basically what the governor does is take care of #⭐╠﹝roma when the pope the server owner other admins are offline. @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[28-Jun-20 02:06 AM] Pope Benedict XV#0904
+-wyr
+
+[28-Jun-20 02:06 AM] YAGPDB.xyz#8760
+**Would you rather** (*<http://either.io>*)
+🇦 Punch a pilgrim
+ **OR**
+🇧 Eat an avocado
+
+{Reactions}
+🇦 (2) 🇧 (10)
+
+[28-Jun-20 05:07 AM] Pope Benedict XV#0904
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/726740673830715443/tenor_1.gif
+
+{Reactions}
+Omega_Lul (3)
+
+[28-Jun-20 05:19 AM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 okay I am asking this again does anyone want to be candidate for governor of Rome? Remember __the person shouldn't be in any political party #📑╔﹝list-of-parties __. You will be part of the administration, in charge of the police and maintaining law and order in #⭐╠﹝roma dm me if you want to be a candidate tell quick as Elections for governorship is today
+
+{Reactions}
+ok (6) ping_blob (8)
+
+[28-Jun-20 05:20 AM] Pope Benedict XV#0904
+Tell quick
+
+[28-Jun-20 05:20 AM] Pope Benedict XV#0904
+Or I will eat all your cookies
+
+[28-Jun-20 05:20 AM] Pope Benedict XV#0904
+:p
+
+[29-Jun-20 04:03 AM] Pope Benedict XV#0904
+__**🏛️Vote for a Governor🏛️**__
+
+🇦 @AidenplayrobloxYT 
+🇧 @Alexandrina Victoria 
+🇨 @𝕃𝕖𝕘𝕚𝕠𝕟 
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+🇦 🇨 (15) 🇧
+
+[29-Jun-20 04:04 AM] Pope Benedict XV#0904
+Sorry for the ping :p
+
+[30-Jun-20 06:49 AM] Pope Benedict XV#0904
+**Results**
+1st Governor of Rome is @𝕃𝕖𝕘𝕚𝕠𝕟
+
+[30-Jun-20 07:12 AM] Pope Benedict XV#0904
+**Announcement**
+To make this more fun for party members, suppose your party looses in the Elections or you don't get choosen as a candidate for the Elections we have got another opportunity for you is the #🏘-╚﹝the-citizens-council and the Governorship Elections, pass bills here to make new changes or encourage people to vote for you. Either the people can give your name or either you will be choosen by me or the pope. 
+
+**Vote Below**
+👍I like this new change.
+
+👎I do not like this new change
+
+😐neutral 
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+👍 (9) 👎 (2) 😐 (3)
+
+[30-Jun-20 07:13 AM] Pope Benedict XV#0904
+Managing a server is tiring oof
+
+{Reactions}
+oof (3)
+
+[30-Jun-20 08:31 AM] Pope Benedict XV#0904
+#💬╔﹝political-debates #💬╠﹝historical-debates #💬╚﹝other-topics  #🌍╔﹝custom-maps #🌎╚﹝mappers-lounge #🤖╚﹝music-commands exists make it look like it exists
+
+[30-Jun-20 08:31 AM] Pope Benedict XV#0904
+Lol
+
+[30-Jun-20 09:35 AM] Pope Benedict XV#0904
+Can someone boost my server please?
+
+[30-Jun-20 09:48 AM] Pope Benedict XV#0904
+Of course you will get rewards for that :D
+
+[30-Jun-20 11:43 PM] Pope Benedict XV#0904
+7 members more to 200
+
+[01-Jul-20 12:04 AM] superiorob#1422
+We are **5** members away from 200!
+
+[01-Jul-20 02:44 AM] Pope Benedict XV#0904
+We are going to holds music festival in Rome's music hall when we reach 200 all guests royals, citizens are invited! We have to make this as glorious as possible remember classical music only.
+
+[01-Jul-20 02:44 AM] Pope Benedict XV#0904
+#🤖╚﹝music-commands
+
+[01-Jul-20 02:44 AM] Pope Benedict XV#0904
+We shall have feasts!
+
+[01-Jul-20 08:00 AM] superiorob#1422
+We are **2** members away from 200!
+
+{Reactions}
+👍 (4)
+
+[01-Jul-20 05:03 PM] Grilo#1847
+https://discord.com/channels/307917498177552385/344932573425827861/726887781326127156
+
+[01-Jul-20 05:03 PM] Grilo#1847
+Join the diarchy and star brentons message!
+
+[01-Jul-20 11:14 PM] Pope Benedict XV#0904
+**Just 2 members more for 200**
+
+[02-Jul-20 12:19 AM] Pope Benedict XV#0904
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/728117601552564234/video0.mp4
+
+[02-Jul-20 12:40 AM] Pope Benedict XV#0904
+🎊We reached 200!🎉 And also we are going to hold a music Festival (only classical music in vc) all are invited! We will even watch a movie! Probably kingdom of heaven the time is still being decided. @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+👍 (12) 🎊 (4)
+
+[02-Jul-20 04:54 AM] Pope Benedict XV#0904
+dear citizens its time for a music festival in celebration of reaching 200 members!!! #🤖╚﹝music-commands and join the music hall @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+{Reactions}
+🦍 (5)
+
+[02-Jul-20 04:55 AM] Pope Benedict XV#0904
+no hoi 4 @Sir Oswald Mosley
+
+[02-Jul-20 04:55 AM] Pope Benedict XV#0904
+lol
+
+[02-Jul-20 04:58 AM] Pope Benedict XV#0904
+JOIN BOIS
+
+{Reactions}
+🇳 (6) 🇴 (6)
+
+[02-Jul-20 05:38 AM] Pope Benedict XV#0904
+all right the stream was a fail i will plan it out carefully on saturday
+
+[02-Jul-20 05:38 AM] Pope Benedict XV#0904
+f
+
+[02-Jul-20 05:39 AM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+yes
+
+[02-Jul-20 05:39 AM] Pope Benedict XV#0904
+for some reason the stream audio was silenced
+
+[02-Jul-20 05:39 AM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+there is especially a problem when you announce it last minute
+
+[02-Jul-20 05:39 AM] Pope Benedict XV#0904
+i tried playing a movie
+
+[02-Jul-20 05:40 AM] Pope Benedict XV#0904
+but the audio was not audible
+
+[02-Jul-20 05:40 AM] Pope Benedict XV#0904
+couldnt hear anything nor could the audience
+
+[02-Jul-20 05:40 AM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+i see
+
+[02-Jul-20 05:40 AM] Pope Benedict XV#0904
+could u stream perhaps cuz i am new to this i wanna watch kingdom of heaven
+
+[02-Jul-20 05:41 AM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+is it free on youtube
+
+[02-Jul-20 05:41 AM] Pope Benedict XV#0904
+yes
+
+[02-Jul-20 05:41 AM] Pope Benedict XV#0904
+dms
+
+[02-Jul-20 05:41 AM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+good
+
+[04-Jul-20 11:48 AM] Pope Benedict XV#0904
+**The one who boosts our server shall be rewarded heavily**
+
+[04-Jul-20 11:48 AM] Pope Benedict XV#0904
+:Bishop:
+
+[04-Jul-20 12:24 PM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+Who's that
+
+[04-Jul-20 12:31 PM] Grilo#1847
+Salve Everyone i got an annoucement. 
+The BLUE WHALE CHALLENGE is back, this is a serious issue and countless people have died/ put their life at risk. These people know your IP address and who your family/loved ones are.
+
+How do I stay safe
+I understand many of you would be scared of this issue, but I will give you some life saving steps to save you.
+• DO NOT accept any FRIEND REQUESTS from ANYONE.
+• DO turn off your DMs if you can, if you can't, please follow the above step.
+• The challenge starts off with them asking you to play a game. Do not reply to them and block them and report them IMMEDIATELY
+• Please do not try and joke with them as A SINGLE DM is all it takes for them to get your information. 
+
+Is it only happening on discord?
+No, it is happening on all social media platforms, the main person who will DM you is someone by the name of Jonathan Galindo.
+
+What happens?
+If you say yes to their games, they will challenge you to do 50 things. Each challenge gets more disturbing as it goes on. They ask for picture evidence and if you don't give it they come for you and your family. The 50th challenge is.... to kill yourself... As you can see this is serious and shouldn't be taken lightly. I guess you could say this is the Momo challenge again but this time with real consequences.
+
+and finally, please DO NOT even joke with them. They are serious! People have seriously died from this challenge!
+Be safe everyone!
+
+[04-Jul-20 01:37 PM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+Cursed demons . May they suffer in hell ! What will children commiting suicide give them ?
+
+[05-Jul-20 08:20 AM] Pope Benedict XV#0904
+Uh?
+
+[05-Jul-20 08:51 AM] Pope Benedict XV#0904
+Lemme verify
+
+[05-Jul-20 08:59 AM] Pope Benedict XV#0904
+@𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯 yeah I don't think that's real
+
+[05-Jul-20 08:59 AM] Pope Benedict XV#0904
+@Grilo
+
+[05-Jul-20 09:23 AM] Pope Benedict XV#0904
+Wait nvm that's real
+
+[05-Jul-20 09:24 AM] Pope Benedict XV#0904
+Not sure tho I asked the mods of discord about it they didn't reply
+
+[05-Jul-20 11:39 AM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+All right
+
+[05-Jul-20 11:39 AM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+Good
+
+[06-Jul-20 08:55 AM] Pope Benedict XV#0904
+@𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯 it's is not real mods answered finnaly
+
+[06-Jul-20 12:16 PM] Pope Benedict XV#0904
+Tommorow is the election so heads up party members!
+__Side Note: after the elections are over someone who is leftist can make a leftist party which allows religon (there are many leftist ideologies which allow religon) make the party here when Elections are over #🏛-╠﹝make-a-party template #🤔╠﹝how-to-make-a-party  __
+
+[07-Jul-20 08:42 AM] Pope Benedict XV#0904
+__🇻🇦SIXTH GENERAL PAPAL ELECTIONS🇻🇦__
+
+ ℹ️ Elections are held every 2 weeks. This election is for selecting general secretaries for the   
+       state. If you want to know about the Political parties and coalitions of our nation go to    
+        this channel  #📑╔﹝list-of-parties .
+
+☑️ go to the channel #🧧╚﹝vote-confirmation to confirm your vote by saying 'I Voted'
+
+🌟 **NOTE: __IF YOU DO NOT SAY 'I VOTED' IN THE #🧧╚﹝vote-confirmation        
+      CHANNEL YOUR VOTE WILL NOT BE COUNTED**__
+
+🔗Voting link: https://forms.gle/1v181EhovPT8Cxnn7 **__Voting shall end in 48 hours__**
+
+{Embed}
+https://forms.gle/1v181EhovPT8Cxnn7
+SIXTH GENERAL PAPAL ELECTIONS
+48 hours till Elections are closed
+https://lh4.googleusercontent.com/HzR9zNNgytYg8o3STfHIryVG054kSeMdFTDB2MjO1TKKQzc1cB4Pf9EB6j3h1XAy2Q9KGIM=w1200-h630-p
+
+[07-Jul-20 08:43 AM] Pope Benedict XV#0904
+@everyone sorry for delaying the elections here is the link start voting! __Don't forget to say ' I voted ' in the #🧧╚﹝vote-confirmation channel __ **or your vote will not be counted**
+
+{Reactions}
+z_estes (3) noice (2)
+
+[09-Jul-20 08:55 AM] Pope Benedict XV#0904
+__**Results**__
+(Coalition)The Hand of God: 9 votes
+(Coalition)The Line of Resistance: 7 votes
+(Party) The Libertarian Front (Left wing): 1 vote (•_•)
+__Winner: The Hand of God__ @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 results are out!
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/730784154349994014/Screenshot_20200709-174003_Chrome.jpg
+
+[09-Jul-20 08:55 AM] Pope Benedict XV#0904
+F for the parties who could not win
+
+{Reactions}
+🇫 (8) cri (3)
+
+[09-Jul-20 09:03 AM] Pope Benedict XV#0904
+#👌╠﹝disboard-bump bump ze server
+
+[09-Jul-20 09:12 AM] Pope Benedict XV#0904
+Ok Is anybody leftist here who is willing to make a political party?
+
+[09-Jul-20 01:05 PM] Pope Benedict XV#0904
+Ok it is done
+
+[09-Jul-20 01:06 PM] Pope Benedict XV#0904
+Can someone have the courtesy of boosting my server?
+
+[09-Jul-20 01:22 PM] Gellert Grindelwald#0897
+lol nope
+
+[09-Jul-20 01:24 PM] Pope Benedict XV#0904
+@Gellert Grindelwald boost pls :D
+
+[09-Jul-20 01:24 PM] Pope Benedict XV#0904
+Ofc u get promotions if you no boost you no true to church :(
+
+[11-Jul-20 11:37 AM] Pope Benedict XV#0904
+Okay
+
+[11-Jul-20 11:37 AM] Pope Benedict XV#0904
+Anybody has any ideas for events, competitions, live streams etc that you guys wanna have pls DM me and let me know.
+
+[11-Jul-20 11:39 AM] Pope Benedict XV#0904
+We can have monthly fights in #🤺╠﹝the-colloseum and the person can put bets for their chance to win, something like a tournament where anyone can participate and win awards also get a tournament winner role?
+
+{Reactions}
+👍 (8) 👎
+
+[11-Jul-20 11:39 AM] Pope Benedict XV#0904
+How is that idea? vote above and let me know
+
+[12-Jul-20 11:22 AM] lilKing#8722
+@here **I as your Holy Pope Pius XI will Resign next week, as of course my inactivity has been noticed but my diplomacy with our friends has been known widely. I want to say this, I always wanted a crusade but to be honest what I really wanted was not a Holy War but Equality Set amongst every man, woman, and child in the Papal States. I always was an accepting Bishop and no matter if your gay, trans, or an attack helicopter God will still love you. It breaks my heart that I have to do this but it’s only for the best of the church and the future of Rome. Thank you and God bless you all.**
+
+{Reactions}
+👍 (13) Flushed_Thonk (8) doge_2 (5) doge_1 (5) doge_3 (5) salute (6) 🚁 (2)
+
+[12-Jul-20 11:55 AM] Pope Benedict XV#0904
+Thank you for serving us your service will be remembered
+
+{Reactions}
+👍 (2) Pinched_Fingers (2)
+
+[13-Jul-20 09:35 PM] lilKing#8722
+My great and wonderful citizens, we will be preparing for a **CRUSADE** for this action I’m postponing my resignation until further notice. I will announce our military leaders soon and the Holy League, we will bring order back into the world and we will start by preparing ourselves so we can be able to fight. So let’s come together and fight the heresy of insurgence once in for all! (More detail will come later, Deus Vult!)
+
+{Reactions}
+😡 (2) 👍 (7) dorime (2)
+
+[13-Jul-20 09:35 PM] lilKing#8722
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[14-Jul-20 09:21 AM] Pope Benedict XV#0904
+Bruh
+
+[14-Jul-20 09:21 AM] Pope Benedict XV#0904
+The holy league is dead I am dissolving it
+
+{Reactions}
+Cursed (6)
+
+[14-Jul-20 04:33 PM] lilKing#8722
+Ok that’s fine...DEUS VULT:Frick:
+
+[16-Jul-20 07:12 AM] lilKing#8722
+**If there’s anyone who knows how to create bots, I want you to join this server and if you help the leader out I’ll give you a promotion** https://discord.gg/UsnC2W
+
+[16-Jul-20 07:12 AM] lilKing#8722
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦
+
+[16-Jul-20 07:41 AM] lilKing#8722
+As the only person to help the Pope’s friend when he was in need, @JohnBall I hereby grant you the rank of Cardinal Deacon. May god grant your path to victory.
+
+[16-Jul-20 09:39 AM] Pope Benedict XV#0904
+DM me if you have a passport from the papal states. @👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 (if you don't fill the format out here #🛂╚﹝passport-application the format #🛂╔﹝template )
+
+[17-Jul-20 05:15 PM] superiorob#1422
+Okay so if anyone is experiencing issues with bots or discord itself there is an outage with Cloudfare, and since Cloudfare apparently owns half the internet we will have to wait until it’s back up.
+
+{Reactions}
+👍 (2)
+
+[18-Jul-20 10:51 AM] Pope Benedict XV#0904
+Oh my
+
+[18-Jul-20 11:31 AM] Pope Benedict XV#0904
+May 30th, 1914, Southern Italy was bought under the fold of the Papal States. Papal Casualties: 20,000, Scandinavian Casualties(our allies @Deleted User's nation ) : 25,000 , Naples's (owns whole of south Italy at that time) : 31,000. hence winning the war, the Pope sparred the lives of all napaleese citizens and gave them papal Citizenship and released all POW. This news was highly appreciated by the napaleese people and the nations of Europe.
+
+[18-Jul-20 11:43 AM] Pope Benedict XV#0904
+We are planning to make south Italy a seperate place(a seperate category which includes factories, a new place to build properties and a new place to talk with fellow citizens of the papal states) every 2 weeks elections will be held for a legate(governor) for Naples hence making a role called "Naples resident" this won't seperate the people and they can vote in elections for legate(governor) of Rome as all Napal residents have Papal Citizenship. 
+
+Do you support this? 
+
+Yes :Bishop: 
+No :Suspicious:
+
+{Reactions}
+Bishop (27) Suspicious (10) 😐
+
+[18-Jul-20 11:43 AM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 #📢╔﹝main-announcements
+
+[18-Jul-20 01:27 PM] lilKing#8722
+I endorse this idea
+
+[19-Jul-20 11:01 AM] Pope Benedict XV#0904
+Forget that we must prepare for war
+
+[19-Jul-20 11:10 AM] Pope Benedict XV#0904
+__We are at war__
+
+An announcement from our ally @Lusitano 
+Declaration of War:-
+
+Brazil has today shown its greatest weakness. After trying to make a deal with the brazillian leader, he send a war declaration and that wont be tolerated. Any side supporting Brazil will have the same fate as them.
+
+If you're found working for Brazil, you'll be banned forever.
+
+Brazillian war declaration: https://docs.google.com/document/d/1H1DJQb4tUW4pCfK3ZhDyoGpovZU1RXJmoq56sl6s2bI/edit?usp=drivesdk
+
+
+In support of our ally portugal I declare war on Brazil and jail the members of @House of Namviet (Brazil) . Anyone found working for the the __FEDERAL EMPIRE OF BRAZIL__ SHALL BE JAILED.
+
+May god be with us and our allies.
+Long Live the Holy Mother church! @everyone
+
+{Embed}
+https://docs.google.com/document/d/1H1DJQb4tUW4pCfK3ZhDyoGpovZU1RXJmoq56sl6s2bI/edit?usp=drivesdk
+Official Message to portugal and the world
+Official Declaration of War.  Declared on July 18, 2020   The Federal Empire of Brazil declares official state of war and total broken relations with the Portuguese Empire and the portuguese allies.  Any Nation including the I.W.O Military of the Iberian Union, that join the w...
+https://lh5.googleusercontent.com/ER4WyV11u_LGhjLjDhXZ0TKH3EtYL15fs5-aplQY2h3sO5S6s0gjMQuqNRoSDKXqSu3U9Hy3cg=w1200-h630-p
+
+
+{Reactions}
+👀
+
+[19-Jul-20 12:10 PM] lilKing#8722
+**DEUS VULT** ⚔️
+
+[20-Jul-20 12:36 AM] Foliamane#3308
+:salute:
+
+{Reactions}
+salute (2)
+
+[20-Jul-20 11:00 AM] Pope Benedict XV#0904
+Well
+
+[20-Jul-20 11:00 AM] Pope Benedict XV#0904
+Basically the war is over
+
+[20-Jul-20 11:00 AM] Pope Benedict XV#0904
+We won!
+
+[20-Jul-20 11:00 AM] Pope Benedict XV#0904
+A overpowered them
+
+[20-Jul-20 11:00 AM] Pope Benedict XV#0904
+And also because of this
+
+[20-Jul-20 11:00 AM] Pope Benedict XV#0904
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/734802042085703680/Screenshot_20200719-212208_Discord.jpg
+https://cdn.discordapp.com/attachments/712522549879111690/734802042551533658/Screenshot_20200719-212229_Discord.jpg
+https://cdn.discordapp.com/attachments/712522549879111690/734802042941472769/Screenshot_20200719-212240_Discord.jpg
+
+{Reactions}
+lmfno Monka_Pepe (4) 💪 (2)
+
+[20-Jul-20 11:29 AM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 more info. About the war^ the war might be over. As said by Imperador Hue. Me as a representative for the papal states, Lusitano and Hue shall have a meeting discussing the peace deals.
+
+{Reactions}
+salute (3)
+
+[20-Jul-20 11:29 AM] Pope Benedict XV#0904
+Yeah it was short and stupid lol but we still won!
+
+[20-Jul-20 11:31 AM] Pope Benedict XV#0904
+As shown above in the above images, yes. I fist fighted the emperor of Brazil and won :D
+
+[21-Jul-20 11:08 AM] Pope Benedict XV#0904
+It's Confirmed the The war is over
+
+[22-Jul-20 11:03 AM] Pope Benedict XV#0904
+We gained Epirus
+
+{Reactions}
+yes (11)
+
+[22-Jul-20 11:03 AM] Pope Benedict XV#0904
+From the war
+
+[26-Jul-20 11:07 AM] Pope Benedict XV#0904
+https://media.tenor.com/images/9c126396b5080ebc6245a887c8e6f68d/tenor.gif
+
+{Embed}
+https://media.tenor.com/images/9c126396b5080ebc6245a887c8e6f68d/tenor.gif
+https://media.tenor.com/images/9c126396b5080ebc6245a887c8e6f68d/tenor.gif
+
+
+{Reactions}
+Bishop (4) Monka_Pepe (4) Ming_Lul (4)
+
+[26-Jul-20 11:07 AM] Pope Benedict XV#0904
+:Ming_Lul:
+
+[26-Jul-20 01:11 PM] Pope Benedict XV#0904
+https://skribbl.io/?PZy1gTSQQpQ4 with @Depressed Montane 's server make sure to use your discord Username.
+
+{Embed}
+https://skribbl.io/?PZy1gTSQQpQ4
+skribbl - Free Multiplayer Drawing & Guessing Game
+skribbl io is a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world! Score the most points and be the winner!
+https://skribbl.io/res/thumbnail.png
+
+[26-Jul-20 01:12 PM] Pope Benedict XV#0904
+@📌Events📌
+
+[27-Jul-20 12:19 PM] Pope Benedict XV#0904
+**__ legate Elections__**
+
+ 🇦 @Canuelas Mapper [@—God's Party— and @—International Monarchist Party— ]
+🇧 @Delugeoflies  [@—United Libertarian Front(left-wing)—  ]
+🇨 @Sir Oswald Mosley [@—United Right Wing— and@—National Unionist Party of the Papal States— ]
+🇩 @Gated Reverb [ @—National Unity Party— ]
+
+{Reactions}
+🇦 (8) 🇧 (4) 🇨 (13) 🇩
+
+[27-Jul-20 12:26 PM] Pope Benedict XV#0904
+@👨‍👩‍👧‍👦Papal Citizens👨‍👩‍👧‍👦 last ping of the day
+
+{Reactions}
+Omega_Lul (14)
+
+[27-Jul-20 12:26 PM] Pope Benedict XV#0904
+(according to my time)
+
+[27-Jul-20 12:27 PM] Pope Benedict XV#0904
+Jesus the god's party has 48 members
+
+{Reactions}
+👀 (11)
+
+[27-Jul-20 12:31 PM] Pope Benedict XV#0904
+Chat revive pings will be setup and the new Naples category shall be worked on by tommorow
+
+{Reactions}
+dorime (8)
+
+[28-Jul-20 10:53 AM] Pope Benedict XV#0904
+__Legate Election results__
+
+Winner: @Sir Oswald Mosley ( @—United Right Wing— @—National Unionist Party of the Papal States— )
+
+{Reactions}
+happy (6) regional_indicator_woah (3) Thomas_smirk (3) noice (4) nice (6) epik (3) cri (3) salute (2)
+
+[28-Jul-20 10:53 AM] Pope Benedict XV#0904
+Congrats 👏
+
+[31-Jul-20 07:40 AM] Pope Benedict XV#0904
+New passport template
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/738737946458325132/20200730_165728.jpg
+
+[01-Aug-20 05:21 AM] Alexios VI(In Exile)#6212
+The Pope is about to go into battle (a religious debate), I will inform you of the outcome after it is over
+
+[01-Aug-20 05:22 AM] Alexios VI(In Exile)#6212
+https://cdn.discordapp.com/attachments/558363021366525953/739062196633337907/Screenshot_20200521-142031_Chrome.jpg
+
+{Embed}
+https://cdn.discordapp.com/attachments/558363021366525953/739062196633337907/Screenshot_20200521-142031_Chrome.jpg
+https://cdn.discordapp.com/attachments/558363021366525953/739062196633337907/Screenshot_20200521-142031_Chrome.jpg
+
+[01-Aug-20 05:35 AM] superiorob#1422
+I will keep you up to date on the holy battle going on. Our glorious pope has marched alone with this opening statement.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/739068787256721448/image0.png
+
+[01-Aug-20 05:37 AM] superiorob#1422
+Our pope has continued to defend Christianity and explain to the heretics what he must explain.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/739069328921460776/image0.png
+
+[01-Aug-20 05:40 AM] superiorob#1422
+He continues to fight the good fight.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/739069979365998592/image0.png
+
+[01-Aug-20 05:46 AM] superiorob#1422
+He is conceding the battle!
+
+[01-Aug-20 05:46 AM] superiorob#1422
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/739071547704082462/image0.png
+https://cdn.discordapp.com/attachments/712522549879111690/739071548161392690/image1.png
+
+[01-Aug-20 05:50 AM] superiorob#1422
+Sadly, our server owner is becoming more passive and is allowing the enemy to speak their obviously flawed arguments without much restriction.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/739072535064215593/image0.png
+
+[01-Aug-20 05:50 AM] Alexios VI(In Exile)#6212
+This is too much, I cannot bear this
+
+[01-Aug-20 05:50 AM] Alexios VI(In Exile)#6212
+https://www.youtube.com/watch?v=VY58inWev0E
+
+{Embed}
+Supercalifragilisticexpialidocious
+https://www.youtube.com/watch?v=VY58inWev0E
+Cavalry charge - Bugle Call
+Cavalry charge   Bugle Call
+
+Thanks to: https://www.youtube.com/watch?v=czHqZFL7rKY
+https://i.ytimg.com/vi/VY58inWev0E/maxresdefault.jpg
+
+[01-Aug-20 05:50 AM] Alexios VI(In Exile)#6212
+@superiorob CHARGEEE
+
+[01-Aug-20 05:52 AM] superiorob#1422
+We will have to take the battle for ourselves, our pope has proved not fit for this.
+
+[01-Aug-20 05:52 AM] superiorob#1422
+Charge.
+
+[01-Aug-20 06:00 AM] Alexios VI(In Exile)#6212
+We will provide screenshots of what happened past this point when we are finished
+
+[01-Aug-20 06:27 AM] superiorob#1422
+There was a lapse in the fighting, and we turned around the battle without the help of our pope.
+
+[01-Aug-20 06:27 AM] superiorob#1422
+A glorious victory for our nation!
+
+[01-Aug-20 06:29 AM] superiorob#1422
+He kept speaking of how if religion is real, everything must be perfect and such, and all of this below.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/739082317678510080/image0.png
+
+[01-Aug-20 06:29 AM] superiorob#1422
+So alexios came back with this message, and pretty much ended the argument, with help from myself and foliamane.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/739082423869898752/image0.png
+
+[01-Aug-20 06:56 AM] Pope Benedict XV#0904
+Wow.
+
+[01-Aug-20 06:56 AM] Pope Benedict XV#0904
+This was going on
+
+[01-Aug-20 06:58 AM] Pope Benedict XV#0904
+@superiorob @Alexios VI(In Exile) uh?
+
+[01-Aug-20 06:58 AM] superiorob#1422
+?
+
+[01-Aug-20 06:59 AM] Pope Benedict XV#0904
+Okay this was going on okay then
+
+[01-Aug-20 09:08 AM] lilKing#8722
+Lol
+
+[06-Aug-20 11:22 AM] Ice water#1632
+https://discord.gift/fYEfzAAZ2PtknaeQ
+
+[06-Aug-20 11:22 AM] Ice water#1632
+free nitro
+
+[06-Aug-20 11:22 AM] Ice water#1632
+:DD hope i made ur day
+
+[06-Aug-20 11:23 AM] Foliamane#3308
+:Sad_Kot:
+
+[06-Aug-20 11:24 AM] Ice water#1632
+**now increase server activity or die**
+
+[06-Aug-20 11:24 AM] superiorob#1422
+no lol
+
+[06-Aug-20 11:24 AM] Foliamane#3308
+Oh, if that's why you're giving nitro I don't want it
+
+[06-Aug-20 11:25 AM] Ice water#1632
+no lol
+
+[06-Aug-20 11:25 AM] Ice water#1632
+i had money so i used it to gift nitro to ppl
+
+[06-Aug-20 11:25 AM] Foliamane#3308
+Ahhh
+
+[06-Aug-20 11:26 AM] Ice water#1632
+didnt use it myself though 😔
+
+{Reactions}
+Waaaaa
+
+[06-Aug-20 11:26 AM] Foliamane#3308
+:yikes:
+
+[06-Aug-20 11:26 AM] superiorob#1422
+cardinal palpatine i will promote if you dm me gift link
+
+[06-Aug-20 11:27 AM] superiorob#1422
+to patriarch
+
+[06-Aug-20 11:32 AM] superiorob#1422
+@Ice water
+
+[06-Aug-20 11:33 AM] superiorob#1422
+Or actually
+
+[06-Aug-20 11:33 AM] superiorob#1422
+Advisor of pope
+
+[06-Aug-20 11:40 AM] Ice water#1632
+@superiorob no
+
+[06-Aug-20 11:40 AM] Ice water#1632
+i have 0 money
+
+[06-Aug-20 11:40 AM] Ice water#1632
+i spent all on gifting boosts whilst i didnt use any to buy for my own nitro
+
+[06-Aug-20 11:41 AM] Ice water#1632
+i am good kind boi be like me
+
+{Reactions}
+Waaaaa (4)
+
+[06-Aug-20 01:08 PM] Delugeoflies#6811
+Nice work comrade redistributing all your wealth among the poor
+
+{Reactions}
+🆗
+
+[06-Aug-20 01:08 PM] Delugeoflies#6811
+A hero among men
+
+[07-Aug-20 02:23 AM] Ice water#1632
+yes
+
+[07-Aug-20 02:23 AM] Ice water#1632
+now if someone would be a comrade like me and donate me nitro how i did to others i would appreciate it
+
+[07-Aug-20 02:24 AM] Ice water#1632
+ok anyways
+
+[07-Aug-20 07:57 AM] Pope Benedict XV#0904
+I would be happy if people would boost the server with the nitro
+
+[07-Aug-20 08:46 AM] Ice water#1632
+@Pope Benedict XV pls promotion
+
+[07-Aug-20 09:39 AM] Pope Benedict XV#0904
+@Ice water pls search for partnerships and invite people:)
+
+[07-Aug-20 09:39 AM] Pope Benedict XV#0904
+Cuz I am not having enough time to spend on my server as I am trying to spend as much time with friends and family
+
+{Reactions}
+nice (3)
+
+[07-Aug-20 09:39 AM] Pope Benedict XV#0904
+Ahh stress
+
+{Reactions}
+👀
+
+[07-Aug-20 09:41 AM] Pope Benedict XV#0904
+Thanks to all members of the staff team who were showing loyalty to the server and it's people when I couldn't due to trying to spend as much time with family and friends and also thank your for helping it grow when I was absent
+
+{Reactions}
+nice (4)
+
+[07-Aug-20 09:44 AM] Ice water#1632
+Aww
+
+[11-Aug-20 01:59 AM] Alexios VI(In Exile)#6212
+In a week or so, when the project rob knows about is finished, I will be making a massive announcement I so far only told a few people in this server.
+
+[11-Aug-20 01:59 AM] Alexios VI(In Exile)#6212
+It will change the course of history in this server, and the surrounding servers.
+
+[11-Aug-20 06:06 AM] Ice water#1632
+Damn
+
+[11-Aug-20 06:06 AM] Ice water#1632
+Can you tell me more about it @Alexios VI(In Exile)?
+
+[11-Aug-20 10:32 AM] Pope Benedict XV#0904
+Hm
+
+[11-Aug-20 10:45 AM] Alexios VI(In Exile)#6212
+The reforms are not done yet so it would be hard to do it
+
+[11-Aug-20 10:46 AM] Pope Benedict XV#0904
+__🇻🇦SEVENTH GENERAL PAPAL ELECTIONS🇻🇦__
+
+ℹ️ Elections are held every 2 weeks. This election is for selecting general secretaries for the state. __If you want to know about the Political parties and coalitions of our
+nation go to this channel  #📑╔﹝list-of-parties .__
+
+☑️ go to the channel #🧧╚﹝vote-confirmation to confirm your vote by saying 'I Voted'
+
+🌟 NOTE: __IF YOU DO NOT SAY 'I VOTED' IN THE #🧧╚﹝vote-confirmation 
+CHANNEL YOUR VOTE WILL NOT BE COUNTED
+
+__🔗Voting link: https://forms.gle/LkoBoKG2qznXMpN28 **Voting shall end in 48 hours**
+
+{Embed}
+https://forms.gle/LkoBoKG2qznXMpN28
+Seventh General Papal Elections
+48 Hours till elections are closed
+https://lh6.googleusercontent.com/sV4iOijlk-1nO78rR0iXtCiia4zEb_ohM-vFl1pC4DTUI0DDb3vM4Cc_Q9A4UhKrG9oUeqk=w1200-h630-p
+
+[13-Aug-20 11:39 AM] Pope Benedict XV#0904
+RESULTS
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/743508969238168144/Screenshot_20200813-203721_Chrome.jpg
+https://cdn.discordapp.com/attachments/712522549879111690/743508969489694730/Screenshot_20200813-203833_FormsApp.jpg
+
+[13-Aug-20 11:41 AM] Pope Benedict XV#0904
+Winner:- 
+ @—God's Party— and @—International Monarchist Party— 
+New @✠Secretary of State✠ :
+ @King Edward I
+
+[13-Aug-20 11:41 AM] Pope Benedict XV#0904
+@everyone
+
+[13-Aug-20 02:18 PM] Alexios VI(In Exile)#6212
+Congratulations to King Edward 👏
+
+[13-Aug-20 02:19 PM] Alexios VI(In Exile)#6212
+And to anyone complaining about the vote seeming a bit off, two of the votes line of resistance had seems to have been suspicious
+
+[13-Aug-20 02:19 PM] Alexios VI(In Exile)#6212
+We are currently investigating them
+
+{Reactions}
+Suspicious (2)
+
+[13-Aug-20 02:25 PM] Alexios VI(In Exile)#6212
+In #🧧╚﹝vote-confirmation (using timestamps to tell which are for this election) notice something funny
+
+{Reactions}
+Waaaaa
+
+[13-Aug-20 02:25 PM] Alexios VI(In Exile)#6212
+there are more votes then people that confirmed
+
+[13-Aug-20 02:25 PM] Alexios VI(In Exile)#6212
+we suspect there may have been some election rigging going on
+
+{Reactions}
+Pepe_Jail (2)
+
+[13-Aug-20 02:27 PM] Alexios VI(In Exile)#6212
+exactly two confirmations are missing too
+
+[13-Aug-20 02:28 PM] Alexios VI(In Exile)#6212
+something is extremely fishy here, and with my authority as dean of the cardinals I need to get to the bottom of this
+
+{Reactions}
+nice Suspicious
+
+[13-Aug-20 02:32 PM] Alexios VI(In Exile)#6212
+I am currently in the process of asking the pope for a re-vote
+
+[13-Aug-20 02:32 PM] Alexios VI(In Exile)#6212
+but with a more secure vote confirmation channel
+
+[13-Aug-20 03:40 PM] Alexios VI(In Exile)#6212
+https://discordapp.com/channels/712519441258250241/712522551963942953/743557988723458108
+
+[13-Aug-20 03:40 PM] Alexios VI(In Exile)#6212
+Everyone kind of agrees with me, but the line of resistance did not vote for some odd reason
+
+[13-Aug-20 03:40 PM] Alexios VI(In Exile)#6212
+They are likely trying to frame staff claiming we deleted their votes
+
+[13-Aug-20 03:40 PM] Alexios VI(In Exile)#6212
+only reason they would not vote in that poll
+
+[13-Aug-20 07:03 PM] Alexios VI(In Exile)#6212
+https://tenor.com/view/yoda-imust-go-star-wars-exile-gif-12556278
+
+{Embed}
+https://tenor.com/view/yoda-imust-go-star-wars-exile-gif-12556278
+https://media.tenor.co/images/25403c597913a0e831bb47ff0678411e/tenor.png
+
+[13-Aug-20 07:03 PM] Alexios VI(In Exile)#6212
+@📌Chat Revive Ping📌 @—🗝️🏇🗝️Papal Cavalry 🗝️🏇🗝️—
+
+[13-Aug-20 07:07 PM] Alexios VI(In Exile)#6212
+Phantia belongs to satan now
+
+[13-Aug-20 07:07 PM] Alexios VI(In Exile)#6212
+it is impossible to recover from the defeat
+
+[13-Aug-20 07:07 PM] Alexios VI(In Exile)#6212
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522549879111690/743621877821603860/unknown.png
+
+[13-Aug-20 07:08 PM] Alexios VI(In Exile)#6212
+The radical atheist got the cheif of police on his side
+
+[13-Aug-20 07:09 PM] Alexios VI(In Exile)#6212
+Since I will be ousted as a failed leader, I will do my last buisness here before I go into full exile
+
+[13-Aug-20 07:18 PM] Alexios VI(In Exile)#6212
+I will stay here as a sleeper account until the day I finish the secret project, and can crusade again
+
+[13-Aug-20 07:22 PM] Alexios VI(In Exile)#6212
+Basically kind of like when luke went to Dagobah for all you who watched star wars here
+
+==============================================================
+Exported 328 message(s)
+==============================================================
+
+

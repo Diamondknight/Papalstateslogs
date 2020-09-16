@@ -1,0 +1,73 @@
+==============================================================
+Guild: The Papal States
+Channel: 『🎓』Admins『🎓』 / 🤖╔﹝bot-spam
+==============================================================
+
+[28-May-20 04:44 AM] Pope Benedict XV#0904
+x!bacup create
+
+
+[28-May-20 04:44 AM] Pope Benedict XV#0904
+x!create backup
+
+
+[08-Jul-20 08:56 AM] Prince Frór#0897
+x!create backup
+
+
+[08-Jul-20 08:56 AM] Prince Frór#0897
+x!create
+
+
+[08-Jul-20 08:57 AM] Prince Frór#0897
+x!backup
+
+
+[08-Jul-20 08:57 AM] Xenon#7325
+
+{Embed}
+x!backup
+Create & load private backups of your servers
+Commands
+**x!backup create  ** Create a backup
+**x!backup load    ** Load a backup
+**x!backup delete  ** Delete one of your backups
+**x!backup purge   ** Delete all your backups
+**x!backup list    ** Get a list of your backups
+**x!backup info    ** Get information about a backup
+**x!backup interval** Manage automated backups
+Use 'x!help [command]' to get more information about a specific command.
+
+
+[08-Jul-20 08:57 AM] Prince Frór#0897
+x!backup create
+
+
+[08-Jul-20 08:57 AM] Xenon#7325
+
+{Embed}
+Error
+You are **missing** the following **permissions**: `administrator`.
+
+[Support](https://discord.club/discord)
+
+
+[09-Jul-20 01:00 PM] Pope Benedict XV#0904
+Ood
+
+
+[24-Aug-20 11:32 AM] FJ#1191
+!purge 50
+
+
+[24-Aug-20 11:32 AM] UnbelievaBoat#1046
+:check: Deleted 4 messages.
+
+
+[24-Aug-20 11:32 AM] Rythm#3722
+❌ **No messages found to prune**
+
+
+==============================================================
+Exported 12 message(s)
+==============================================================

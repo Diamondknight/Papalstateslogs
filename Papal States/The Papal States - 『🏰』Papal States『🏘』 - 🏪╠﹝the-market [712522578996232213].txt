@@ -1,0 +1,6977 @@
+==============================================================
+Guild: The Papal States
+Channel: 『🏰』Papal States『🏘』 / 🏪╠﹝the-market
+==============================================================
+
+[20-May-20 04:04 AM] Pope Benedict XV#0904
+!disable work
+
+[20-May-20 04:04 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: The `work` command has been __disabled__ on this server.
+
+[20-May-20 04:04 AM] Pope Benedict XV#0904
+!disable crime
+
+[20-May-20 04:04 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: The `crime` command has been __disabled__ on this server.
+
+[20-May-20 04:04 AM] Pope Benedict XV#0904
+!disable slut
+
+[20-May-20 04:04 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: The `slut` command has been __disabled__ on this server.
+
+[20-May-20 04:04 AM] Pope Benedict XV#0904
+!disable crime
+
+[20-May-20 04:04 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: The `crime` command has been __disabled__ on this server.
+
+[20-May-20 04:04 AM] Pope Benedict XV#0904
+!disable rob
+
+[20-May-20 04:04 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: The `rob` command has been __disabled__ on this server.
+
+[21-May-20 03:30 AM] Pope Benedict XV#0904
+!enable shop
+
+[21-May-20 03:30 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: The `store` command has been __enabled__ on this server.
+
+[21-May-20 03:31 AM] Pope Benedict XV#0904
+!enable shop #the market
+
+[21-May-20 03:31 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: Invalid `<command or module>` argument given.
+
+Usage:
+`enable <command or module>`
+
+[21-May-20 03:31 AM] Pope Benedict XV#0904
+!enable shop #🏪╠﹝the-market
+
+[21-May-20 03:31 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: Invalid `<command or module>` argument given.
+
+Usage:
+`enable <command or module>`
+
+[21-May-20 03:31 AM] Pope Benedict XV#0904
+H
+
+[21-May-20 03:31 AM] Pope Benedict XV#0904
+!shop
+
+[21-May-20 03:31 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+The store is empty. Someone probably robbed it :shrug:
+Add items to the store using the `create-item` command.
+
+[21-May-20 03:31 AM] Pope Benedict XV#0904
+Hm
+
+[27-May-20 02:35 AM] Pope Benedict XV#0904
+!shop
+
+[27-May-20 02:35 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+The store is empty. Someone probably robbed it :shrug:
+Add items to the store using the `create-item` command.
+
+[27-May-20 02:35 AM] Pope Benedict XV#0904
+√
+
+[27-May-20 10:19 AM] Pope Benedict XV#0904
+!create item
+
+[27-May-20 10:19 AM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 10:19 AM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Expensive war horse
+Price
+₤5,000
+Description
+Horse in shining armour
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+*happy horse noises*
+
+[27-May-20 10:20 AM] Pope Benedict XV#0904
+Expensive war horse
+
+[27-May-20 10:20 AM] Pope Benedict XV#0904
+5000
+
+[27-May-20 10:20 AM] Pope Benedict XV#0904
+Horse in shining armour
+
+[27-May-20 10:20 AM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 10:20 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:20 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:20 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:20 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:21 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:21 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:21 AM] Pope Benedict XV#0904
+*happy horse noises*
+
+[27-May-20 10:21 AM] FJ#1191
+!shop
+
+[27-May-20 10:21 AM] UnbelievaBoat#1046
+
+{Embed}
+𝕱 𝖛𝖔𝖓 𝕵#1191
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+Page 1/1
+
+[27-May-20 10:21 AM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 10:21 AM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Cheap war horse
+Price
+₤500
+Description
+Sold in an affordable price
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+Congrats you own a war horse now!
+
+[27-May-20 10:22 AM] Pope Benedict XV#0904
+Cheap war horse
+
+[27-May-20 10:22 AM] Pope Benedict XV#0904
+500
+
+[27-May-20 10:22 AM] Pope Benedict XV#0904
+Sold in an affordable price
+
+[27-May-20 10:22 AM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 10:22 AM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 10:23 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:23 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:23 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:23 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:23 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:23 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:24 AM] Pope Benedict XV#0904
+Congrats you own a war horse now!
+
+[27-May-20 10:24 AM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 10:24 AM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+War Elephant
+Price
+₤20,000
+Description
+It's chonky
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+*happy elephant noises*
+
+[27-May-20 10:24 AM] Pope Benedict XV#0904
+War Elephant
+
+[27-May-20 10:24 AM] Pope Benedict XV#0904
+20000
+
+[27-May-20 10:25 AM] Pope Benedict XV#0904
+It's chonky
+
+[27-May-20 10:25 AM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 10:25 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:25 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:25 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:25 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:25 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:25 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:25 AM] Pope Benedict XV#0904
+*happy elephant noises*
+
+[27-May-20 10:26 AM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 10:26 AM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Armour
+Price
+₤1,000
+Description
+Shiny piece of metal ready to protect you from the enemy
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+A fresh piece from the Papal Armory
+
+[27-May-20 10:26 AM] Pope Benedict XV#0904
+Armour
+
+[27-May-20 10:26 AM] Pope Benedict XV#0904
+1000
+
+[27-May-20 10:27 AM] Pope Benedict XV#0904
+Shiny piece of metal ready to protect you from the enemy
+
+[27-May-20 10:27 AM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 10:27 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:27 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:27 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:27 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:27 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:27 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:28 AM] Pope Benedict XV#0904
+A fresh piece from the Papal Armory
+
+[27-May-20 10:28 AM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 10:28 AM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Weapons
+Price
+₤1,000
+Description
+A sharp weapon which allows one to slice there foe in half
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+A beautiful creation made by a papal blacksmith
+
+[27-May-20 10:28 AM] Pope Benedict XV#0904
+Weapons
+
+[27-May-20 10:28 AM] Pope Benedict XV#0904
+1000
+
+[27-May-20 10:29 AM] Deleted User#0000
+> A fresh piece from the Papal Armory
+@Pope Benedict XV it's rusty. I ain't buying that.
+
+[27-May-20 10:29 AM] Pope Benedict XV#0904
+A sharp weapon which allows one to slice there foe in half
+
+[27-May-20 10:29 AM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 10:29 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:29 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:30 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:30 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:30 AM] Pope Benedict XV#0904
+Zkip
+
+[27-May-20 10:30 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:30 AM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:31 AM] Pope Benedict XV#0904
+A beautiful creation made by a papal blacksmith
+
+[27-May-20 10:53 PM] Pope Benedict XV#0904
+!shop
+
+[27-May-20 10:53 PM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 1/1
+
+[27-May-20 10:53 PM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 10:53 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Bible
+Price
+₤500
+Description
+The holy bible
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+Amen
+
+[27-May-20 10:53 PM] Pope Benedict XV#0904
+Bible
+
+[27-May-20 10:53 PM] Pope Benedict XV#0904
+500
+
+[27-May-20 10:54 PM] Pope Benedict XV#0904
+The holy bible
+
+[27-May-20 10:54 PM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 10:54 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:54 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:54 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:54 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:54 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:54 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 10:55 PM] Pope Benedict XV#0904
+Amen
+
+[27-May-20 10:55 PM] Pope Benedict XV#0904
+!create item
+
+[27-May-20 11:07 PM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 11:07 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Clothes
+Price
+₤250
+Description
+A piece of cloth to cover your naughty bits
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+Wear something bruh
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+Clothes
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+250
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+A piece of cloth to cover your naughty bits
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:08 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:09 PM] Pope Benedict XV#0904
+Wear something bruh
+
+[27-May-20 11:09 PM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 11:09 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Food
+Price
+₤250
+Description
+It's food, it's good forget to eat and you'll die by starvation 👌
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+EAT
+
+[27-May-20 11:09 PM] Pope Benedict XV#0904
+Food
+
+[27-May-20 11:09 PM] Pope Benedict XV#0904
+250
+
+[27-May-20 11:10 PM] Pope Benedict XV#0904
+It's food, it's good forget to eat and you'll die by starvation 👌
+
+[27-May-20 11:10 PM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 11:10 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:10 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+EAT
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 11:11 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Water
+Price
+₤150
+Description
+It's water
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+DRINK
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+Water
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+150
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+It's water
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:11 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:12 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:12 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:12 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:12 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:12 PM] Pope Benedict XV#0904
+DRINK
+
+[27-May-20 11:12 PM] Pope Benedict XV#0904
+!ahop
+
+[27-May-20 11:12 PM] Pope Benedict XV#0904
+!shop
+
+[27-May-20 11:12 PM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤150 - Water
+It's water
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 1/1
+
+[27-May-20 11:12 PM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 11:12 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Statue of the pope
+Price
+₤5,000
+Description
+Oh look it's me!
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+ADMIRE ME MORTAL
+
+[27-May-20 11:12 PM] Pope Benedict XV#0904
+Statue of the pope
+
+[27-May-20 11:13 PM] Pope Benedict XV#0904
+5000
+
+[27-May-20 11:13 PM] Pope Benedict XV#0904
+Oh look it's me!
+
+[27-May-20 11:13 PM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 11:13 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:13 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:13 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:13 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:13 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:13 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+ADMIRE ME MORTAL
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+Lmao
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 11:14 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Coffee
+Price
+₤150
+Description
+☕
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+👌
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+Coffee
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+150
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+☕
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:14 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+👌
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 11:15 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Beer
+Price
+₤250
+Description
+🍺
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+Drink up mate 🍻
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+Beer
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+250
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+🍺
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:15 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:16 PM] Pope Benedict XV#0904
+Drink up mate 🍻
+
+[27-May-20 11:16 PM] Pope Benedict XV#0904
+!shop
+
+[27-May-20 11:16 PM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+Page 1/2
+
+[27-May-20 11:16 PM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 11:16 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Papal flag
+Price
+₤300
+Description
+🇻🇦
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+Ave Maria!
+
+[27-May-20 11:16 PM] Pope Benedict XV#0904
+Papal flag
+
+[27-May-20 11:16 PM] Pope Benedict XV#0904
+300
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+🇻🇦
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+Yee
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+Ave Maria!
+
+[27-May-20 11:17 PM] Pope Benedict XV#0904
+!create-item
+
+[27-May-20 11:17 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Gold Cross
+Price
+₤1,000
+Description
+Ooooh shinyyyy
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+Shiny ain't it *winks*
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+Gold Cross
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+1000
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+Ooooh shinyyyy
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+Yes
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:18 PM] Pope Benedict XV#0904
+Skip
+
+[27-May-20 11:19 PM] Pope Benedict XV#0904
+Shiny ain't it *winks*
+
+[27-May-20 11:19 PM] Pope Benedict XV#0904
+Ok
+
+[27-May-20 11:19 PM] Pope Benedict XV#0904
+!shop
+
+[27-May-20 11:19 PM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+Page 1/2
+
+[28-May-20 12:57 AM] Otto#2219
+!shop 2
+
+[28-May-20 12:57 AM] UnbelievaBoat#1046
+
+{Embed}
+Otto von Bismarck#7066
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[28-May-20 12:57 AM] Otto#2219
+Quack
+
+[28-May-20 01:34 AM] Pope Benedict XV#0904
+!buy 1 coffee
+
+[28-May-20 01:34 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: You have bought 1 Coffee for ₤150! This is now in your inventory.
+Use this item with the `use` command.
+
+[28-May-20 01:34 AM] Pope Benedict XV#0904
+!use 1 coffee
+
+[28-May-20 01:34 AM] UnbelievaBoat#1046
+👌
+
+[28-May-20 01:34 AM] Pope Benedict XV#0904
+Lonely
+
+[28-May-20 01:34 AM] Otto#2219
+1 coffee for 150 Euros are truly an expensive price
+
+[28-May-20 01:34 AM] Otto#2219
+Oh wait...
+
+[28-May-20 01:34 AM] Otto#2219
+It's a *H o l y   c o f f e e*
+
+[28-May-20 01:36 AM] Deleted User#0000
+!buy Schnitzel
+
+[28-May-20 01:36 AM] UnbelievaBoat#1046
+
+{Embed}
+Hellmut von Leipzig#7116
+:xmark: I could not find any items in the store with that name.
+
+[28-May-20 01:36 AM] Deleted User#0000
+:U_Wot_M8:
+
+[28-May-20 01:36 AM] Otto#2219
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+
+{Reactions}
+Capitalist (3)
+
+[28-May-20 01:37 AM] Deleted User#0000
+!buy the pope
+
+[28-May-20 01:37 AM] UnbelievaBoat#1046
+
+{Embed}
+Hellmut von Leipzig#7116
+:xmark: You do not have enough money to buy this item. You currently have ₤152 on hand.
+
+[28-May-20 01:38 AM] Deleted User#0000
+I thought the pope is that cheap.
+
+[28-May-20 01:38 AM] Deleted User#0000
+:Capitalist:
+
+[28-May-20 02:12 AM] Pope Benedict XV#0904
+@Deleted User bro
+
+[28-May-20 02:12 AM] Pope Benedict XV#0904
+!create-item schnitzel
+
+[28-May-20 02:12 AM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+schnitzel
+Price
+₤0
+Description
+None provided
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+None
+
+[28-May-20 02:12 AM] Pope Benedict XV#0904
+Uh
+
+[28-May-20 02:13 AM] Pope Benedict XV#0904
+!delete-iten schnitzel
+
+[28-May-20 02:15 AM] Pope Benedict XV#0904
+!delete-item schnitzel
+
+[28-May-20 02:15 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: Item has been removed from the store.
+
+[28-May-20 02:15 AM] Pope Benedict XV#0904
+!create-item
+
+[28-May-20 02:15 AM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+Schnitzel
+Price
+₤50
+Description
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+*happy German noises*
+
+[28-May-20 02:15 AM] Pope Benedict XV#0904
+Schnitzel
+
+[28-May-20 02:15 AM] Pope Benedict XV#0904
+50
+
+[28-May-20 02:15 AM] Pope Benedict XV#0904
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+
+[28-May-20 02:16 AM] Pope Benedict XV#0904
+Yes
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+Skip
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+Skip
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+Skip
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+Skip
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+Skip
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+Skip
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+*happy German noises*
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+@Deleted User I made something for you
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+Go to shop
+
+[28-May-20 02:17 AM] Pope Benedict XV#0904
+!shop
+
+[28-May-20 02:17 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[28-May-20 02:18 AM] Pope Benedict XV#0904
+!shop 2
+
+[28-May-20 02:18 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[28-May-20 02:18 AM] Pope Benedict XV#0904
+Status of pope is 5000
+
+[28-May-20 02:18 AM] Pope Benedict XV#0904
+Nice
+
+[28-May-20 02:19 AM] Pope Benedict XV#0904
+@Baardaapmeneer do you want schnitzel
+
+[28-May-20 02:19 AM] Pope Benedict XV#0904
+@SmarDPants do you want schnitzel
+
+[28-May-20 02:20 AM] Pope Benedict XV#0904
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+
+[28-May-20 02:20 AM] SmarDPants#8953
+my favorite food, as a matter of fact
+
+[28-May-20 02:20 AM] Pope Benedict XV#0904
+K
+
+[28-May-20 02:20 AM] Pope Benedict XV#0904
+!buy 1 schnitzel
+
+[28-May-20 02:20 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: You have bought 1 Schnitzel for ₤50! This is now in your inventory.
+Use this item with the `use` command.
+
+[28-May-20 02:20 AM] Pope Benedict XV#0904
+!give 1 schnitzel @SmarDPants
+
+[28-May-20 02:20 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: Invalid `<member>` argument given. 
+
+Usage:
+`give-money <member> <amount or all>`
+
+[28-May-20 02:20 AM] Pope Benedict XV#0904
+!sell 1 schnitzel @SmarDPants
+
+[28-May-20 02:21 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: Invalid `<member>` argument given. 
+
+Usage:
+`sell-item <member> [quantity] <item name>`
+
+[28-May-20 02:21 AM] Pope Benedict XV#0904
+Fffffff
+
+[28-May-20 02:21 AM] Pope Benedict XV#0904
+!sell item @SmarDPants 1 schnitzel
+
+[28-May-20 02:21 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: Invalid `<member>` argument given. 
+
+Usage:
+`sell-item <member> [quantity] <item name>`
+
+[28-May-20 02:21 AM] Pope Benedict XV#0904
+Ffffff
+
+[28-May-20 02:21 AM] Pope Benedict XV#0904
+!sell-item @SmarDPants  1  schnitzel
+
+[28-May-20 02:21 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+What price do you want to sell @SmarDPants 1 Schnitzel?
+
+[28-May-20 02:22 AM] Pope Benedict XV#0904
+0
+
+[28-May-20 02:22 AM] UnbelievaBoat#1046
+@SmarDPants
+
+{Embed}
+@Pope Benedict XV wants to sell you 1 Schnitzel for ₤0.
+Do you accept this? (yes/no)
+5 minutes remaining
+
+[28-May-20 02:22 AM] SmarDPants#8953
+yes
+
+[28-May-20 02:22 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: Trade complete.
+@SmarDPants has received 1 Schnitzel for ₤0 from @Pope Benedict XV
+
+[28-May-20 02:22 AM] Pope Benedict XV#0904
+Oi
+
+[28-May-20 02:22 AM] SmarDPants#8953
+thank you!
+
+[28-May-20 02:22 AM] Pope Benedict XV#0904
+!use 1 schnitzel
+
+[28-May-20 02:22 AM] SmarDPants#8953
+!use schnitzel
+
+[28-May-20 02:22 AM] UnbelievaBoat#1046
+*happy German noises*
+
+[28-May-20 02:22 AM] Pope Benedict XV#0904
+Lmao
+
+[28-May-20 02:29 AM] Deleted User#0000
+What what?
+
+[28-May-20 02:29 AM] Deleted User#0000
+!buy 1 Schnitzel
+
+[28-May-20 02:29 AM] UnbelievaBoat#1046
+
+{Embed}
+Hellmut von Leipzig#7116
+:check: You have bought 1 Schnitzel for ₤50! This is now in your inventory.
+Use this item with the `use` command.
+
+[28-May-20 02:29 AM] Deleted User#0000
+:Waaaaa:
+
+[28-May-20 02:29 AM] Pope Benedict XV#0904
+Use
+
+[28-May-20 02:29 AM] Pope Benedict XV#0904
+Its
+
+[28-May-20 02:29 AM] Deleted User#0000
+!use 1 Schnitzel
+
+[28-May-20 02:29 AM] UnbelievaBoat#1046
+*happy German noises*
+
+[28-May-20 02:29 AM] Pope Benedict XV#0904
+Lmao
+
+[28-May-20 02:29 AM] Pope Benedict XV#0904
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+
+[28-May-20 02:29 AM] Deleted User#0000
+:Capitalist:
+
+[28-May-20 02:30 AM] Pope Benedict XV#0904
+:Capitalist: :Capitalist:
+
+[28-May-20 02:30 AM] Deleted User#0000
+:Capitalist: :Capitalist: :Capitalist:
+
+[28-May-20 02:30 AM] Pope Benedict XV#0904
+Stop
+
+[28-May-20 02:30 AM] Pope Benedict XV#0904
+Lmao
+
+[28-May-20 02:30 AM] Deleted User#0000
+:Capitalist: :Capitalist: :Capitalist: :Capitalist: :Capitalist: :Capitalist: :Capitalist: :Capitalist:
+
+[28-May-20 02:30 AM] Deleted User#0000
+:Capitalist: :Capitalist: :Capitalist: :Capitalist: :Capitalist: :Capitalist: :Capitalist: :Capitalist: :Capitalist:
+
+[28-May-20 02:31 AM] Deleted User#0000
+!buy 1 Schnitzel
+
+[28-May-20 02:31 AM] UnbelievaBoat#1046
+
+{Embed}
+Hellmut von Leipzig#7116
+:check: You have bought 1 Schnitzel for ₤50! This is now in your inventory.
+Use this item with the `use` command.
+
+[28-May-20 02:31 AM] Deleted User#0000
+!use 1 Schnitzel
+
+[28-May-20 02:31 AM] UnbelievaBoat#1046
+*happy German noises*
+
+[28-May-20 02:31 AM] Deleted User#0000
+:D
+
+[28-May-20 09:44 PM] Otto#2219
+Lmao
+
+[28-May-20 09:44 PM] Otto#2219
+@Pope Benedict XV , you copied me
+
+[28-May-20 09:44 PM] Otto#2219
+(╯°□°）╯︵ ┻━┻
+
+[29-May-20 02:50 AM] Pope Benedict XV#0904
+@Otto oof
+
+[29-May-20 02:58 AM] FJ#1191
+!buy 200 Schnitzel
+
+[29-May-20 02:58 AM] UnbelievaBoat#1046
+
+{Embed}
+𝕱 𝖛𝖔𝖓 𝕵#1191
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[29-May-20 04:25 AM] Pope Benedict XV#0904
+Lmao
+
+[29-May-20 04:25 AM] Pope Benedict XV#0904
+!shop
+
+[29-May-20 04:25 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[29-May-20 04:26 AM] Pope Benedict XV#0904
+!buy 1 clothes
+
+[29-May-20 04:26 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: You do not have enough money to buy this item. You currently have ₤169 on hand.
+
+[29-May-20 04:26 AM] Pope Benedict XV#0904
+Heheh 169
+
+[29-May-20 04:26 AM] Pope Benedict XV#0904
+Am a let it be that's way
+
+[31-May-20 04:09 AM] Pope Benedict XV#0904
+!shop
+
+[31-May-20 04:09 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[31-May-20 04:09 AM] Pope Benedict XV#0904
+!buy 1 food
+
+[31-May-20 04:09 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: You have bought 1 Food for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[31-May-20 04:10 AM] Pope Benedict XV#0904
+!use 1 food
+
+[31-May-20 04:10 AM] UnbelievaBoat#1046
+EAT
+
+[31-May-20 04:10 AM] Pope Benedict XV#0904
+Lmao
+
+[31-May-20 04:10 AM] Pope Benedict XV#0904
+@JustVincent
+
+[31-May-20 04:10 AM] Pope Benedict XV#0904
+Oi
+
+[31-May-20 04:10 AM] JustVincent#4198
+Wha
+
+[31-May-20 04:10 AM] JustVincent#4198
+Lmao
+
+[31-May-20 04:10 AM] Pope Benedict XV#0904
+!shop
+
+[31-May-20 04:10 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[31-May-20 04:11 AM] Pope Benedict XV#0904
+The 1st one lmao
+
+[31-May-20 04:11 AM] Pope Benedict XV#0904
+!buy 1 clothes
+
+[31-May-20 04:11 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: You do not have enough money to buy this item. You currently have ₤141 on hand.
+
+[31-May-20 04:11 AM] JustVincent#4198
+Lmao
+
+[31-May-20 04:11 AM] Pope Benedict XV#0904
+Reeeeee
+
+[31-May-20 04:11 AM] Pope Benedict XV#0904
+!buy 1 clothes
+
+[31-May-20 04:11 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: You have bought 1 Clothes for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[31-May-20 04:11 AM] Pope Benedict XV#0904
+@JustVincent#4198
+
+[31-May-20 04:12 AM] Pope Benedict XV#0904
+@JustVincent
+
+[31-May-20 04:12 AM] Pope Benedict XV#0904
+!use 1 clothes
+
+[31-May-20 04:12 AM] UnbelievaBoat#1046
+Wear something bruh
+
+[31-May-20 04:12 AM] JustVincent#4198
+Yes yes yes
+
+[31-May-20 04:12 AM] Pope Benedict XV#0904
+:p
+
+[31-May-20 04:12 AM] Pope Benedict XV#0904
+!buy a schnitzel
+
+[31-May-20 04:12 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: I could not find any items in the store with that name.
+
+[31-May-20 04:12 AM] Pope Benedict XV#0904
+!buy 1 schnitzel
+
+[31-May-20 04:12 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: You have bought 1 Schnitzel for ₤50! This is now in your inventory.
+Use this item with the `use` command.
+
+[31-May-20 04:12 AM] Pope Benedict XV#0904
+!use 1 schnitzel
+
+[31-May-20 04:12 AM] UnbelievaBoat#1046
+*happy German noises*
+
+[31-May-20 04:12 AM] JustVincent#4198
+1 sec
+
+[31-May-20 04:12 AM] Pope Benedict XV#0904
+Tehehehehhehe
+
+[31-May-20 04:12 AM] Pope Benedict XV#0904
+K
+
+[31-May-20 04:13 AM] JustVincent#4198
+#🏰╔﹝palazzo-apostolico
+
+[31-May-20 05:04 AM] O Corvo#8407
+.work
+
+[31-May-20 05:04 AM] O Corvo#8407
+!work
+
+[31-May-20 05:04 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+You work as a smarties expert and earn ₤63
+Reply #24
+
+[31-May-20 05:04 AM] Pope Benedict XV#0904
+Noice
+
+[31-May-20 05:04 AM] O Corvo#8407
+!shop
+
+[31-May-20 05:04 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[31-May-20 05:04 AM] O Corvo#8407
+!buy 1 Schnitzel
+
+[31-May-20 05:04 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+:check: You have bought 1 Schnitzel for ₤50! This is now in your inventory.
+Use this item with the `use` command.
+
+[31-May-20 05:05 AM] O Corvo#8407
+!use Schnitzel
+
+[31-May-20 05:05 AM] UnbelievaBoat#1046
+*happy German noises*
+
+[31-May-20 06:13 AM] Pope Benedict XV#0904
+!shop
+
+[31-May-20 06:13 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[31-May-20 06:15 AM] O Corvo#8407
+!work
+
+[31-May-20 06:15 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+You work at McDonald's flipping burgers and earn ₤171
+Reply #636034
+
+[31-May-20 06:16 AM] O Corvo#8407
+!bal
+
+[31-May-20 06:16 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+Leaderboard Rank: 15th
+Cash:
+₤313
+Bank:
+₤300
+Net Worth:
+₤613
+
+[31-May-20 06:16 AM] O Corvo#8407
+.sho+
+
+[31-May-20 06:16 AM] O Corvo#8407
+!s
+
+[31-May-20 06:16 AM] Rythm#3722
+❌ **You have to be in a voice channel to use this command.**
+
+[31-May-20 06:16 AM] O Corvo#8407
+!shop
+
+[31-May-20 06:16 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[31-May-20 06:17 AM] O Corvo#8407
+!buy 1 Papal flag
+
+[31-May-20 06:17 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+:check: You have bought 1 Papal flag for ₤300! This is now in your inventory.
+Use this item with the `use` command.
+
+[31-May-20 06:17 AM] O Corvo#8407
+!use Papal flag
+
+[31-May-20 06:17 AM] UnbelievaBoat#1046
+Ave Maria!
+
+[31-May-20 06:17 AM] O Corvo#8407
+!buy 1 water
+
+[31-May-20 06:17 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+:xmark: You do not have enough money to buy this item. You currently have ₤13 on hand.
+
+[31-May-20 06:17 AM] O Corvo#8407
+!take all
+
+[01-Jun-20 05:29 AM] O Corvo#8407
+!work
+
+[01-Jun-20 05:29 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+:stopwatch: You cannot work for 17 seconds.
+
+[01-Jun-20 05:36 AM] angrynova#0024
+!work
+
+[01-Jun-20 05:36 AM] UnbelievaBoat#1046
+
+{Embed}
+angrybalut898#0024
+You are kidnapped and taken to an underground coliseum where you fought off monsters with people you've never met before. You earn ₤228, albeit reluctantly.
+Reply #636532
+
+[01-Jun-20 05:36 AM] angrynova#0024
+!deposit 200
+
+[01-Jun-20 05:36 AM] UnbelievaBoat#1046
+
+{Embed}
+angrybalut898#0024
+:check: Deposited ₤200 to your bank!
+
+[01-Jun-20 05:37 AM] angrynova#0024
+!balance
+
+[01-Jun-20 05:37 AM] UnbelievaBoat#1046
+
+{Embed}
+angrybalut898#0024
+Leaderboard Rank: 24th
+Cash:
+₤29
+Bank:
+₤440
+Net Worth:
+₤469
+
+[01-Jun-20 05:37 AM] angrynova#0024
+!shop
+
+[01-Jun-20 05:37 AM] UnbelievaBoat#1046
+
+{Embed}
+angrybalut898#0024
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[01-Jun-20 05:37 AM] angrynova#0024
+buy-item 1 <Schnitzel>
+
+[01-Jun-20 05:38 AM] angrynova#0024
+buy item 1 schnitzel
+
+[01-Jun-20 05:38 AM] O Corvo#8407
+!work
+
+[01-Jun-20 05:38 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+You did absolutely nothing and still managed to get paid ₤58.
+Reply #636508
+
+[01-Jun-20 05:38 AM] O Corvo#8407
+lol
+
+[01-Jun-20 05:38 AM] O Corvo#8407
+!bal
+
+[01-Jun-20 05:38 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+Leaderboard Rank: 40th
+Cash:
+₤273
+Bank:
+₤0
+Net Worth:
+₤273
+
+[01-Jun-20 05:49 AM] O Corvo#8407
+!work
+
+[01-Jun-20 05:49 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+You work as a paper towel sniffer and earn ₤91
+Reply #48
+
+[01-Jun-20 06:18 AM] angrynova#0024
+!work
+
+[01-Jun-20 06:18 AM] UnbelievaBoat#1046
+
+{Embed}
+angrybalut898#0024
+You take a nice stroll around the park, looking down and finding ₤47. Congrats!
+Reply #636450
+
+[01-Jun-20 06:18 AM] angrynova#0024
+!balance
+
+[01-Jun-20 06:18 AM] UnbelievaBoat#1046
+
+{Embed}
+angrybalut898#0024
+Leaderboard Rank: 22nd
+Cash:
+₤76
+Bank:
+₤440
+Net Worth:
+₤516
+
+[01-Jun-20 06:19 AM] angrynova#0024
+!withdraw 4
+
+[01-Jun-20 06:19 AM] UnbelievaBoat#1046
+
+{Embed}
+angrybalut898#0024
+:check: Withdrew ₤4 from your bank!
+
+[01-Jun-20 06:19 AM] angrynova#0024
+!balance
+
+[01-Jun-20 06:19 AM] UnbelievaBoat#1046
+
+{Embed}
+angrybalut898#0024
+Leaderboard Rank: 22nd
+Cash:
+₤80
+Bank:
+₤436
+Net Worth:
+₤516
+
+[01-Jun-20 10:31 AM] angrynova#0024
+!work
+
+[01-Jun-20 10:31 AM] UnbelievaBoat#1046
+
+{Embed}
+angrybalut898#0024
+:stopwatch: You cannot work for 1 minute and 46 seconds.
+
+[03-Jun-20 12:44 AM] Pope Benedict XV#0904
+#📊╠﹝polls
+
+[03-Jun-20 02:32 AM] Sir Oswald Mosley#3925
+!work
+
+[03-Jun-20 02:32 AM] UnbelievaBoat#1046
+
+{Embed}
+Joseph Stalin#3925
+You work as a professional Minecraft hacker. You manage to rake in ₤69
+Reply #636494
+
+[03-Jun-20 02:32 AM] Sir Oswald Mosley#3925
+!work
+
+[03-Jun-20 02:32 AM] UnbelievaBoat#1046
+
+{Embed}
+Joseph Stalin#3925
+:stopwatch: You cannot work for 1 minute and 49 seconds.
+
+[04-Jun-20 08:00 AM] Deleted User#0000
+!shop 2
+
+[04-Jun-20 08:00 AM] UnbelievaBoat#1046
+
+{Embed}
+Vladko Maček#0200
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[05-Jun-20 11:08 AM] Otto#2219
+!store 1
+
+[05-Jun-20 11:08 AM] UnbelievaBoat#1046
+
+{Embed}
+Otto von Bismarck#7066
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[05-Jun-20 11:08 AM] Otto#2219
+!with 50
+
+[05-Jun-20 11:08 AM] UnbelievaBoat#1046
+
+{Embed}
+Otto von Bismarck#7066
+:check: Withdrew ₤50 from your bank!
+
+[05-Jun-20 11:08 AM] Otto#2219
+!buy Schnitzel
+
+[05-Jun-20 11:08 AM] UnbelievaBoat#1046
+
+{Embed}
+Otto von Bismarck#7066
+:check: You have bought 1 Schnitzel for ₤50! This is now in your inventory.
+Use this item with the `use` command.
+
+[05-Jun-20 11:08 AM] Otto#2219
+!use Schnitzel
+
+[05-Jun-20 11:08 AM] UnbelievaBoat#1046
+*happy German noises*
+
+[05-Jun-20 11:08 AM] Otto#2219
+:D
+
+[08-Jun-20 02:51 AM] Pope Benedict XV#0904
+Lmao
+
+[14-Jun-20 12:05 AM] Pope Benedict XV#0904
+!shop
+
+[14-Jun-20 12:05 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[14-Jun-20 12:06 AM] Pope Benedict XV#0904
+!with all
+
+[14-Jun-20 12:06 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: Withdrew ₤113,111 from your bank!
+
+[14-Jun-20 12:06 AM] Pope Benedict XV#0904
+!buy clothes
+
+[14-Jun-20 12:06 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: You have bought 1 Clothes for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[14-Jun-20 12:06 AM] Pope Benedict XV#0904
+!use 1 clothes
+
+[14-Jun-20 12:06 AM] UnbelievaBoat#1046
+Wear something bruh
+
+[14-Jun-20 12:06 AM] Pope Benedict XV#0904
+Lol
+
+[14-Jun-20 12:06 AM] Pope Benedict XV#0904
+!shop 2
+
+[14-Jun-20 12:06 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[14-Jun-20 12:07 AM] Pope Benedict XV#0904
+Dank
+
+[14-Jun-20 05:44 AM] O Corvo#8407
+!work
+
+[14-Jun-20 05:44 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+You work as an engineer and earn ₤232
+Reply #71
+
+[14-Jun-20 05:44 AM] O Corvo#8407
+!dep all
+
+[14-Jun-20 05:44 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+:check: Deposited ₤232 to your bank!
+
+[14-Jun-20 05:44 AM] O Corvo#8407
+!bal
+
+[14-Jun-20 05:44 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+Leaderboard Rank: 13th
+Cash:
+₤0
+Bank:
+₤4,610
+Net Worth:
+₤4,610
+
+[14-Jun-20 05:44 AM] O Corvo#8407
+!shop
+
+[14-Jun-20 05:44 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+Page 1/2
+
+[14-Jun-20 05:44 AM] O Corvo#8407
+!inv
+
+[14-Jun-20 05:44 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+**__Inventory__**
+
+1     -     Armour
+1     -     Weapons
+Page 1/1
+
+[14-Jun-20 05:45 AM] O Corvo#8407
+!with all
+
+[14-Jun-20 05:45 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+:check: Withdrew ₤4,610 from your bank!
+
+[14-Jun-20 05:45 AM] O Corvo#8407
+!shop 2
+
+[14-Jun-20 05:45 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[14-Jun-20 05:45 AM] O Corvo#8407
+!dep all
+
+[14-Jun-20 05:45 AM] UnbelievaBoat#1046
+
+{Embed}
+D.Manuel I de Portugal#8407
+:check: Deposited ₤4,610 to your bank!
+
+[14-Jun-20 05:47 AM] General Burek#1129
+Hello
+
+[14-Jun-20 05:47 AM] O Corvo#8407
+hello
+
+[15-Jun-20 07:15 AM] Mcom#7782
+My friends
+
+[15-Jun-20 07:16 AM] Mcom#7782
+Would you like to have some nice Wine?
+
+[15-Jun-20 07:16 AM] Mcom#7782
+I have it fresh
+
+[15-Jun-20 08:58 AM] Levi Ackerman#6726
+Ttutututuututt
+
+[15-Jun-20 09:24 AM] Mcom#7782
+Somekind of opening?
+
+[15-Jun-20 03:00 PM] Levi Ackerman#6726
+i dont have idea
+
+[15-Jun-20 03:00 PM] Levi Ackerman#6726
+i
+
+[15-Jun-20 03:00 PM] Levi Ackerman#6726
+Hello
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+guys
+
+[15-Jun-20 03:14 PM] O Corvo#8407
+^^     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U Rred this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gay
+
+[16-Jun-20 02:57 AM] Pope Benedict XV#0904
+Bru
+
+[16-Jun-20 02:57 AM] Pope Benedict XV#0904
+#🏦╔﹝vatican-bank
+
+[16-Jun-20 09:51 AM] Grammar Police#7258
+!shop
+
+[16-Jun-20 09:51 AM] UnbelievaBoat#1046
+
+{Embed}
+Grammar Police#7258
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[16-Jun-20 11:59 AM] Foliamane#3308
+!shop
+
+[16-Jun-20 11:59 AM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[16-Jun-20 11:59 AM] Foliamane#3308
+!shop 2
+
+[16-Jun-20 11:59 AM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[16-Jun-20 11:59 AM] Foliamane#3308
+!buy
+
+[16-Jun-20 11:59 AM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:xmark: Too few arguments given.
+
+Usage:
+`buy-item [quantity] <item name>`
+
+[16-Jun-20 12:00 PM] Foliamane#3308
+!buy-item 1 Cheap war horse
+
+[16-Jun-20 12:00 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[16-Jun-20 12:02 PM] Foliamane#3308
+!buy-item 1 Cheap war horse
+
+[16-Jun-20 12:02 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:check: You have bought 1 Cheap war horse for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[16-Jun-20 12:14 PM] WilliamTheConquerer#8784
+!work
+
+[16-Jun-20 12:14 PM] UnbelievaBoat#1046
+
+{Embed}
+WilliamTheConqueror#8784
+While you were searching for Pokémon in the tall grass, you found ₤207!
+Reply #636550
+
+[16-Jun-20 12:14 PM] WilliamTheConquerer#8784
+!slut
+
+[16-Jun-20 12:14 PM] WilliamTheConquerer#8784
+!crime
+
+[16-Jun-20 12:14 PM] WilliamTheConquerer#8784
+ga y
+
+[16-Jun-20 12:14 PM] WilliamTheConquerer#8784
+!shop
+
+[16-Jun-20 12:14 PM] UnbelievaBoat#1046
+
+{Embed}
+WilliamTheConqueror#8784
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[16-Jun-20 12:15 PM] Pope Benedict XV#0904
+Illegal
+
+[16-Jun-20 12:15 PM] WilliamTheConquerer#8784
+sorry pop
+
+[16-Jun-20 12:15 PM] Pope Benedict XV#0904
+Those commands are ILLEGAL
+
+[16-Jun-20 12:15 PM] Pope Benedict XV#0904
+And also
+
+[16-Jun-20 12:15 PM] WilliamTheConquerer#8784
+but im not CATholic
+
+[16-Jun-20 12:15 PM] Pope Benedict XV#0904
+U work here #🏭╚﹝papal-industries
+
+[16-Jun-20 12:15 PM] WilliamTheConquerer#8784
+im an ALCOholic
+
+[16-Jun-20 12:15 PM] WilliamTheConquerer#8784
+pls buy wine 20
+
+[16-Jun-20 12:15 PM] Dank Memer#5192
+what are you thinking tbh that item isn't even in the shop
+
+[16-Jun-20 12:15 PM] WilliamTheConquerer#8784
+!buy wine 20
+
+[16-Jun-20 12:15 PM] UnbelievaBoat#1046
+
+{Embed}
+WilliamTheConqueror#8784
+:xmark: I could not find any items in the store with that name.
+
+[16-Jun-20 12:15 PM] WilliamTheConquerer#8784
+!buy 20 Wine
+
+[16-Jun-20 12:15 PM] UnbelievaBoat#1046
+
+{Embed}
+WilliamTheConqueror#8784
+:xmark: You do not have enough money to buy this item. You currently have ₤207 on hand.
+
+[16-Jun-20 12:15 PM] WilliamTheConquerer#8784
+o
+
+[16-Jun-20 12:15 PM] Pope Benedict XV#0904
+Lol
+
+[16-Jun-20 12:15 PM] WilliamTheConquerer#8784
+!buy  10 Wine
+
+[16-Jun-20 12:15 PM] UnbelievaBoat#1046
+
+{Embed}
+WilliamTheConqueror#8784
+:check: You have bought 10 Wines for ₤200! These are now in your inventory.
+Use this item with the `use` command.
+
+[16-Jun-20 12:15 PM] WilliamTheConquerer#8784
+deus vult
+
+[16-Jun-20 12:16 PM] Foliamane#3308
+Lmao
+
+[16-Jun-20 12:16 PM] Pope Benedict XV#0904
+!dep all
+
+[16-Jun-20 12:16 PM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: Deposited ₤215 to your bank!
+
+[16-Jun-20 12:16 PM] WilliamTheConquerer#8784
+!lb
+
+[16-Jun-20 12:16 PM] UnbelievaBoat#1046
+
+{Embed}
+The Papal States Leaderboard
+View the leaderboard online [here](https://unb.pizza/lb/712519441258250241).
+
+**1.** [Pope Benedict XV#0904](https://unb.pizza/lb/712519441258250241/609236869711921162) • ₤137,183
+**2.** [Cardinal Lorenzo Corsini#6342](https://unb.pizza/lb/712519441258250241/489042362329333772) • ₤51,408
+**3.** [lilKing#8722](https://unb.pizza/lb/712519441258250241/651523826466684944) • ₤38,500
+**4.** [Francinee#1361](https://unb.pizza/lb/712519441258250241/716888425998974986) • ₤16,908
+**5.** [angrynova#0024](https://unb.pizza/lb/712519441258250241/573446242601009173) • ₤10,503
+**6.** [Laika#5681](https://unb.pizza/lb/712519441258250241/362702692629610507) • ₤10,000
+**7.** [Havok#1917](https://unb.pizza/lb/712519441258250241/632986436643061791) • ₤9,939
+**8.** [FJ#1191](https://unb.pizza/lb/712519441258250241/689054340643553291) • ₤8,153
+**9.** [Parsa#4176](https://unb.pizza/lb/712519441258250241/419219930052034561) • ₤6,529
+**10.** [Ancestor#7735](https://unb.pizza/lb/712519441258250241/576362922134208523) • ₤6,076
+Page 1/9  •  Your leaderboard rank: 88th
+
+[16-Jun-20 12:16 PM] Virtual Diner#0323
+
+{Embed}
+Leaderboard
+:medal: 1st
+@Unknown - 1,871 orders.
+:medal: 2nd
+@Unknown - 1,633 orders.
+:medal: 3rd
+@Unknown - 1,391 orders.
+:medal: 4th
+@Unknown - 1,217 orders.
+:medal: 5th
+@Unknown - 854 orders.
+:medal: 6th
+@Unknown - 738 orders.
+Page 1/253
+
+
+{Reactions}
+⬅ ➡
+
+[16-Jun-20 12:16 PM] Pope Benedict XV#0904
+!with all
+
+[16-Jun-20 12:16 PM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: Withdrew ₤137,183 from your bank!
+
+[16-Jun-20 12:16 PM] Pope Benedict XV#0904
+😳
+
+[16-Jun-20 12:16 PM] WilliamTheConquerer#8784
+!steal @Pope Benedict XV
+
+[16-Jun-20 12:16 PM] WilliamTheConquerer#8784
+frick
+
+[16-Jun-20 12:16 PM] WilliamTheConquerer#8784
+LOL
+
+[16-Jun-20 12:16 PM] Pope Benedict XV#0904
+m!slap @WilliamTheConquerer
+
+[16-Jun-20 12:16 PM] MarriageBot#7725
+
+{Embed}
+*Slaps @WilliamTheConquerer*
+https://cdn.weeb.sh/images/HJKiX1tPW.gif
+Learn more about MarriageBot Gold (m!gold)
+
+[16-Jun-20 12:16 PM] Pope Benedict XV#0904
+No
+
+[16-Jun-20 12:16 PM] WilliamTheConquerer#8784
+m!poke @Pope Benedict XV
+
+[16-Jun-20 12:16 PM] MarriageBot#7725
+
+{Embed}
+*Pokes @Pope Benedict XV.*
+Learn more about MarriageBot Gold (m!gold)
+
+[16-Jun-20 12:16 PM] WilliamTheConquerer#8784
+*touches his holiness*
+
+[16-Jun-20 12:17 PM] WilliamTheConquerer#8784
+GAY
+
+[16-Jun-20 12:17 PM] Kazoku Yamato-Yoshihito#6912
+Glory to the state, Glory to the pope, ave Maria
+
+[16-Jun-20 12:17 PM] Pope Benedict XV#0904
+are u planning urself
+
+[16-Jun-20 12:17 PM] Pope Benedict XV#0904
+To go
+
+[16-Jun-20 12:17 PM] Pope Benedict XV#0904
+To jail
+
+[16-Jun-20 12:17 PM] Kazoku Yamato-Yoshihito#6912
+Glory to the state, Glory to the pope, ave Maria
+
+[16-Jun-20 12:17 PM] Pope Benedict XV#0904
+William
+
+[16-Jun-20 12:17 PM] Pope Benedict XV#0904
+@Kazoku Yamato-Yoshihito yes
+
+[16-Jun-20 12:17 PM] WilliamTheConquerer#8784
+bruh
+
+[16-Jun-20 12:17 PM] WilliamTheConquerer#8784
+Im converting to Islam
+
+[16-Jun-20 12:17 PM] Kazoku Yamato-Yoshihito#6912
+ita,
+
+[16-Jun-20 12:17 PM] WilliamTheConquerer#8784
+how do i do that
+
+[16-Jun-20 12:17 PM] Pope Benedict XV#0904
+Oh sh
+
+[16-Jun-20 12:17 PM] Kazoku Yamato-Yoshihito#6912
+> Im converting to Islam
+@WilliamTheConquerer nihil,
+
+[16-Jun-20 12:17 PM] Pope Benedict XV#0904
+@WilliamTheConquerer pray in a church
+
+[16-Jun-20 12:17 PM] Kazoku Yamato-Yoshihito#6912
+ita
+
+[16-Jun-20 12:17 PM] Pope Benedict XV#0904
+Then u become Muslim ok
+
+[16-Jun-20 12:17 PM] WilliamTheConquerer#8784
+Oh ok, based
+
+[16-Jun-20 12:17 PM] Pope Benedict XV#0904
+Lol
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
++votd
+
+[16-Jun-20 12:18 PM] BibleBot#1110
+
+{Embed}
+Psalm 103:13 - Revised Standard Version (RSV)
+<**13**> As a father pities his children, so the Lord pities those who fear him.
+BibleBot 8.0.0
+
+[16-Jun-20 12:18 PM] WilliamTheConquerer#8784
+off to the nearest ***anglican church***
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
+No
+
+[16-Jun-20 12:18 PM] WilliamTheConquerer#8784
+😉
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
+Lol
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
+Funi
+
+[16-Jun-20 12:18 PM] WilliamTheConquerer#8784
+Leviticus 18:22
+
+[16-Jun-20 12:18 PM] BibleBot#1110
+
+{Embed}
+Leviticus 18:22 - Revised Standard Version (RSV)
+<**22**> You shall not lie with a male as with a woman; it is an abomination.
+BibleBot 8.0.0
+
+[16-Jun-20 12:18 PM] WilliamTheConquerer#8784
+based
+
+[16-Jun-20 12:18 PM] Kazoku Yamato-Yoshihito#6912
+Glory
+
+[16-Jun-20 12:18 PM] Kazoku Yamato-Yoshihito#6912
+to
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
+Yes
+
+[16-Jun-20 12:18 PM] Kazoku Yamato-Yoshihito#6912
+the state
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
+Cheese
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
+Yes
+
+[16-Jun-20 12:18 PM] WilliamTheConquerer#8784
+glory to God!
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
+That's good too
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
+Yes
+
+[16-Jun-20 12:18 PM] Kazoku Yamato-Yoshihito#6912
+Glory to the pope
+
+[16-Jun-20 12:18 PM] Pope Benedict XV#0904
+ok
+
+[16-Jun-20 12:19 PM] Pope Benedict XV#0904
+Pls
+
+[16-Jun-20 12:19 PM] Pope Benedict XV#0904
+It's enough
+
+[16-Jun-20 12:19 PM] Kazoku Yamato-Yoshihito#6912
+Glory to the state, Glory to the pope, ave Maria!
+
+[16-Jun-20 12:19 PM] Pope Benedict XV#0904
+Sh
+
+[16-Jun-20 12:19 PM] Pope Benedict XV#0904
+K
+
+[16-Jun-20 12:19 PM] Kazoku Yamato-Yoshihito#6912
+Ita,
+
+[16-Jun-20 12:19 PM] Pope Benedict XV#0904
+Thank you
+
+[16-Jun-20 12:19 PM] Kazoku Yamato-Yoshihito#6912
+Ita,
+
+[16-Jun-20 12:19 PM] WilliamTheConquerer#8784
+Glory to God, glory To Christ and his following*
+
+[16-Jun-20 12:19 PM] WilliamTheConquerer#8784
+frick the state
+
+[16-Jun-20 12:19 PM] Kazoku Yamato-Yoshihito#6912
+Ita^
+
+[16-Jun-20 12:19 PM] Pope Benedict XV#0904
+Idk what to say for that
+
+[16-Jun-20 12:19 PM] Kazoku Yamato-Yoshihito#6912
+*Honhonhon*
+
+[16-Jun-20 12:20 PM] Pope Benedict XV#0904
+#rome ←
+
+[16-Jun-20 12:20 PM] Kazoku Yamato-Yoshihito#6912
+:Vivelaspin:
+
+[16-Jun-20 12:20 PM] Pope Benedict XV#0904
+#⭐╠﹝roma
+
+[16-Jun-20 12:20 PM] Pope Benedict XV#0904
+^
+
+[16-Jun-20 12:20 PM] Pope Benedict XV#0904
+Go there
+
+[16-Jun-20 12:20 PM] Foliamane#3308
+If you want to frick the state join the right wing party
+
+[16-Jun-20 12:20 PM] WilliamTheConquerer#8784
+aight guys im going to Bosnia now pray for me
+
+[16-Jun-20 12:20 PM] Pope Benedict XV#0904
+And talk
+
+[16-Jun-20 12:20 PM] Pope Benedict XV#0904
+@Foliamane bruh
+
+[16-Jun-20 12:20 PM] Pope Benedict XV#0904
+Ni
+
+[16-Jun-20 12:20 PM] Pope Benedict XV#0904
+#⭐╠﹝roma
+
+[16-Jun-20 12:20 PM] WilliamTheConquerer#8784
+@Pope Benedict XV hey
+
+[16-Jun-20 12:20 PM] Pope Benedict XV#0904
+Talk in Rome
+
+[16-Jun-20 12:20 PM] WilliamTheConquerer#8784
+can u crown me western roman Emperor?
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+NO
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+U got
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+Ligetemacy
+
+[16-Jun-20 12:21 PM] Kazoku Yamato-Yoshihito#6912
+I am a diplomat.
+
+[16-Jun-20 12:21 PM] Kazoku Yamato-Yoshihito#6912
+Respect me.
+
+[16-Jun-20 12:21 PM] Kazoku Yamato-Yoshihito#6912
+LOL
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+Yes
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+Lol
+
+[16-Jun-20 12:21 PM] WilliamTheConquerer#8784
+i have land in rome tho @Pope Benedict XV
+
+[16-Jun-20 12:21 PM] WilliamTheConquerer#8784
+aka my house
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+Please
+
+[16-Jun-20 12:21 PM] WilliamTheConquerer#8784
+thats enough tnh
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+Go
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+To
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+#⭐╠﹝roma
+
+[16-Jun-20 12:21 PM] Kazoku Yamato-Yoshihito#6912
+Also, I'm retired.
+
+[16-Jun-20 12:21 PM] WilliamTheConquerer#8784
+Is this Modern day Vatican?
+
+[16-Jun-20 12:21 PM] Kazoku Yamato-Yoshihito#6912
+I'm an old man.
+
+[16-Jun-20 12:21 PM] WilliamTheConquerer#8784
+OR BASed historical papach
+
+[16-Jun-20 12:21 PM] WilliamTheConquerer#8784
+y
+
+[16-Jun-20 12:21 PM] Pope Benedict XV#0904
+If u don't go to rome
+
+[16-Jun-20 12:22 PM] Pope Benedict XV#0904
+I will jail u
+
+[16-Jun-20 12:22 PM] Pope Benedict XV#0904
+:)
+
+[16-Jun-20 12:22 PM] Pope Benedict XV#0904
+#⭐╠﹝roma
+
+[16-Jun-20 12:22 PM] WilliamTheConquerer#8784
+nop
+
+[16-Jun-20 12:22 PM] WilliamTheConquerer#8784
+im going to Tusculum instead 😎
+
+[16-Jun-20 12:22 PM] Foliamane#3308
+!buy-item 1 food
+
+[16-Jun-20 12:22 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:check: You have bought 1 Food for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[16-Jun-20 12:24 PM] WilliamTheConquerer#8784
+thats expensive bro wtf
+
+[16-Jun-20 12:30 PM] Foliamane#3308
+Food is food
+
+[16-Jun-20 03:19 PM] Grammar Police#7258
+!shop
+
+[16-Jun-20 03:19 PM] UnbelievaBoat#1046
+
+{Embed}
+Grammar Police#7258
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[16-Jun-20 03:19 PM] Grammar Police#7258
+!buy-item 1 Clothes
+
+[16-Jun-20 03:19 PM] UnbelievaBoat#1046
+
+{Embed}
+Grammar Police#7258
+:check: You have bought 1 Clothes for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[16-Jun-20 03:22 PM] King Edward I#2029
+!shop
+
+[16-Jun-20 03:22 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[16-Jun-20 03:23 PM] King Edward I#2029
+!bal
+
+[16-Jun-20 03:23 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+Leaderboard Rank: 12th
+Cash:
+₤0
+Bank:
+₤5,350
+Net Worth:
+₤5,350
+
+[16-Jun-20 03:24 PM] Grammar Police#7258
+!shop2
+
+[16-Jun-20 03:24 PM] Grammar Police#7258
+!shop 2
+
+[16-Jun-20 03:24 PM] UnbelievaBoat#1046
+
+{Embed}
+Grammar Police#7258
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[16-Jun-20 03:26 PM] King Edward I#2029
+!shop2
+
+[16-Jun-20 03:26 PM] King Edward I#2029
+!shop 2
+
+[16-Jun-20 03:26 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[16-Jun-20 03:27 PM] King Edward I#2029
+!buy Armour
+
+[16-Jun-20 03:27 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[16-Jun-20 03:28 PM] King Edward I#2029
+!withdraw 1,000
+
+[16-Jun-20 03:28 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+:check: Withdrew ₤1,000 from your bank!
+
+[16-Jun-20 03:28 PM] King Edward I#2029
+!buy armour
+
+[16-Jun-20 03:28 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+:check: You have bought 1 Armour for ₤1,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[16-Jun-20 03:28 PM] King Edward I#2029
+!use
+
+[16-Jun-20 03:28 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+:xmark: Too few arguments given.
+
+Usage:
+`use-item [quantity] <item name>`
+
+[16-Jun-20 03:29 PM] King Edward I#2029
+Use armour 1 armour
+
+[16-Jun-20 03:29 PM] King Edward I#2029
+!use item 1 armour
+
+[16-Jun-20 03:29 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[16-Jun-20 03:32 PM] King Edward I#2029
+!use-item [1] <Armour>
+
+[16-Jun-20 03:32 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[16-Jun-20 03:32 PM] King Edward I#2029
+How do you do the is @JustVincent?
+
+[16-Jun-20 03:32 PM] King Edward I#2029
+!use-item [1] Armour
+
+[16-Jun-20 03:32 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[16-Jun-20 03:32 PM] King Edward I#2029
+Whyyy
+
+[16-Jun-20 03:32 PM] JustVincent#4198
+!whois
+
+[16-Jun-20 03:32 PM] UnbelievaBoat#1046
+
+{Embed}
+JustVincent#4198
+@JustVincent :transparent:
+User ID
+464509369154011137
+Joined Discord
+5th Jul 18 (1 year and 11 months ago)
+Joined Server
+23rd May 20 (3 weeks and 3 days ago)
+Highest Role
+@House of Bragança (Portuguese)
+https://cdn.discordapp.com/avatars/464509369154011137/72fa4e549c1058f8c4bf2d3e39256662.png?size=128
+
+[16-Jun-20 03:33 PM] King Edward I#2029
+!whois
+
+[16-Jun-20 03:33 PM] UnbelievaBoat#1046
+
+{Embed}
+7 Train#2029
+@King Edward I :transparent:
+User ID
+683302623692193817
+Joined Discord
+29th Feb 20 (3 months and 2 weeks ago)
+Joined Server
+15th Jun 20 (1 day and 15 hours ago)
+Highest Role
+@⛪Priest⛪
+https://cdn.discordapp.com/avatars/683302623692193817/a704db752866c678a161ded5774298e6.png?size=128
+
+[16-Jun-20 04:29 PM] Grammar Police#7258
+!use-item 1 Clothes
+
+[16-Jun-20 04:29 PM] UnbelievaBoat#1046
+Wear something bruh
+
+[16-Jun-20 04:32 PM] Grammar Police#7258
+!buy Bible
+
+[16-Jun-20 04:32 PM] UnbelievaBoat#1046
+
+{Embed}
+Grammar Police#7258
+:check: You have bought 1 Bible for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[16-Jun-20 04:32 PM] Grammar Police#7258
+!buy Papal Flag
+
+[16-Jun-20 04:32 PM] UnbelievaBoat#1046
+
+{Embed}
+Grammar Police#7258
+:check: You have bought 1 Papal flag for ₤300! This is now in your inventory.
+Use this item with the `use` command.
+
+[16-Jun-20 04:37 PM] King Edward I#2029
+!use-item 1 armour
+
+[16-Jun-20 04:37 PM] UnbelievaBoat#1046
+A fresh piece from the Papal Armory
+
+[16-Jun-20 04:37 PM] King Edward I#2029
+Yes!!!
+
+[16-Jun-20 04:37 PM] Grammar Police#7258
+Lol
+
+[16-Jun-20 04:37 PM] Grammar Police#7258
+!whois
+
+[16-Jun-20 04:37 PM] UnbelievaBoat#1046
+
+{Embed}
+Grammar Police#7258
+@Grammar Police :transparent:
+User ID
+596777111235330059
+Joined Discord
+5th Jul 19 (11 months and 2 weeks ago)
+Joined Server
+16th Jun 20 (18 hours and 28 minutes ago)
+Highest Role
+@—God's Party—
+https://cdn.discordapp.com/avatars/596777111235330059/61e59ee3593886b2aa7dcb70c145522e.png?size=128
+
+[16-Jun-20 04:38 PM] King Edward I#2029
+!bal
+
+[16-Jun-20 04:38 PM] UnbelievaBoat#1046
+
+{Embed}
+Edward the Train#2029
+Leaderboard Rank: 12th
+Cash:
+₤0
+Bank:
+₤4,350
+Net Worth:
+₤4,350
+
+[16-Jun-20 04:39 PM] King Edward I#2029
+!withdraw 1,000
+
+[16-Jun-20 04:39 PM] UnbelievaBoat#1046
+
+{Embed}
+Edward the Train#2029
+:check: Withdrew ₤1,000 from your bank!
+
+[16-Jun-20 04:39 PM] King Edward I#2029
+!buy weapons
+
+[16-Jun-20 04:39 PM] UnbelievaBoat#1046
+
+{Embed}
+Edward the Train#2029
+:check: You have bought 1 Weapons for ₤1,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[16-Jun-20 04:39 PM] King Edward I#2029
+use-item 1 weapons
+
+[16-Jun-20 04:39 PM] King Edward I#2029
+! use-item 1 weapons
+
+[16-Jun-20 04:39 PM] UnbelievaBoat#1046
+A beautiful creation made by a papal blacksmith
+
+[16-Jun-20 11:46 PM] Pope Benedict XV#0904
+I have been pinged
+
+[17-Jun-20 10:47 AM] Shen Babiro#9914
+!shop
+
+[17-Jun-20 10:47 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[17-Jun-20 10:47 AM] Shen Babiro#9914
+!page 2
+
+[17-Jun-20 10:48 AM] Shen Babiro#9914
+!help
+
+[17-Jun-20 10:48 AM] InviteManager#3907
+
+{Embed}
+This is a list of commands you can use. You can get more info about a specific command by using `!help <command>` (e.g. `!help add-ranks`)
+Invites
+`addInvites`, `clearInvites`, `createInvite`, `info`, `inviteCodes`, `inviteDetails`, `invites`, `leaderboard`, `removeInvites`, `restoreInvites`, `subtractFakes`, `subtractLeaves`
+Ranks
+`addRank`, `fixRanks`, `ranks`, `removeRank`
+Config
+`botConfig`, `config`, `interactiveConfig`, `inviteCodeConfig`, `memberConfig`, `permissions`
+Info
+`botInfo`, `credits`, `getBot`, `help`, `members`, `ping`, `prefix`, `setup`, `support`
+Premium
+`export`, `premium`, `tryPremium`
+Moderation
+`ban`, `caseDelete`, `caseView`, `check`, `clean`, `cleanShort`, `cleanText`, `kick`, `lockdown`, `mute`, `punishmentConfig`, `purge`, `purgeUntil`, `softBan`, `strike`, `strikeConfig`, `unban`, `unhoist`, `unmute`, `warn`
+Music
+`disconnect`, `lyrics`, `mashup`, `nowPlaying`, `pause`, `play`, `queue`, `repeat`, `resume`, `rewind`, `search`, `seek`, `skip`, `volume`
+Other
+`graph`, `makeMentionable`, `mentionRole`, `placeholder`, `reactionRole`
+Links
+[Support Discord](https://discord.gg/Am6p2Hs) | [Add bot to your server](https://invitemanager.co/add-bot/) | [Bot website](https://docs.invitemanager.co) | [Patreon](https://www.patreon.com/invitemanager)
+InviteManager
+
+[17-Jun-20 10:48 AM] Rythm#3722
+
+{Embed}
+https://rythmbot.co/
+Rythm Help
+✅ [Click here](https://rythmbot.co/features#list) for a list of commands
+
+❓ New to Rythm? Check out our [FAQ](https://rythmbot.co/faq)
+
+📄 Still need help? [Click here](https://rythmbot.co/support) to join our Discord server
+
+[17-Jun-20 10:48 AM] Virtual Diner#0323
+
+{Embed}
+All commands start with `!`
+
+**:money_with_wings: Economy**: `daily`, `money`, `tip`
+
+**:newspaper: Information**: `appeal`, `apply`, `botinfo`, `discord`, `help`, `invite`, `leaderboard`, `ping`, `rules`, `statistics`, `vote`, `website`, `weeklystatistics`
+
+**:pizza: Ordering**: `cancel`, `feedback`, `myorder`, `order`
+
+[17-Jun-20 10:48 AM] UnbelievaBoat#1046
+__**Command List**__
+<https://unbelievaboat.com/commands>
+
+__**Support Server**__
+https://discord.gg/YMJ2dGp
+Ask questions in the #support channel
+
+__**Help Command Usage**__
+`help [command or module]` - provides help for a command or lists all commands in a module
+`help modules` - lists all modules
+
+[17-Jun-20 10:48 AM] Shen Babiro#9914
+!shop 2
+
+[17-Jun-20 10:48 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[17-Jun-20 10:48 AM] Shen Babiro#9914
+!shop
+
+[17-Jun-20 10:48 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[17-Jun-20 10:49 AM] Shen Babiro#9914
+!remove all
+
+[17-Jun-20 10:49 AM] Rythm#3722
+❌ **You have to be in a voice channel to use this command.**
+
+[17-Jun-20 10:50 AM] Shen Babiro#9914
+!sho
+
+[17-Jun-20 10:50 AM] Shen Babiro#9914
+!shop
+
+[17-Jun-20 10:50 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[17-Jun-20 10:50 AM] Shen Babiro#9914
+!buy 1 holy bible
+
+[17-Jun-20 10:50 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: I could not find any items in the store with that name.
+
+[17-Jun-20 10:51 AM] Shen Babiro#9914
+!buy-item 1 holy bible
+
+[17-Jun-20 10:51 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: I could not find any items in the store with that name.
+
+[17-Jun-20 10:51 AM] Shen Babiro#9914
+!buy holy bible
+
+[17-Jun-20 10:51 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: I could not find any items in the store with that name.
+
+[17-Jun-20 10:51 AM] Shen Babiro#9914
+!buy holy Bible 1
+
+[17-Jun-20 10:51 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: I could not find any items in the store with that name.
+
+[17-Jun-20 10:52 AM] Shen Babiro#9914
+!buy-holy Bible 1
+
+[17-Jun-20 10:52 AM] Shen Babiro#9914
+!buy bible
+
+[17-Jun-20 10:52 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:check: You have bought 1 Bible for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[17-Jun-20 10:52 AM] Shen Babiro#9914
+!use bible
+
+[17-Jun-20 10:52 AM] UnbelievaBoat#1046
+Amen
+
+[17-Jun-20 10:53 AM] Shen Babiro#9914
+!buy clothes
+
+[17-Jun-20 10:53 AM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:check: You have bought 1 Clothes for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[17-Jun-20 10:53 AM] Shen Babiro#9914
+!use clothes
+
+[17-Jun-20 10:53 AM] UnbelievaBoat#1046
+Wear something bruh
+
+[17-Jun-20 12:20 PM] Foliamane#3308
+!work
+
+[17-Jun-20 12:20 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+You overslept and miss work, but a buddy clocked you in so you got paid ₤115.
+Reply #55462
+
+[17-Jun-20 12:59 PM] Shen Babiro#9914
+!work
+
+[17-Jun-20 12:59 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+You work as a pumpkin painter and are surprised to find ₤227 stashed inside one of them.
+Reply #6070
+
+[17-Jun-20 04:06 PM] Deutschen Reich#4754
+!work
+
+[17-Jun-20 04:06 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+:stopwatch: You cannot work for 34 seconds.
+
+[17-Jun-20 04:06 PM] Deutschen Reich#4754
+!shop
+
+[17-Jun-20 04:06 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[17-Jun-20 04:07 PM] Deutschen Reich#4754
+!buy schnitzel
+
+[17-Jun-20 04:07 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+:check: You have bought 1 Schnitzel for ₤50! This is now in your inventory.
+Use this item with the `use` command.
+
+[17-Jun-20 04:07 PM] Deutschen Reich#4754
+!shop
+
+[17-Jun-20 04:07 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[17-Jun-20 04:08 PM] Deutschen Reich#4754
+!buy wine
+
+[17-Jun-20 04:08 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+:check: You have bought 1 Wine for ₤20! This is now in your inventory.
+Use this item with the `use` command.
+
+[17-Jun-20 04:08 PM] Deutschen Reich#4754
+!use wine
+
+[17-Jun-20 04:08 PM] UnbelievaBoat#1046
+👍
+
+[17-Jun-20 04:08 PM] Deutschen Reich#4754
+!use schnitzel
+
+[17-Jun-20 04:08 PM] UnbelievaBoat#1046
+*happy German noises*
+
+[17-Jun-20 04:09 PM] Deutschen Reich#4754
+!work
+
+[17-Jun-20 04:09 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+You work as a professional cock fighter and earn ₤119
+Reply #7083
+
+[17-Jun-20 04:09 PM] Deutschen Reich#4754
+!bal
+
+[17-Jun-20 04:09 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+Leaderboard Rank: 39th
+Cash:
+₤489
+Bank:
+₤500
+Net Worth:
+₤989
+
+[17-Jun-20 04:30 PM] Foliamane#3308
+!work
+
+[17-Jun-20 04:30 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+You fail at work, but your boss pays you ₤142 out of pity.
+Reply #636290
+
+[17-Jun-20 04:31 PM] Foliamane#3308
+!dep all
+
+[17-Jun-20 04:31 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:check: Deposited ₤142 to your bank!
+
+[17-Jun-20 04:31 PM] Foliamane#3308
+!bal
+
+[17-Jun-20 04:31 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+Leaderboard Rank: 24th
+Cash:
+₤0
+Bank:
+₤2,415
+Net Worth:
+₤2,415
+
+[17-Jun-20 05:27 PM] Foliamane#3308
+!dep all
+
+[17-Jun-20 05:27 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:check: Deposited ₤244 to your bank!
+
+[17-Jun-20 05:27 PM] Foliamane#3308
+!bal
+
+[17-Jun-20 05:27 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+Leaderboard Rank: 21st
+Cash:
+₤0
+Bank:
+₤2,875
+Net Worth:
+₤2,875
+
+[17-Jun-20 05:34 PM] Foliamane#3308
+!shop
+
+[17-Jun-20 05:34 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[17-Jun-20 05:34 PM] Foliamane#3308
+!buy-item 1 Beer
+
+[17-Jun-20 05:35 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:check: You have bought 1 Beer for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[17-Jun-20 05:35 PM] Foliamane#3308
+!use beer
+
+[17-Jun-20 05:35 PM] UnbelievaBoat#1046
+Drink up mate 🍻
+
+[17-Jun-20 05:52 PM] Foliamane#3308
+!give @Panzerkampfwagen  V 69
+
+[17-Jun-20 05:52 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:check: @Panzerkampfwagen  V has received your ₤69
+
+[17-Jun-20 05:52 PM] Foliamane#3308
+Gift for child due to good practice
+
+[17-Jun-20 05:52 PM] Panzerkampfwagen  V#4602
+Thanks, father
+
+[17-Jun-20 05:56 PM] Shen Babiro#9914
+!use bible
+
+[17-Jun-20 05:56 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[17-Jun-20 05:56 PM] Shen Babiro#9914
+!use 1 bible
+
+[17-Jun-20 05:56 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[17-Jun-20 05:56 PM] Panzerkampfwagen  V#4602
+!buy-item 1 food
+
+[17-Jun-20 05:56 PM] UnbelievaBoat#1046
+
+{Embed}
+Panzerkampfwagen  V#4602
+:check: You have bought 1 Food for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[17-Jun-20 05:56 PM] Shen Babiro#9914
+!use item bible
+
+[17-Jun-20 05:56 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[17-Jun-20 05:56 PM] Panzerkampfwagen  V#4602
+!use food
+
+[17-Jun-20 05:56 PM] UnbelievaBoat#1046
+EAT
+
+[17-Jun-20 05:57 PM] Panzerkampfwagen  V#4602
+cronch
+
+[17-Jun-20 05:57 PM] Shen Babiro#9914
+!use item 1 bible
+
+[17-Jun-20 05:57 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[17-Jun-20 05:57 PM] Panzerkampfwagen  V#4602
+Use-item
+
+[17-Jun-20 05:57 PM] Shen Babiro#9914
+!use-item bible
+
+[17-Jun-20 05:57 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[17-Jun-20 05:57 PM] Shen Babiro#9914
+!use-item 1 bible
+
+[17-Jun-20 05:57 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[17-Jun-20 05:57 PM] Shen Babiro#9914
+!use-bible
+
+[17-Jun-20 05:58 PM] Shen Babiro#9914
+!shop
+
+[17-Jun-20 05:58 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[17-Jun-20 05:58 PM] Panzerkampfwagen  V#4602
+:Bruh_Moment:
+
+[17-Jun-20 05:58 PM] Foliamane#3308
+:mega_laugh:
+
+[17-Jun-20 05:58 PM] Shen Babiro#9914
+!use item Bible
+
+[17-Jun-20 05:58 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[17-Jun-20 05:58 PM] Shen Babiro#9914
+!Use-item 1 Bible
+
+[17-Jun-20 05:58 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[17-Jun-20 05:58 PM] Shen Babiro#9914
+Racist
+
+[17-Jun-20 05:58 PM] Panzerkampfwagen  V#4602
+Is the bot drunk
+
+[17-Jun-20 05:58 PM] Shen Babiro#9914
+!Use bible
+
+[17-Jun-20 05:58 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[17-Jun-20 05:59 PM] Shen Babiro#9914
+!bible
+
+[17-Jun-20 05:59 PM] Foliamane#3308
+He has no bible
+
+[17-Jun-20 05:59 PM] Panzerkampfwagen  V#4602
+bibble
+
+[17-Jun-20 05:59 PM] Shen Babiro#9914
+!buy-item 1 Bible
+
+[17-Jun-20 05:59 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:xmark: You do not have enough money to buy this item. You currently have ₤221 on hand.
+
+[17-Jun-20 05:59 PM] Shen Babiro#9914
+!withdraw all
+
+[17-Jun-20 05:59 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:check: Withdrew ₤621 from your bank!
+
+[17-Jun-20 05:59 PM] Shen Babiro#9914
+!buy-item bible
+
+[17-Jun-20 05:59 PM] UnbelievaBoat#1046
+
+{Embed}
+General Crusader Danklord#9914
+:check: You have bought 1 Bible for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[17-Jun-20 05:59 PM] Shen Babiro#9914
+!use bible
+
+[17-Jun-20 05:59 PM] UnbelievaBoat#1046
+Amen
+
+[17-Jun-20 06:00 PM] Panzerkampfwagen  V#4602
+Amen
+
+[17-Jun-20 06:00 PM] Shen Babiro#9914
+Amen
+
+[17-Jun-20 06:00 PM] Foliamane#3308
+Amen
+
+[17-Jun-20 06:03 PM] FJ#1191
+!buy-item bible
+
+[17-Jun-20 06:03 PM] UnbelievaBoat#1046
+
+{Embed}
+FJ#1191
+:check: You have bought 1 Bible for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[17-Jun-20 07:18 PM] Foliamane#3308
+!work
+
+[17-Jun-20 07:18 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+You work as a dog surfing instructor and earn ₤206
+Reply #32
+
+[17-Jun-20 07:23 PM] Foliamane#3308
+!withdraw all
+
+[17-Jun-20 07:23 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:check: Withdrew ₤3,709 from your bank!
+
+[17-Jun-20 07:23 PM] Foliamane#3308
+!shop
+
+[17-Jun-20 07:23 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[17-Jun-20 07:24 PM] Foliamane#3308
+!buy 5 beer
+
+[17-Jun-20 07:24 PM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+:check: You have bought 5 Beers for ₤1,250! These are now in your inventory.
+Use this item with the `use` command.
+
+[18-Jun-20 11:22 PM] Deutschen Reich#4754
+!work
+
+[18-Jun-20 11:22 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+:stopwatch: You cannot work for 1 minute and 48 seconds.
+
+[18-Jun-20 11:22 PM] Deutschen Reich#4754
+...
+
+[18-Jun-20 11:22 PM] Deutschen Reich#4754
+!bal
+
+[18-Jun-20 11:22 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+Leaderboard Rank: 32nd
+Cash:
+₤903
+Bank:
+₤750
+Net Worth:
+₤1,653
+
+[19-Jun-20 08:29 PM] Deutschen Reich#4754
+!work
+
+[19-Jun-20 08:29 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+You work as a human scarecrow (yes.. you're that ugly) and earn ₤66
+Reply #41
+
+[20-Jun-20 11:58 PM] Panzerkampfwagen  V#4602
+burn
+
+[21-Jun-20 01:51 AM] Pope Benedict XV#0904
+Lol
+
+[21-Jun-20 02:27 AM] angrynova#0024
+!store
+
+[21-Jun-20 02:27 AM] UnbelievaBoat#1046
+
+{Embed}
+angrynova#0024
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[21-Jun-20 02:27 AM] angrynova#0024
+!buy food
+
+[21-Jun-20 02:27 AM] UnbelievaBoat#1046
+
+{Embed}
+angrynova#0024
+:check: You have bought 1 Food for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[21-Jun-20 02:27 AM] angrynova#0024
+!buy bible
+
+[21-Jun-20 02:27 AM] UnbelievaBoat#1046
+
+{Embed}
+angrynova#0024
+:xmark: You do not have enough money to buy this item. You currently have ₤150 on hand.
+
+[21-Jun-20 02:27 AM] angrynova#0024
+!with 2,000
+
+[21-Jun-20 02:27 AM] UnbelievaBoat#1046
+
+{Embed}
+angrynova#0024
+:check: Withdrew ₤2,000 from your bank!
+
+[21-Jun-20 02:27 AM] angrynova#0024
+!buy bible
+
+[21-Jun-20 02:27 AM] UnbelievaBoat#1046
+
+{Embed}
+angrynova#0024
+:check: You have bought 1 Bible for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[21-Jun-20 02:27 AM] angrynova#0024
+!use bible
+
+[21-Jun-20 02:27 AM] UnbelievaBoat#1046
+Amen
+
+[21-Jun-20 06:19 PM] superiorob#1422
+!buy bible
+
+[21-Jun-20 06:19 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[21-Jun-20 06:19 PM] superiorob#1422
+!withdraw 500
+
+[21-Jun-20 06:19 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: Withdrew ₤500 from your bank!
+
+[21-Jun-20 06:19 PM] superiorob#1422
+!buy bible
+
+[21-Jun-20 06:19 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: You have bought 1 Bible for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[21-Jun-20 06:19 PM] superiorob#1422
+!use bible
+
+[21-Jun-20 06:19 PM] UnbelievaBoat#1046
+Amen
+
+[22-Jun-20 03:49 AM] ClassyTea#0599
+!shop 2
+
+[22-Jun-20 03:49 AM] UnbelievaBoat#1046
+
+{Embed}
+ClassyTea#0599
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[22-Jun-20 03:50 AM] ClassyTea#0599
+!bal
+
+[22-Jun-20 03:50 AM] UnbelievaBoat#1046
+
+{Embed}
+ClassyTea#0599
+Leaderboard Rank: 23rd
+Cash:
+₤2,527
+Bank:
+₤1,391
+Net Worth:
+₤3,918
+
+[22-Jun-20 04:25 AM] ClassyTea#0599
+!work
+
+[22-Jun-20 04:25 AM] UnbelievaBoat#1046
+
+{Embed}
+ClassyTea#0599
+Your level got featured epic and you won ₤103
+Reply #636296
+
+[23-Jun-20 08:52 AM] Deutschen Reich#4754
+!work
+
+[23-Jun-20 08:53 AM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+You worked as a businessman and earned ₤128
+Reply #636360
+
+[24-Jun-20 10:06 AM] Deutschen Reich#4754
+!work
+
+[24-Jun-20 10:06 AM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+You eat bananas for a living and get ₤92
+Reply #636535
+
+[24-Jun-20 10:52 AM] Foliamane#3308
+!work
+
+[24-Jun-20 10:52 AM] UnbelievaBoat#1046
+
+{Embed}
+Foliamane#3308
+While you were searching for Pokémon in the tall grass, you found ₤213!
+Reply #636550
+
+[24-Jun-20 08:04 PM] Ciafrè Ciambellano#6062
+!work
+
+[24-Jun-20 08:04 PM] UnbelievaBoat#1046
+
+{Embed}
+Díoclezione Belloriguardò#6062
+:stopwatch: You cannot work for 1 minute and 35 seconds.
+
+[24-Jun-20 10:29 PM] Deutschen Reich#4754
+!work
+
+[24-Jun-20 10:29 PM] UnbelievaBoat#1046
+
+{Embed}
+Third Reich#4754
+You work as an elevator mechanic and earn ₤23
+Reply #59
+
+[29-Jun-20 04:00 AM] Pope Benedict XV#0904
+!shop
+
+[29-Jun-20 04:00 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[30-Jun-20 11:44 PM] host#3098
+buy-item [1]  <cheap war horse>
+
+[30-Jun-20 11:51 PM] Alexios VI(In Exile)#6212
+!shop 2
+
+[30-Jun-20 11:51 PM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[30-Jun-20 11:52 PM] host#3098
+!buy-item [1] <Cheap war horse>
+
+[30-Jun-20 11:52 PM] UnbelievaBoat#1046
+
+{Embed}
+host#3098
+:xmark: I could not find any items in the store with that name.
+
+[30-Jun-20 11:53 PM] Alexios VI(In Exile)#6212
+!bal
+
+[30-Jun-20 11:53 PM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+Leaderboard Rank: 92nd
+Cash:
+₤359
+Bank:
+₤0
+Net Worth:
+₤359
+
+[30-Jun-20 11:53 PM] superiorob#1422
+!bal
+
+[30-Jun-20 11:53 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+Leaderboard Rank: 6th
+Cash:
+₤0
+Bank:
+₤14,378
+Net Worth:
+₤14,378
+
+[30-Jun-20 11:53 PM] superiorob#1422
+ah
+
+[30-Jun-20 11:53 PM] superiorob#1422
+i did not know i had that money
+
+[30-Jun-20 11:53 PM] superiorob#1422
+ok then
+
+[30-Jun-20 11:53 PM] superiorob#1422
+!pay @Alexios VI(In Exile) 7000
+
+[30-Jun-20 11:53 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:xmark: You don't have that much money to give. You currently have ₤0 on hand.
+
+[30-Jun-20 11:53 PM] superiorob#1422
+!withdraw 7000
+
+[30-Jun-20 11:53 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: Withdrew ₤7,000 from your bank!
+
+[30-Jun-20 11:53 PM] superiorob#1422
+!pay @Alexios VI(In Exile) 7000
+
+[30-Jun-20 11:53 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: @Alexios VI(In Exile) has received your ₤7,000
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!buy war horse
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+Multiple items found. Please choose one of the following, or type cancel.
+1 - Cheap war horse
+2 - Expensive war horse
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!buy expensive war horse
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+:xmark: Cancelled command.
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!buy Expensive war horse
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[30-Jun-20 11:54 PM] host#3098
+!item-info <cheap war horse>
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+host#3098
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`item-info <item name>`
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!withdraw all
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: Withdrew ₤7,378 from your bank!
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!buy Expensive war horse
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: You have bought 1 Expensive war horse for ₤5,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[30-Jun-20 11:54 PM] Alexios VI(In Exile)#6212
+!buy armor
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+:xmark: I could not find any items in the store with that name.
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!buy Armor
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:xmark: I could not find any items in the store with that name.
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!buy Weapons
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: You have bought 1 Weapons for ₤1,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[30-Jun-20 11:54 PM] Alexios VI(In Exile)#6212
+!buy weapons
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+:check: You have bought 1 Weapons for ₤1,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!buy  Armour
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: You have bought 1 Armour for ₤1,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!use Armour
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+A fresh piece from the Papal Armory
+
+[30-Jun-20 11:54 PM] superiorob#1422
+!use Weapons
+
+[30-Jun-20 11:54 PM] UnbelievaBoat#1046
+A beautiful creation made by a papal blacksmith
+
+[30-Jun-20 11:55 PM] host#3098
+!item-info <water>
+
+[30-Jun-20 11:55 PM] UnbelievaBoat#1046
+
+{Embed}
+host#3098
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`item-info <item name>`
+
+[30-Jun-20 11:55 PM] superiorob#1422
+!use Expensive war horse
+
+[30-Jun-20 11:55 PM] UnbelievaBoat#1046
+*happy horse noises*
+
+[30-Jun-20 11:55 PM] superiorob#1422
+very good
+
+[30-Jun-20 11:55 PM] MEE6#4876
+GG @superiorob, you just advanced to level 8!
+
+[30-Jun-20 11:55 PM] Alexios VI(In Exile)#6212
+!buy Armour
+
+[30-Jun-20 11:55 PM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+:check: You have bought 1 Armour for ₤1,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[30-Jun-20 11:55 PM] superiorob#1422
+now we are prepared
+
+[30-Jun-20 11:55 PM] Alexios VI(In Exile)#6212
+!buy Warhorse
+
+[30-Jun-20 11:55 PM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+:xmark: I could not find any items in the store with that name.
+
+[30-Jun-20 11:55 PM] host#3098
+!item-info<water>
+
+[30-Jun-20 11:55 PM] Alexios VI(In Exile)#6212
+!buy expensive war horse
+
+[30-Jun-20 11:55 PM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+:check: You have bought 1 Expensive war horse for ₤5,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[30-Jun-20 11:56 PM] host#3098
+!buy cheap war horse
+
+[30-Jun-20 11:56 PM] UnbelievaBoat#1046
+
+{Embed}
+host#3098
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[30-Jun-20 11:57 PM] host#3098
+!buy wins
+
+[30-Jun-20 11:57 PM] UnbelievaBoat#1046
+
+{Embed}
+host#3098
+:xmark: I could not find any items in the store with that name.
+
+[30-Jun-20 11:57 PM] host#3098
+!buy wine
+
+[30-Jun-20 11:57 PM] UnbelievaBoat#1046
+
+{Embed}
+host#3098
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[30-Jun-20 11:57 PM] Alexios VI(In Exile)#6212
+!buy bible
+
+[30-Jun-20 11:57 PM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+:check: You have bought 1 Bible for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[30-Jun-20 11:57 PM] Alexios VI(In Exile)#6212
+!inventory
+
+[30-Jun-20 11:57 PM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+**__Inventory__**
+
+1     -     Expensive war horse
+1     -     Armour
+1     -     Weapons
+1     -     Bible
+Page 1/1
+
+[30-Jun-20 11:58 PM] superiorob#1422
+!inventory
+
+[30-Jun-20 11:58 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+Nothing to see here.
+
+[30-Jun-20 11:58 PM] superiorob#1422
+oh i used them all
+
+[30-Jun-20 11:58 PM] host#3098
+!wine
+
+[30-Jun-20 11:58 PM] superiorob#1422
+ferrum do !use (item) to actually equip them
+
+[30-Jun-20 11:58 PM] superiorob#1422
+i believe i have the same items as you actually
+
+[30-Jun-20 11:59 PM] host#3098
+!buy wine
+
+[30-Jun-20 11:59 PM] UnbelievaBoat#1046
+
+{Embed}
+host#3098
+:check: You have bought 1 Wine for ₤20! This is now in your inventory.
+Use this item with the `use` command.
+
+[30-Jun-20 11:59 PM] host#3098
+!use wine
+
+[30-Jun-20 11:59 PM] UnbelievaBoat#1046
+👍
+
+[01-Jul-20 10:16 PM] Hue Bruh#2567
+!shop
+
+[01-Jul-20 10:16 PM] UnbelievaBoat#1046
+
+{Embed}
+Hue Bruh#2567
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[02-Jul-20 12:05 AM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+!shop 2
+
+[02-Jul-20 12:05 AM] UnbelievaBoat#1046
+
+{Embed}
+𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[02-Jul-20 06:29 AM] Alexios VI(In Exile)#6212
+!bal
+
+[02-Jul-20 06:29 AM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+Leaderboard Rank: 32nd
+Cash:
+₤1,348
+Bank:
+₤2,800
+Net Worth:
+₤4,148
+
+[02-Jul-20 06:29 AM] Alexios VI(In Exile)#6212
+!buy gold cross
+
+[02-Jul-20 06:29 AM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+:check: You have bought 1 Gold Cross for ₤1,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[02-Jul-20 06:29 AM] Alexios VI(In Exile)#6212
+!inv
+
+[02-Jul-20 06:29 AM] UnbelievaBoat#1046
+
+{Embed}
+βασιλεύς Αλέξιος VI Αποκιος#6212
+**__Inventory__**
+
+1     -     Expensive war horse
+1     -     Armour
+1     -     Weapons
+1     -     Bible
+1     -     Clothes
+1     -     Food
+1     -     Papal flag
+1     -     Gold Cross
+Page 1/1
+
+[02-Jul-20 06:31 AM] superiorob#1422
+!buy Gold Cross
+
+[02-Jul-20 06:31 AM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[02-Jul-20 06:31 AM] superiorob#1422
+!withdraw 1000
+
+[02-Jul-20 06:31 AM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: Withdrew ₤1,000 from your bank!
+
+[02-Jul-20 06:32 AM] superiorob#1422
+!buy Gold across
+
+[02-Jul-20 06:32 AM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:xmark: I could not find any items in the store with that name.
+
+[02-Jul-20 06:32 AM] superiorob#1422
+!buy Gold Cross
+
+[02-Jul-20 06:32 AM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: You have bought 1 Gold Cross for ₤1,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[02-Jul-20 06:32 AM] superiorob#1422
+!use Gold across
+
+[02-Jul-20 06:32 AM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[02-Jul-20 06:32 AM] superiorob#1422
+!use Gold Cross
+
+[02-Jul-20 06:32 AM] UnbelievaBoat#1046
+Shiny ain't it *winks*
+
+[02-Jul-20 06:32 AM] superiorob#1422
+!shop
+
+[02-Jul-20 06:32 AM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[02-Jul-20 06:32 AM] superiorob#1422
+!shop 2
+
+[02-Jul-20 06:32 AM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[02-Jul-20 06:37 AM] 𝔊𝔩𝔬𝔯𝔦𝔬𝔲𝔰 ℭ𝔯𝔲𝔰𝔞𝔡𝔢𝔯#5373
+Imma mute this
+
+[03-Jul-20 12:02 PM] The Real JL Films#0853
+!buy wine
+
+[03-Jul-20 12:02 PM] UnbelievaBoat#1046
+
+{Embed}
+The Real JL Films#0853
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[03-Jul-20 12:03 PM] The Real JL Films#0853
+!withdraw 20
+
+[03-Jul-20 12:03 PM] UnbelievaBoat#1046
+
+{Embed}
+The Real JL Films#0853
+:check: Withdrew ₤20 from your bank!
+
+[03-Jul-20 12:03 PM] The Real JL Films#0853
+!buy wine
+
+[03-Jul-20 12:03 PM] UnbelievaBoat#1046
+
+{Embed}
+The Real JL Films#0853
+:check: You have bought 1 Wine for ₤20! This is now in your inventory.
+Use this item with the `use` command.
+
+[03-Jul-20 12:04 PM] The Real JL Films#0853
+why is water more expensive than wine?
+
+[03-Jul-20 12:10 PM] Pope Benedict XV#0904
+Oof that makes sense
+
+[03-Jul-20 12:10 PM] Pope Benedict XV#0904
+!shop
+
+[03-Jul-20 12:10 PM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤20 - Wine
+:transparent:
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[03-Jul-20 12:11 PM] Pope Benedict XV#0904
+!edit-item wine
+
+[03-Jul-20 12:11 PM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: Too few arguments given.
+
+Usage:
+`edit-item <option> <item name> [new value]`
+
+[03-Jul-20 12:11 PM] Pope Benedict XV#0904
+!edit-item price wine 200
+
+[03-Jul-20 12:11 PM] UnbelievaBoat#1046
+:check: Item updated!
+
+{Embed}
+Item Info
+Name
+Wine
+Price
+₤200
+Description
+None provided
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+None
+
+[03-Jul-20 12:40 PM] The Real JL Films#0853
+lol
+
+[03-Jul-20 12:40 PM] The Real JL Films#0853
+I mean if the water was holy then it would make sense
+
+[10-Jul-20 07:14 AM] Pope Benedict XV#0904
+Lol
+
+[10-Jul-20 07:14 AM] Pope Benedict XV#0904
+!buy 1 water
+
+[10-Jul-20 07:14 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:check: You have bought 1 Water for ₤150! This is now in your inventory.
+Use this item with the `use` command.
+
+[10-Jul-20 07:14 AM] Pope Benedict XV#0904
+!use a water
+
+[10-Jul-20 07:14 AM] UnbelievaBoat#1046
+
+{Embed}
+Pope Benedict XV#0904
+:xmark: Invalid `<item name>` argument given. 
+
+Usage:
+`use-item [quantity] <item name>`
+
+[10-Jul-20 07:14 AM] Pope Benedict XV#0904
+!use-item 1 water
+
+[10-Jul-20 07:14 AM] UnbelievaBoat#1046
+DRINK
+
+[10-Jul-20 07:14 AM] Pope Benedict XV#0904
+Lol
+
+[10-Jul-20 10:57 AM] Baguette#3711
+holy moly
+
+[10-Jul-20 10:57 AM] Baguette#3711
+150 quid for a bottle of water
+
+[10-Jul-20 12:06 PM] Alexios VI(In Exile)#6212
+nestle water
+
+[10-Jul-20 12:37 PM] Baguette#3711
+oh my
+
+[11-Jul-20 11:35 AM] Pope Benedict XV#0904
+Lmao
+
+[11-Jul-20 11:35 AM] Pope Benedict XV#0904
+@Baguette it's called CAPITALISM
+
+[12-Jul-20 01:01 AM] Constitutionalist American#2173
+No, it's called price gouging.
+
+[13-Jul-20 11:53 AM] Pope Benedict XV#0904
+:Revenge:
+
+[15-Jul-20 05:08 PM] Ludovicus#1221
+!shop
+
+[15-Jul-20 05:08 PM] UnbelievaBoat#1046
+
+{Embed}
+Ⱄⱅⱃⰻⰱⱁⱃ#1221
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤200 - Wine
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[15-Jul-20 05:08 PM] Ludovicus#1221
+!shop 2
+
+[15-Jul-20 05:08 PM] UnbelievaBoat#1046
+
+{Embed}
+Ⱄⱅⱃⰻⰱⱁⱃ#1221
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[15-Jul-20 05:09 PM] Ludovicus#1221
+!buy 1 gold cross
+
+[15-Jul-20 05:09 PM] UnbelievaBoat#1046
+
+{Embed}
+Ⱄⱅⱃⰻⰱⱁⱃ#1221
+:xmark: You do not have enough money to buy this item. You currently have ₤0 on hand.
+
+[15-Jul-20 05:27 PM] Ludovicus#1221
+!buy 1 gold cross
+
+[15-Jul-20 05:27 PM] UnbelievaBoat#1046
+
+{Embed}
+Ⱄⱅⱃⰻⰱⱁⱃ#1221
+:check: You have bought 1 Gold Cross for ₤1,000! This is now in your inventory.
+Use this item with the `use` command.
+
+[15-Jul-20 05:39 PM] superiorob#1422
+!work
+
+[15-Jul-20 05:39 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+You develop games for a living and earn ₤161.
+Reply #636041
+
+[15-Jul-20 05:39 PM] superiorob#1422
+!dep all
+
+[15-Jul-20 05:39 PM] UnbelievaBoat#1046
+
+{Embed}
+superiorob#1422
+:check: Deposited ₤161 to your bank!
+
+[16-Jul-20 06:36 AM] che guevara the great#9718
+!work
+
+[16-Jul-20 06:36 AM] UnbelievaBoat#1046
+
+{Embed}
+yeetmaster1403#9718
+Somebody once told me the world was gonna roll me, I ain't the sharpest tool in the sh- oh, uh- you did something good and got ₤89 I think...
+Reply #635916
+
+[16-Jul-20 08:41 AM] A baguette filled with mangos#7120
+!work
+
+[16-Jul-20 08:41 AM] UnbelievaBoat#1046
+
+{Embed}
+Mohok II Namviet#7120
+You work as a dog food taster and earn ₤173
+Reply #34
+
+[18-Jul-20 06:58 PM] Skin Of Child#4713
+!work
+
+[18-Jul-20 06:58 PM] UnbelievaBoat#1046
+
+{Embed}
+Skin Of Child#4713
+Taxes collected! You have gained ₤60
+Reply #636506
+
+[18-Jul-20 06:58 PM] Skin Of Child#4713
+!dep all
+
+[18-Jul-20 06:58 PM] UnbelievaBoat#1046
+
+{Embed}
+Skin Of Child#4713
+:check: Deposited ₤60 to your bank!
+
+[19-Jul-20 03:51 AM] che guevara the great#9718
+!work
+
+[19-Jul-20 03:51 AM] UnbelievaBoat#1046
+
+{Embed}
+yeetmaster1403#9718
+You work as a bed warmer and earn ₤212
+Reply #40
+
+[19-Jul-20 04:51 AM] Baguette#3711
+!work
+
+[19-Jul-20 04:51 AM] UnbelievaBoat#1046
+
+{Embed}
+Baguette#3711
+You work as an elephant dresser and earn ₤30
+Reply #43
+
+[19-Jul-20 04:51 AM] Baguette#3711
+!dep all
+
+[19-Jul-20 04:51 AM] UnbelievaBoat#1046
+
+{Embed}
+Baguette#3711
+:check: Deposited ₤30 to your bank!
+
+[19-Jul-20 04:51 AM] Baguette#3711
+Good job
+
+[19-Jul-20 10:48 PM] che guevara the great#9718
+!WORK
+
+[19-Jul-20 10:48 PM] UnbelievaBoat#1046
+
+{Embed}
+Ronald the great#9718
+You clear out some toxic mould from the ventilation and earn ₤117
+Reply #230200
+
+[20-Jul-20 03:09 AM] someonexxx#1863
+!shop
+
+[20-Jul-20 03:09 AM] UnbelievaBoat#1046
+
+{Embed}
+someonexxx#1863
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤200 - Wine
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[20-Jul-20 03:09 AM] someonexxx#1863
+!shop 2
+
+[20-Jul-20 03:09 AM] UnbelievaBoat#1046
+
+{Embed}
+someonexxx#1863
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[20-Jul-20 03:10 AM] someonexxx#1863
+uuhhh...
+
+[20-Jul-20 03:10 AM] someonexxx#1863
+i'll go with expensive horse
+
+[26-Jul-20 11:22 AM] kazakh boi disabled his account#2494
+!shop
+
+[26-Jul-20 11:22 AM] UnbelievaBoat#1046
+
+{Embed}
+kazakh boi 🇰🇿🇰🇿🇰🇿#2494
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤200 - Wine
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[26-Jul-20 11:23 AM] kazakh boi disabled his account#2494
+m!bal @someonexxx
+
+[26-Jul-20 11:23 AM] kazakh boi disabled his account#2494
+!bal @someonexxx
+
+[26-Jul-20 11:23 AM] UnbelievaBoat#1046
+
+{Embed}
+someonexxx#1863
+Leaderboard Rank: 64th
+Cash:
+₤0
+Bank:
+₤2,075
+Net Worth:
+₤2,075
+
+[26-Jul-20 11:23 AM] Tech Support Scammer#5767
+@kazakh boi disabled his account You are simp
+
+[26-Jul-20 11:23 AM] kazakh boi disabled his account#2494
+!bal @Tech Support Scammer
+
+[26-Jul-20 11:23 AM] UnbelievaBoat#1046
+
+{Embed}
+Tech Support Scammer#5767
+Leaderboard Rank: 124th
+Cash:
+₤0
+Bank:
+₤600
+Net Worth:
+₤600
+
+[26-Jul-20 11:23 AM] kazakh boi disabled his account#2494
+@Tech Support Scammer proof
+
+[26-Jul-20 11:23 AM] kazakh boi disabled his account#2494
+> @kazakh boi disabled his account You are simp
+@Tech Support Scammer duh hiw
+
+[26-Jul-20 11:23 AM] kazakh boi disabled his account#2494
+*how
+
+[26-Jul-20 11:23 AM] Tech Support Scammer#5767
+**I am Allah
+I have no need of proof**
+
+[26-Jul-20 11:24 AM] kazakh boi disabled his account#2494
+!bal @Gellert Grindelwald
+
+[26-Jul-20 11:24 AM] UnbelievaBoat#1046
+
+{Embed}
+Ulmo#0897
+Leaderboard Rank: 2nd
+Cash:
+₤2,607
+Bank:
+₤237,528
+Net Worth:
+₤240,135
+
+[26-Jul-20 11:24 AM] kazakh boi disabled his account#2494
+disabled
+
+[26-Jul-20 11:24 AM] kazakh boi disabled his account#2494
+dub
+
+[26-Jul-20 11:24 AM] kazakh boi disabled his account#2494
+@Tech Support Scammer give 300
+
+[26-Jul-20 11:57 AM] Tech Support Scammer#5767
+!give @kazakh boi disabled his account 300
+
+[26-Jul-20 11:57 AM] UnbelievaBoat#1046
+
+{Embed}
+Tech Support Scammer#5767
+:xmark: You don't have that much money to give. You currently have ₤0 on hand.
+
+[26-Jul-20 11:57 AM] Tech Support Scammer#5767
+Lelelel
+
+[26-Jul-20 11:57 AM] Tech Support Scammer#5767
+!with 300
+
+[26-Jul-20 11:57 AM] UnbelievaBoat#1046
+
+{Embed}
+Tech Support Scammer#5767
+:check: Withdrew ₤300 from your bank!
+
+[26-Jul-20 11:57 AM] Tech Support Scammer#5767
+!give @kazakh boi disabled his account 300
+
+[26-Jul-20 11:57 AM] UnbelievaBoat#1046
+
+{Embed}
+Tech Support Scammer#5767
+:check: @kazakh boi disabled his account has received your ₤300
+
+[26-Jul-20 11:57 AM] Tech Support Scammer#5767
+Loan
+
+[26-Jul-20 07:41 PM] someonexxx#1863
+AAAAAAAAAAAAAA
+
+[26-Jul-20 07:41 PM] someonexxx#1863
+PING
+
+[27-Jul-20 04:42 AM] kazakh boi disabled his account#2494
+!buy-item 1 papal flag
+
+[27-Jul-20 04:42 AM] UnbelievaBoat#1046
+
+{Embed}
+kazakh boi 🇰🇿🇰🇿🇰🇿#2494
+:check: You have bought 1 Papal flag for ₤300! This is now in your inventory.
+Use this item with the `use` command.
+
+[27-Jul-20 04:42 AM] kazakh boi disabled his account#2494
+!use-item papal flag
+
+[27-Jul-20 04:42 AM] UnbelievaBoat#1046
+Ave Maria!
+
+[27-Jul-20 04:43 AM] Sevilla#2133
+!work
+
+[27-Jul-20 04:43 AM] UnbelievaBoat#1046
+
+{Embed}
+Sevilla#2133
+You work as a window cleaner for the Gherkin in London and earn ₤68
+Reply #54
+
+[27-Jul-20 04:43 AM] Sevilla#2133
+!dep all
+
+[27-Jul-20 04:43 AM] UnbelievaBoat#1046
+
+{Embed}
+Sevilla#2133
+:check: Deposited ₤68 to your bank!
+
+[27-Jul-20 08:13 AM] someonexxx#1863
+!shop
+
+[27-Jul-20 08:13 AM] UnbelievaBoat#1046
+
+{Embed}
+someonexxx#1863
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤200 - Wine
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[27-Jul-20 08:14 AM] someonexxx#1863
+!shop 2
+
+[27-Jul-20 08:14 AM] UnbelievaBoat#1046
+
+{Embed}
+someonexxx#1863
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[31-Jul-20 08:15 AM] Pope Benedict XV#0904
+!shop
+
+[31-Jul-20 08:15 AM] UnbelievaBoat#1046
+
+{Embed}
+Cheese Balls#0904
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤200 - Wine
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[31-Jul-20 08:15 AM] Pope Benedict XV#0904
+!buy 1 Schnitzel
+
+[31-Jul-20 08:15 AM] UnbelievaBoat#1046
+
+{Embed}
+Cheese Balls#0904
+:check: You have bought 1 Schnitzel for ₤50! This is now in your inventory.
+Use this item with the `use` command.
+
+[31-Jul-20 08:15 AM] Pope Benedict XV#0904
+!use 1 schnitzel
+
+[31-Jul-20 08:15 AM] UnbelievaBoat#1046
+*happy German noises*
+
+[31-Jul-20 08:15 AM] Pope Benedict XV#0904
+🇩🇪
+
+[31-Jul-20 01:39 PM] Delugeoflies#6811
+!buy clothes
+
+[31-Jul-20 01:39 PM] UnbelievaBoat#1046
+
+{Embed}
+Delugeoflies#6811
+:check: You have bought 1 Clothes for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[31-Jul-20 01:39 PM] Delugeoflies#6811
+!use clothes
+
+[31-Jul-20 01:39 PM] UnbelievaBoat#1046
+Wear something bruh
+
+[31-Jul-20 01:39 PM] Delugeoflies#6811
+!buy beer
+
+[31-Jul-20 01:39 PM] UnbelievaBoat#1046
+
+{Embed}
+Delugeoflies#6811
+:check: You have bought 1 Beer for ₤250! This is now in your inventory.
+Use this item with the `use` command.
+
+[31-Jul-20 01:39 PM] Delugeoflies#6811
+!use beer
+
+[31-Jul-20 01:39 PM] UnbelievaBoat#1046
+Drink up mate 🍻
+
+[31-Jul-20 01:40 PM] Shad (Kaizev)#3167
+!shop
+
+[31-Jul-20 01:40 PM] UnbelievaBoat#1046
+
+{Embed}
+Shad (Kaizev)#3167
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤200 - Wine
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[04-Aug-20 05:53 AM] g r e g f r o m g r e g#4851
+!buy bible
+
+[04-Aug-20 05:53 AM] UnbelievaBoat#1046
+
+{Embed}
+sirdigbyofsmeg#4851
+:check: You have bought 1 Bible for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[04-Aug-20 05:53 AM] g r e g f r o m g r e g#4851
+!use bible
+
+[04-Aug-20 05:53 AM] UnbelievaBoat#1046
+Amen
+
+[04-Aug-20 05:53 AM] g r e g f r o m g r e g#4851
+Amen
+
+[04-Aug-20 05:54 AM] Foliamane#3308
+!shop 2
+
+[04-Aug-20 05:54 AM] UnbelievaBoat#1046
+
+{Embed}
+【Ｆｏｌｉａｍａｎｅ】#3308
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+[04-Aug-20 05:54 AM] Foliamane#3308
+Should I buy a war elephant
+
+[04-Aug-20 05:55 AM] Foliamane#3308
+:Kronk_Thonk:
+
+[04-Aug-20 05:55 AM] g r e g f r o m g r e g#4851
+Hemmm
+
+[04-Aug-20 05:55 AM] Foliamane#3308
+!bal
+
+[04-Aug-20 05:55 AM] UnbelievaBoat#1046
+
+{Embed}
+【Ｆｏｌｉａｍａｎｅ】#3308
+Leaderboard Rank: 5th
+Cash:
+₤24
+Bank:
+₤81,933
+Net Worth:
+₤81,957
+
+[04-Aug-20 05:55 AM] g r e g f r o m g r e g#4851
+I think you can afford it
+
+[04-Aug-20 12:04 PM] Pope Benedict XV#0904
+NEIN
+
+[04-Aug-20 12:24 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+:nice:
+
+[04-Aug-20 12:26 PM] Pope Benedict XV#0904
+@𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟 yes so get
+
+[04-Aug-20 12:26 PM] Pope Benedict XV#0904
+3 mercenaries
+
+[04-Aug-20 12:26 PM] Pope Benedict XV#0904
+For 30,000
+
+[04-Aug-20 12:27 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+I’ve found one that might work
+
+[04-Aug-20 12:27 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+He’s offline rn
+
+[04-Aug-20 12:27 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+I’m looking for more
+
+[04-Aug-20 12:29 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+I think I found another one
+
+[04-Aug-20 12:54 PM] 𝑇ℎ𝑒 𝐷𝑖𝑛𝑘𝑠𝑡𝑒𝑟#7015
+I found 3
+
+[05-Aug-20 09:02 AM] g r e g f r o m g r e g#4851
+!shop
+
+[05-Aug-20 09:02 AM] UnbelievaBoat#1046
+
+{Embed}
+sirdigbyofsmeg#4851
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤200 - Wine
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[05-Aug-20 09:02 AM] g r e g f r o m g r e g#4851
+I NEED THE BIBLE I CANT HELP IT
+
+[05-Aug-20 09:03 AM] g r e g f r o m g r e g#4851
+!buy Bible
+
+[05-Aug-20 09:03 AM] UnbelievaBoat#1046
+
+{Embed}
+sirdigbyofsmeg#4851
+:check: You have bought 1 Bible for ₤500! This is now in your inventory.
+Use this item with the `use` command.
+
+[12-Aug-20 01:56 PM] trinpod#0417
+I would like to buy a sword with dues vult sword.
+
+[12-Aug-20 01:56 PM] trinpod#0417
+I am teird of useing a gun.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/712522578996232213/743181189837488239/video0.mp4
+
+[12-Aug-20 01:58 PM] Foliamane#3308
+!shop
+
+[12-Aug-20 01:58 PM] UnbelievaBoat#1046
+
+{Embed}
+【Ｆｏｌｉａｍａｎｅ】#3308
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤50 - Schnitzel
+"Welcome to the SchnitzelPanzer, how may i help you?
+
+"Hans, What ze Fak?"
+:transparent:
+₤150 - Coffee
+☕
+:transparent:
+₤150 - Water
+It's water
+:transparent:
+₤200 - Wine
+:transparent:
+₤250 - Beer
+🍺
+:transparent:
+₤250 - Clothes
+A piece of cloth to cover your naughty bits
+:transparent:
+₤250 - Food
+It's food, it's good forget to eat and you'll die by starvation 👌
+:transparent:
+₤300 - Papal flag
+🇻🇦
+:transparent:
+₤500 - Bible
+The holy bible
+:transparent:
+₤500 - Cheap war horse
+Sold in an affordable price
+:transparent:
+Page 1/2
+
+[12-Aug-20 01:59 PM] Foliamane#3308
+!shop 2
+
+[12-Aug-20 01:59 PM] UnbelievaBoat#1046
+
+{Embed}
+【Ｆｏｌｉａｍａｎｅ】#3308
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+₤1,000 - Armour
+Shiny piece of metal ready to protect you from the enemy
+:transparent:
+₤1,000 - Gold Cross
+Ooooh shinyyyy
+:transparent:
+₤1,000 - Weapons
+A sharp weapon which allows one to slice there foe in half
+:transparent:
+₤5,000 - Expensive war horse
+Horse in shining armour
+:transparent:
+₤5,000 - Statue of the pope
+Oh look it's me!
+:transparent:
+₤20,000 - War Elephant
+It's chonky
+:transparent:
+Page 2/2
+
+==============================================================
+Exported 1,133 message(s)
+==============================================================
+
+

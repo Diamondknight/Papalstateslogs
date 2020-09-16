@@ -1,0 +1,365 @@
+==============================================================
+Guild: Papal State
+Channel: ▬▬▬𝐀𝐃𝐌𝐈𝐍𝐒▬▬▬ / │bot-spam
+==============================================================
+
+[28-May-20 04:44 AM] Pope Benedict XV#0904
+x!bacup create
+
+
+[28-May-20 04:44 AM] Pope Benedict XV#0904
+x!create backup
+
+
+[08-Jul-20 08:56 AM] Sir Thomas Rotheram Patrick#0897
+x!create backup
+
+
+[08-Jul-20 08:56 AM] Sir Thomas Rotheram Patrick#0897
+x!create
+
+
+[08-Jul-20 08:57 AM] Sir Thomas Rotheram Patrick#0897
+x!backup
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+aaaa
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+aa
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+🕵️
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+🇷🇺🇷🇺🇷🇺🇷🇺🇷🇺
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+🎖️👑
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+😔
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+😔
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+cgf
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+sf
+
+
+[01-Sep-20 02:30 AM] Bennie Thomas#1632
+gdxf
+
+
+[01-Sep-20 02:30 AM] Foliamane#3308
+🇵🇸 🇵🇸 🇵🇸 🇵🇸 🇵🇸
+
+
+[01-Sep-20 02:30 AM] Foliamane#3308
+🇵🇸 🇵🇸 🇵🇸 🇵🇸 🇵🇸
+
+
+[01-Sep-20 02:30 AM] Foliamane#3308
+🇵🇸 🇵🇸 🇵🇸 🇵🇸 🇵🇸
+
+
+[01-Sep-20 02:30 AM] Foliamane#3308
+🇵🇸 🇵🇸 🇵🇸 🇵🇸 🇵🇸
+
+
+[01-Sep-20 04:58 AM] Pope Benedict XV#0904
+This feckin
+
+
+[01-Sep-20 04:58 AM] Pope Benedict XV#0904
+Bot spam
+
+
+[01-Sep-20 04:58 AM] Pope Benedict XV#0904
+Not scheiße spam
+
+
+[01-Sep-20 05:46 AM] Bennie Thomas#1632
+x!help
+
+
+[01-Sep-20 05:46 AM] Xenon#7325
+
+{Embed}
+You can find more information on the [wiki](https://wiki.xenon.bot).
+Commands
+**x!help           ** 
+**x!backup         ** Create & load private backups of your servers
+**x!info           ** Get information about Xenon
+**x!invite         ** Get the invite for Xenon
+**x!leave          ** Let the bot leave this guild
+**x!premium        ** Get information about Xenon Premium
+**x!shard          ** Get the shard id for this or another discord guild
+**x!shards         ** Get an overview over the status of the shards
+**x!template       ** Create & load **PUBLIC** templates
+**x!chatlog        ** Save & load messages from individual channels
+**x!copy           ** Copy servers without creating a backup
+**x!sync           ** Sync messages and bans between different servers a...
+Use 'x!help [command]' to get more information about a specific command.
+
+
+[01-Sep-20 05:46 AM] Bennie Thomas#1632
+x!backup
+
+
+[01-Sep-20 05:46 AM] Xenon#7325
+
+{Embed}
+x!backup
+Create & load private backups of your servers
+Commands
+**x!backup create  ** Create a backup
+**x!backup load    ** Load a backup
+**x!backup delete  ** Delete one of your backups
+**x!backup purge   ** Delete all your backups
+**x!backup list    ** Get a list of your backups
+**x!backup info    ** Get information about a backup
+**x!backup interval** Manage automated backups
+Use 'x!help [command]' to get more information about a specific command.
+
+
+[01-Sep-20 05:47 AM] Bennie Thomas#1632
+x!backup create
+
+
+[01-Sep-20 05:47 AM] Xenon#7325
+
+{Embed}
+Error
+You are **missing** the following **permissions**: `administrator`.
+
+[Support](https://discord.club/discord)
+
+
+[01-Sep-20 05:47 AM] MEE6#4876
+
+{Embed}
+Ice water#1632 has been warned
+**Reason:** Bad word usage
+
+
+[06-Sep-20 01:01 AM] superioroberto#8726
+!prefix &
+
+
+[06-Sep-20 01:01 AM] BetterAntispam#1393
+:blobokhand: The command prefix has been changed to &
+
+
+[06-Sep-20 01:01 AM] UnbelievaBoat#1046
+:check: The bot command prefix has been changed to `` & ``
+
+
+[06-Sep-20 01:01 AM] Dyno#3861
+
+{Embed}
+:dynoSuccess: Changed server prefix to &
+
+
+[06-Sep-20 01:01 AM] superioroberto#8726
+GOD FUCKING DAMNIT
+
+
+[06-Sep-20 01:01 AM] superioroberto#8726
+&prefix !
+
+
+[06-Sep-20 01:01 AM] BetterAntispam#1393
+:blobokhand: The command prefix has been changed to !
+
+
+[06-Sep-20 01:01 AM] Dyno#3861
+
+{Embed}
+:dynoSuccess: Changed server prefix to !
+
+
+[06-Sep-20 01:01 AM] UnbelievaBoat#1046
+:check: The bot command prefix has been changed to `` ! ``
+
+
+[06-Sep-20 04:22 AM] Pope Benedict XV#0904
+roberto's in vain lol
+
+
+[07-Sep-20 12:07 PM] King Edward I#2029
+!help
+
+
+[07-Sep-20 12:07 PM] UnbelievaBoat#1046
+
+{Embed}
+Command List
+<https://unbelievaboat.com/commands>
+Support Server
+https://discord.gg/unb
+Help Command Usage
+`help [command or module]`
+provides help for a command or lists all commands in a module
+
+`help modules`
+lists all modules
+
+
+[07-Sep-20 12:07 PM] Rythm#3722
+
+{Embed}
+https://rythmbot.co/
+Rythm Help
+✅ [Click here](https://rythmbot.co/features#list) for a list of commands
+
+❓ New to Rythm? Check out our [FAQ](https://rythmbot.co/faq)
+
+📄 Still need help? [Click here](https://rythmbot.co/support) to join our Discord server
+
+
+[07-Sep-20 12:07 PM] BetterAntispam#1393
+
+{Embed}
+List of commands
+# **Moderation**
+`!ban` - Ban a member.
+`!tempban` - Ban a member temporally. (max 30 days)
+`!banalts` - Ban a member and their alternative accounts.
+`!unban` - Unban a member.
+`!kick` - Kick a member.
+`!mute` - Mute a member. (chat & voice)
+`!unmute` - Unmute a member.
+`!warn` - Add/Remove user warnings.
+`!role` - Edit a user's roles.
+`!purge` - Purge messages. (max 1000)
+`!nuke` - Purge all messages in a channel.
+`!verification` - Toggle reCAPTCHA verification. (Anti-Raid)
+`!reverify` - Force a member (or all members) to re-verify themselves.
+`!autorole` - Configure auto-role. (It assigns new members a role)
+`!nick` - Edit a user's nickname
+`!slowmode` - Toggle slow-mode.
+
+# **Antispam**
+`!blacklist` - Edit the word blacklist used for chat filter.
+`!whitelist` - Edit the word whitelist used for chat filter.
+`!imagefilter` - Toggle image filter.
+
+# **Backup**
+`!backup` - Create a server backup. (channels, roles and server settings)
+`!restore` - Restore from a backup.
+
+# **Configuration**
+`!prefix` - Change the command prefix.
+
+# **Miscellaneous**
+`!help` - Show a list of commands or details of the specified command.
+`!ping` - Pong!
+`!info` - Show bot information.
+`!serverinfo` - Show server information.
+`!channelinfo` - Show channel information.
+`!whois` - Show user information.
+`!welcome` - Set up a welcome message. You can use `%name%` and `%server%` as placeholder.
+`!say` - Say something!
+`!embed` - Say an embedded message
+
+# **Settings**
+Go to https://antispambot.io/dashboard
+Type '!help <command>' to show details.
+
+
+[07-Sep-20 12:07 PM] MEE6#4876
+
+{Embed}
+MEE6 Plugins Commands
+**Levels**
+`!help levels`
+**Music**
+`!help music`
+**Moderator**
+`!help moderator`
+**Search**
+`!help search`
+**Commands**
+`!help commands`
+**Record**
+`!help record`
+https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=1024
+
+
+[09-Sep-20 04:03 AM] Pope Benedict XV#0904
+!spam
+
+
+[09-Sep-20 04:03 AM] BetterAntispam#1393
+:blobthinkingeyes:  Unknown command. Type `!help` for a list of commands.
+
+
+[13-Sep-20 04:55 PM] superioroberto#8726
+s?m
+
+
+[13-Sep-20 04:55 PM] Statbot#3472
+
+{Embed}
+The Papal State's Message Overview
+Message stats in the past __14 Days__. _(Change with the_ `s?lookback` _command.)_
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. ago.
+Message Sum
+__14 Days__: `17,865 messages`
+7 Days: `5,306 messages`
+24 Hours: `122 messages`
+Top 5 Users
+`1st.`  @Pope Benedict XV: `4,744 messages`
+`2nd.`  @Unknown: `1,761 messages`
+`3rd.`  @Unknown: `1,202 messages`
+`4th.`  @superioroberto: `1,188 messages`
+`5th.`  @Foliamane: `1,136 messages`
+Top 3 Channels
+`1st.`  #│roma: `11,577 messages`
+`2nd.`  #│memes: `1,216 messages`
+`3rd.`  #│papal-industries: `704 messages`
+`4th.`  #│classroom: `659 messages`
+`5th.`  #│cross-empire-comms: `584 messages`
+Quick Links
+[**View Dashboard**](https://statbot.net/dashboard/712519441258250241) | [**Documentation**](https://docs.statbot.net) | [**Support**](https://statbot.net/support) | [**Upvote**](https://discordbots.org/bot/491769129318088714/vote)
+https://cdn.discordapp.com/attachments/712522617302810624/754822638546976930/chart.png
+Command s?stats messages
+
+
+[13-Sep-20 05:07 PM] King Edward I#2029
+Mm
+
+
+[13-Sep-20 05:07 PM] King Edward I#2029
+The activity is not normal
+
+
+[13-Sep-20 06:39 PM] superioroberto#8726
+ok well you’re the pope
+
+
+[13-Sep-20 06:39 PM] superioroberto#8726
+do something about it
+
+
+[13-Sep-20 06:39 PM] superioroberto#8726
+im busy today
+
+
+==============================================================
+Exported 53 message(s)
+==============================================================

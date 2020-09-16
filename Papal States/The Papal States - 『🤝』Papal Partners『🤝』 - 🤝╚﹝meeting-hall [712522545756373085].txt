@@ -1,0 +1,78 @@
+==============================================================
+Guild: The Papal States
+Channel: 『🤝』Papal Partners『🤝』 / 🤝╚﹝meeting-hall
+==============================================================
+
+[25-May-20 08:35 AM] xEOCx General Lasagna#1102
+The Lasagna Empire was called?
+
+[25-May-20 08:36 AM] Pope Benedict XV#0904
+Yes
+
+[25-May-20 08:37 AM] xEOCx General Lasagna#1102
+Can we identify who did the nuking?
+
+[25-May-20 08:41 AM] Pope Benedict XV#0904
+@xEOCx General Lasagna we have no idea I checked the audit logs
+
+[25-May-20 08:42 AM] Pope Benedict XV#0904
+s?mem
+
+[25-May-20 08:42 AM] Statbot#3472
+
+{Embed}
+The Papal States's Member Count Overview
+Memberflow and count for the past __14 days__. *(Configured with the* `set lookback` *command.)*
+
+Also displayed are the past 7 days and "24 hours" if not already configured.
+
+All times displayed by this bot are currently in the UTC timezone (GMT±0). The website graphs will adjust to your browser's timezone. This will be configurable in the future!
+Members
+Users: `57`
+Bots: `14`
+Memberflow past __14 days__
+Change: `+12 members (+17.14%)`
+Memberflow past 7 days
+Change: `+12 members (+17.14%)`
+Memberflow past 24 hours
+Change: `+3 members (+4.28%)`
+__Quick Links__
+[View Dashboard](https://statbot.net/dashboard/712519441258250241) | [Upvote Statbot](https://discordbots.org/bot/491769129318088714/vote) | [Support Server](https://discord.gg/hssnCgZ) | [Commands](http://kb.statbot.net/commands/)
+https://cdn.discordapp.com/attachments/712522545756373085/714473431953047572/chart.png
+Command used s?stats members
+
+[25-May-20 08:42 AM] Pope Benedict XV#0904
+Fair enough
+
+[25-May-20 08:42 AM] xEOCx General Lasagna#1102
+What time did the nuking occur?
+
+[25-May-20 08:42 AM] Pope Benedict XV#0904
+When I was asleep
+
+[25-May-20 08:43 AM] xEOCx General Lasagna#1102
+I see.
+That's a broad amount of time.
+I'll ask around and see if I can get any info.
+
+[25-May-20 08:44 AM] Pope Benedict XV#0904
+K
+
+[25-May-20 08:44 AM] xEOCx General Lasagna#1102
+May I also join your military?
+To help to better defend the States?
+
+[25-May-20 08:45 AM] Pope Benedict XV#0904
+@xEOCx General Lasagna ok
+
+[26-May-20 07:49 AM] Царевичъ Банишки#3815
+where is the invitiations channel @Pope Benedict XV
+
+[26-May-20 11:10 AM] Pope Benedict XV#0904
+@Царевичъ Банишки #🤝╔﹝papal-partners
+
+==============================================================
+Exported 15 message(s)
+==============================================================
+
+

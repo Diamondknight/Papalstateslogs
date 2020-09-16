@@ -1,0 +1,772 @@
+==============================================================
+Guild: Papal State
+Channel: ▬▬▬𝐀𝐃𝐌𝐈𝐍𝐒▬▬▬ / │modlogs
+==============================================================
+
+[25-Jun-20 12:31 AM] Wick#3938
+
+{Embed}
+Case:
+`1` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `nightwolf#0733` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/629533572704763904/0d1a46547314b3177e39377b65bca1d3.webp
+Jun 25, 2020 5:31 AM
+
+
+[25-Jun-20 01:35 AM] Wick#3938
+
+{Embed}
+Case:
+`2` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `CookieSwoop#1413` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/483682493644668953/ce8495a04e645dc160bcdeff9bd55c7d.webp
+Jun 25, 2020 6:35 AM
+
+
+[25-Jun-20 02:05 AM] Wick#3938
+
+{Embed}
+Case:
+`3` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `CookieSwoop#1413` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/483682493644668953/ce8495a04e645dc160bcdeff9bd55c7d.webp
+Jun 25, 2020 7:05 AM
+
+
+[25-Jun-20 02:12 AM] Wick#3938
+
+{Embed}
+Case:
+`4` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Re Benito Eugenio I di Sicilia#1311` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/552666305048870927/07b2f4ad97d0c993c1b9fbfa939ff06f.webp
+Jun 25, 2020 7:12 AM
+
+
+[25-Jun-20 02:13 AM] Wick#3938
+
+{Embed}
+Case:
+`5` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Re Benito Eugenio I di Sicilia#1311` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/552666305048870927/07b2f4ad97d0c993c1b9fbfa939ff06f.webp
+Jun 25, 2020 7:13 AM
+
+
+[25-Jun-20 02:32 AM] Wick#3938
+
+{Embed}
+Case:
+`6` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `KeyError™#9091` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/396204688220880896/b55f34a036763fbf037edbf36dbed337.webp
+Jun 25, 2020 7:32 AM
+
+
+[25-Jun-20 03:11 AM] Wick#3938
+
+{Embed}
+Case:
+`7` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Mao Zedong#8460` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/621711640349638665/c1e9e50ec5cc11620e3e22d439c04af4.webp
+Jun 25, 2020 8:11 AM
+
+
+[25-Jun-20 03:12 AM] Wick#3938
+
+{Embed}
+Case:
+`8` :success:
+Type:
+`Unmute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Mao Zedong#8460` :kick:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/621711640349638665/c1e9e50ec5cc11620e3e22d439c04af4.webp
+Jun 25, 2020 8:12 AM
+
+
+[01-Aug-20 03:56 AM] Wick#3938
+
+{Embed}
+Case:
+`9` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Noah smithwick#5331` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/707327835110506547/9c284ffd37d1554209bea742ac4dfe36.webp
+Aug 1, 2020 1:56 AM
+
+
+[05-Sep-20 06:27 AM] Pope Benedict XV#0904
+x!backup create
+
+
+[05-Sep-20 06:27 AM] Xenon#7325
+
+{Embed}
+Success
+Successfully **created backup** with the id `414lxn8wek`.
+Usage
+```x!backup load 414lxn8wek```
+```x!backup info 414lxn8wek```
+
+
+[05-Sep-20 07:10 AM] Pope Benedict XV#0904
+w!setup
+
+
+[05-Sep-20 07:10 AM] Wick#3938
+
+{Embed}
+Wick Setup:
+:success: Initializing Quick Setup!
+ :success: Checking for permissions...
+ :cancel: **Checking Wick's role position...**
+Error Details:
+**Wick doesn't seem to be listed higher in the roles list**
+```diff
+Place Wick above most role so that it's able to monitor most members.```
+
+
+[05-Sep-20 07:11 AM] Pope Benedict XV#0904
+w!setup
+
+
+[05-Sep-20 07:11 AM] Wick#3938
+
+{Embed}
+Wick Setup:
+:success: Initializing Quick Setup!
+ :success: Checking for permissions...
+ :success: Checking Wick's role position...
+ :success: Checking if there's an existing Mute Role...
+ :success: Setting up Mute role accross all channels..
+ :success: Checking if there's an existing Quarantine Role...
+ :success: Setting up Quarantine role accross all channels..
+ :success: Checking if there's an existing Logging Channel...
+:space::rightSort: :success: No log channel was found... Setting up a logging channel...
+ :success: Checking if there's an existing Mod-Log channel..
+ :success: Saving changes...
+Setup Finished!
+*The setup finished successfully in `31s`. You can now proceeded at following the documentations to setup other settings that would require your own input.*
+
+
+[05-Sep-20 07:21 AM] Pope Benedict XV#0904
+w!whitelist @Basileus Alexios VI Apokios ?add 1
+
+
+[05-Sep-20 07:21 AM] Wick#3938
+
+{Embed}
+Spam Whitelist Addition Result:
+:success: Successful Operations
+:rightSort: `Basileus Alexios VI Apokios#6212`
+:cancel: Unsuccessful Operations
+All operations were successful!
+
+
+[05-Sep-20 07:21 AM] Pope Benedict XV#0904
+w!whitelist @superioroberto ?add 1
+
+
+[05-Sep-20 07:21 AM] Wick#3938
+
+{Embed}
+Spam Whitelist Addition Result:
+:success: Successful Operations
+:rightSort: `superioroberto#8726`
+:cancel: Unsuccessful Operations
+All operations were successful!
+
+
+[05-Sep-20 07:22 AM] Pope Benedict XV#0904
+w!whitelist #│vatican-news-twitter ?add 2
+
+
+[05-Sep-20 07:22 AM] Wick#3938
+
+{Embed}
+Ping Whitelist Addition Result:
+:success: Successful Operations
+No successful operation!
+:cancel: Unsuccessful Operations
+:rightSort: `│vatican-news-twitter` :cancel:
+:space::rightDoubleArrow: *Channel Already exists!*
+
+
+[05-Sep-20 07:22 AM] Pope Benedict XV#0904
+!whitellist
+
+
+[05-Sep-20 07:23 AM] Pope Benedict XV#0904
+w!w
+
+
+[05-Sep-20 07:23 AM] Wick#3938
+
+{Embed}
+[1] Spam Whitelist:
+[A] :whitelistUser: Members Whitelisted (3)
+@Unknown
+@Basileus Alexios VI Apokios
+@superioroberto
+[B] :whitelistRole: Roles Whitelisted (2)
+@🤖Papal Bots🤖
+@⛔Immigrants⛔
+[C] :whitelistChannel: Channels Whitelisted (2)
+:channel: #│vatican-news-twitter
+:channel: #│audit-logs
+[D] :whitelistChannel: Categories Whitelisted (0)
+`No record found.`
+[E] :whitelistWebhook: Webhooks Whitelisted (0)
+`No record found.`
+Activity Pages:
+**[ 1. Spam Whitelist ]** [2. Ping Whitelist] `••` [5. Public Roles Mentioning Whitelist]
+
+
+[05-Sep-20 07:23 AM] Pope Benedict XV#0904
+w!w #│shitposting ?add 2
+
+
+[05-Sep-20 07:23 AM] Wick#3938
+
+{Embed}
+Ping Whitelist Addition Result:
+:success: Successful Operations
+:rightSort: `│shitposting`
+:cancel: Unsuccessful Operations
+All operations were successful!
+
+
+[05-Sep-20 07:26 AM] Pope Benedict XV#0904
+w!whitelist @⛔Immigrants⛔ ?remove 2
+
+
+[05-Sep-20 07:26 AM] Wick#3938
+
+{Embed}
+Father Benedict XV, wrong use!
+Number provided doesn't represent any Whitelist Type! Try Again.
+Need help?
+:space::arrowRight: **[Whitelist Documentation](https://docs.wickbot.com/v3/commands/settings/whitelist)**
+https://i.imgur.com/PX7pfNB.png
+
+
+[05-Sep-20 07:26 AM] Pope Benedict XV#0904
+F
+
+
+[05-Sep-20 07:27 AM] Pope Benedict XV#0904
+w!w #│the-main-hall ?add 2
+
+
+[05-Sep-20 07:27 AM] Wick#3938
+
+{Embed}
+Ping Whitelist Addition Result:
+:success: Successful Operations
+:rightSort: `│the-main-hall`
+:cancel: Unsuccessful Operations
+All operations were successful!
+
+
+[05-Sep-20 07:27 AM] Pope Benedict XV#0904
+People pray there so
+
+
+[05-Sep-20 07:29 AM] Pope Benedict XV#0904
+w!w #│entry ?add 2
+
+
+[05-Sep-20 07:29 AM] Wick#3938
+
+{Embed}
+Ping Whitelist Addition Result:
+:success: Successful Operations
+:rightSort: `│invite-logs`
+:cancel: Unsuccessful Operations
+All operations were successful!
+
+
+[05-Sep-20 01:35 PM] superioroberto#8726
+pls hack @superioroberto
+
+
+[05-Sep-20 01:35 PM] Basileus Alexios VI Apokios#6212
+dank memer does not have perms
+
+
+[05-Sep-20 01:36 PM] Basileus Alexios VI Apokios#6212
+to type or see here
+
+
+[05-Sep-20 01:36 PM] Basileus Alexios VI Apokios#6212
+@superioroberto
+
+
+[05-Sep-20 01:36 PM] superioroberto#8726
+ah
+
+
+[05-Sep-20 01:37 PM] superioroberto#8726
+pls hack @superioroberto
+
+
+[05-Sep-20 01:37 PM] Dank Memer#5192
+Finished hacking superioroberto
+
+
+[05-Sep-20 01:37 PM] Dank Memer#5192
+The totally real and dangerous hack is complete
+
+
+[05-Sep-20 01:37 PM] Basileus Alexios VI Apokios#6212
+did it flash your real email?
+
+
+[05-Sep-20 01:37 PM] superioroberto#8726
+no that was a fake email
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+ah good
+
+
+[05-Sep-20 01:38 PM] superioroberto#8726
+it was like Superiorobeatsass@yahoo
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+the one it showed for pius
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+looked real
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+what pius would put
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+lmao
+
+
+[05-Sep-20 01:38 PM] superioroberto#8726
+pius is retarded it wuld make sense but yeah it’s not real
+
+
+[05-Sep-20 01:38 PM] superioroberto#8726
+lol
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+yeah
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+that is what threw me off
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+so keep the bot then
+
+
+[05-Sep-20 01:38 PM] superioroberto#8726
+yhea
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+the command*
+
+
+[05-Sep-20 01:38 PM] Basileus Alexios VI Apokios#6212
+it was something like
+
+
+[05-Sep-20 01:39 PM] Basileus Alexios VI Apokios#6212
+piushasasmallpeen@somethingsomething
+
+
+[05-Sep-20 01:39 PM] superioroberto#8726
+ah
+
+
+[05-Sep-20 01:39 PM] Basileus Alexios VI Apokios#6212
+remember his old status
+
+
+[05-Sep-20 01:39 PM] Basileus Alexios VI Apokios#6212
+I'm actually peed
+
+
+[05-Sep-20 01:39 PM] superioroberto#8726
+yhea
+
+
+[05-Sep-20 01:39 PM] Basileus Alexios VI Apokios#6212
+that is what threw me off
+
+
+[05-Sep-20 01:39 PM] superioroberto#8726
+pius is really hypocritical
+
+
+[05-Sep-20 01:39 PM] superioroberto#8726
+
+{Attachments}
+https://cdn.discordapp.com/attachments/713314460500099092/751874239228936222/image0.png
+
+
+[05-Sep-20 01:39 PM] superioroberto#8726
+“No profanity!!!!”
+
+
+[06-Sep-20 12:10 AM] Wick#3938
+
+{Embed}
+Case:
+`10` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Deutsches Heer Private 1-1-8#0400` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/729726681857917089/edc1c26100685bdb2c56737f05e98d17.webp
+Sep 5, 2020 10:10 PM
+
+
+[06-Sep-20 12:11 AM] Wick#3938
+
+{Embed}
+Case:
+`11` :success:
+Type:
+`Unmute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Deutsches Heer Private 1-1-8#0400` :kick:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/729726681857917089/edc1c26100685bdb2c56737f05e98d17.webp
+Sep 5, 2020 10:11 PM
+
+
+[06-Sep-20 12:12 AM] Wick#3938
+
+{Embed}
+Case:
+`12` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Destuches Heer Private#1382` :mute:
+Reason:
+`No reason provided.`
+Sep 5, 2020 10:12 PM
+
+
+[06-Sep-20 12:18 AM] Wick#3938
+
+{Embed}
+Case:
+`13` :success:
+Type:
+`Unmute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Destuches Heer Private#1382` :kick:
+Reason:
+`No reason provided.`
+Sep 5, 2020 10:18 PM
+
+
+[06-Sep-20 12:40 AM] Wick#3938
+
+{Embed}
+Case:
+`14` :success:
+Type:
+`Mute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Chill Vibes™#9652` :mute:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/696905006200127549/c6eb2a0a01e2e32a003f265e877cfa8e.webp
+Sep 5, 2020 10:40 PM
+
+
+[06-Sep-20 12:42 AM] Wick#3938
+
+{Embed}
+Case:
+`15` :success:
+Type:
+`Unmute`
+Moderator:
+`Pope Benedict XV#0904` :owner:
+Target:
+:rightSort: `Chill Vibes™#9652` :kick:
+Reason:
+`No reason provided.`
+https://cdn.discordapp.com/avatars/696905006200127549/c6eb2a0a01e2e32a003f265e877cfa8e.webp
+Sep 5, 2020 10:42 PM
+
+
+[06-Sep-20 04:39 AM] Pope Benedict XV#0904
+!help
+
+
+[06-Sep-20 04:39 AM] Rythm#3722
+
+{Embed}
+https://rythmbot.co/
+Rythm Help
+✅ [Click here](https://rythmbot.co/features#list) for a list of commands
+
+❓ New to Rythm? Check out our [FAQ](https://rythmbot.co/faq)
+
+📄 Still need help? [Click here](https://rythmbot.co/support) to join our Discord server
+
+
+[06-Sep-20 04:39 AM] UnbelievaBoat#1046
+
+{Embed}
+Command List
+<https://unbelievaboat.com/commands>
+Support Server
+https://discord.gg/unb
+Help Command Usage
+`help [command or module]`
+provides help for a command or lists all commands in a module
+
+`help modules`
+lists all modules
+
+
+[06-Sep-20 04:39 AM] MEE6#4876
+
+{Embed}
+MEE6 Plugins Commands
+**Search**
+`!help search`
+**Commands**
+`!help commands`
+**Moderator**
+`!help moderator`
+**Levels**
+`!help levels`
+**Record**
+`!help record`
+**Music**
+`!help music`
+https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=1024
+
+
+[06-Sep-20 04:39 AM] BetterAntispam#1393
+
+{Embed}
+List of commands
+# **Moderation**
+`!ban` - Ban a member.
+`!tempban` - Ban a member temporally. (max 30 days)
+`!banalts` - Ban a member and their alternative accounts.
+`!unban` - Unban a member.
+`!kick` - Kick a member.
+`!mute` - Mute a member. (chat & voice)
+`!unmute` - Unmute a member.
+`!warn` - Add/Remove user warnings.
+`!role` - Edit a user's roles.
+`!purge` - Purge messages. (max 1000)
+`!nuke` - Purge all messages in a channel.
+`!verification` - Toggle reCAPTCHA verification. (Anti-Raid)
+`!reverify` - Force a member (or all members) to re-verify themselves.
+`!autorole` - Configure auto-role. (It assigns new members a role)
+`!nick` - Edit a user's nickname
+`!slowmode` - Toggle slow-mode.
+
+# **Antispam**
+`!blacklist` - Edit the word blacklist used for chat filter.
+`!whitelist` - Edit the word whitelist used for chat filter.
+`!imagefilter` - Toggle image filter.
+
+# **Backup**
+`!backup` - Create a server backup. (channels, roles and server settings)
+`!restore` - Restore from a backup.
+
+# **Configuration**
+`!prefix` - Change the command prefix.
+
+# **Miscellaneous**
+`!help` - Show a list of commands or details of the specified command.
+`!ping` - Pong!
+`!info` - Show bot information.
+`!serverinfo` - Show server information.
+`!channelinfo` - Show channel information.
+`!whois` - Show user information.
+`!welcome` - Set up a welcome message. You can use `%name%` and `%server%` as placeholder.
+`!say` - Say something!
+`!embed` - Say an embedded message
+
+# **Settings**
+Go to https://antispambot.io/dashboard
+Type '!help <command>' to show details.
+
+
+[06-Sep-20 04:40 AM] Pope Benedict XV#0904
+hmmmmmmm
+
+
+[09-Sep-20 01:23 AM] Pope Benedict XV#0904
+yeah
+
+
+[09-Sep-20 01:23 AM] Pope Benedict XV#0904
+@Basileus Alexios VI Apokios
+
+
+[09-Sep-20 01:23 AM] Pope Benedict XV#0904
+check on the backup
+
+
+[09-Sep-20 01:23 AM] Pope Benedict XV#0904
+server
+
+
+[09-Sep-20 01:23 AM] Pope Benedict XV#0904
+x!backup
+
+
+[09-Sep-20 01:23 AM] Xenon#7325
+
+{Embed}
+x!backup
+Create & load private backups of your servers
+Commands
+**x!backup create  ** Create a backup
+**x!backup load    ** Load a backup
+**x!backup delete  ** Delete one of your backups
+**x!backup purge   ** Delete all your backups
+**x!backup list    ** Get a list of your backups
+**x!backup info    ** Get information about a backup
+**x!backup interval** Manage automated backups
+Use 'x!help [command]' to get more information about a specific command.
+
+
+[09-Sep-20 01:23 AM] Pope Benedict XV#0904
+x!backup create
+
+
+[09-Sep-20 01:23 AM] Xenon#7325
+
+{Embed}
+Success
+Successfully **created backup** with the id `415ofqkcc3`.
+Usage
+```x!backup load 415ofqkcc3```
+```x!backup info 415ofqkcc3```
+
+
+[09-Sep-20 01:24 AM] Pope Benedict XV#0904
+edward might have done something wrong there
+
+
+[09-Sep-20 01:24 AM] Pope Benedict XV#0904
+or tried to crusade etc etc idk
+
+
+[09-Sep-20 01:24 AM] Pope Benedict XV#0904
+which offended them
+
+
+[09-Sep-20 01:24 AM] Pope Benedict XV#0904
+so war might be comming
+
+
+[09-Sep-20 01:25 AM] Pope Benedict XV#0904
+i have classes i gtg
+
+
+[09-Sep-20 01:25 AM] Basileus Alexios VI Apokios#6212
+he is on rn
+
+
+[09-Sep-20 01:25 AM] Basileus Alexios VI Apokios#6212
+edward
+
+
+[09-Sep-20 01:25 AM] Basileus Alexios VI Apokios#6212
+DMing him rn
+
+
+==============================================================
+Exported 95 message(s)
+==============================================================

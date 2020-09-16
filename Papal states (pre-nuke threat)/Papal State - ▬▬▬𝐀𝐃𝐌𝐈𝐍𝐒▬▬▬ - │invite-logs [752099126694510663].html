@@ -1,0 +1,1974 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Papal State - │invite-logs</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    <style>
+        /* General */
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://discord.com/assets/6c6374bad0b0b6d204d8d6dc4a18d820.woff);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://discord.com/assets/e8acd7d9bf6207f99350ca9f9e23b168.woff);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://discord.com/assets/3bdef1251a424500c1b3a78dea9b7e57.woff);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://discord.com/assets/be0060dafb7a0e31d2a1ca17c0708636.woff);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://discord.com/assets/8e12fb4f14d9c4592eb8ec9f22337b04.woff);
+    font-weight: 700;
+}
+
+body {
+    font-family: "Whitney", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    object-fit: contain;
+}
+
+.markdown {
+    max-width: 100%;
+    white-space: pre-wrap;
+    line-height: 1.3;
+    overflow-wrap: break-word;
+}
+
+.spoiler {
+    width: fit-content;
+}
+
+.spoiler--hidden {
+    cursor: pointer;
+}
+
+.spoiler-text {
+    border-radius: 3px;
+}
+
+.spoiler--hidden .spoiler-text {
+    color: rgba(0, 0, 0, 0);
+}
+
+.spoiler--hidden .spoiler-text::selection {
+    color: rgba(0, 0, 0, 0);
+}
+
+.spoiler-image {
+    position: relative;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.spoiler--hidden .spoiler-image {
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.spoiler--hidden .spoiler-image img {
+    filter: blur(44px);
+}
+
+.spoiler--hidden .spoiler-image:after {
+    content: "SPOILER";
+    color: #dcddde;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 600;
+    padding: 0.5em 0.7em;
+    border-radius: 20px;
+    letter-spacing: 0.05em;
+    font-size: 0.9em;
+}
+
+.spoiler--hidden:hover .spoiler-image:after {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.quote {
+    margin: 0.1em 0;
+    padding-left: 0.6em;
+    border-left: 4px solid;
+    border-radius: 3px;
+}
+
+.pre {
+    font-family: "Consolas", "Courier New", Courier, monospace;
+}
+
+.pre--multiline {
+    margin-top: 0.25em;
+    padding: 0.5em;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.pre--inline {
+    padding: 2px;
+    border-radius: 3px;
+    font-size: 0.85em;
+}
+
+.mention {
+    border-radius: 3px;
+    padding: 0 2px;
+    color: #7289da;
+    background: rgba(114, 137, 218, .1);
+    font-weight: 500;
+}
+
+.emoji {
+    width: 1.25em;
+    height: 1.25em;
+    margin: 0 0.06em;
+    vertical-align: -0.4em;
+}
+
+.emoji--small {
+    width: 1em;
+    height: 1em;
+}
+
+.emoji--large {
+    width: 2.8em;
+    height: 2.8em;
+}
+
+/* Preamble */
+
+.preamble {
+    display: grid;
+    margin: 0 0.3em 0.6em 0.3em;
+    max-width: 100%;
+    grid-template-columns: auto 1fr;
+}
+
+.preamble__guild-icon-container {
+    grid-column: 1;
+}
+
+.preamble__guild-icon {
+    max-width: 88px;
+    max-height: 88px;
+}
+
+.preamble__entries-container {
+    grid-column: 2;
+    margin-left: 0.6em;
+}
+
+.preamble__entry {
+    font-size: 1.4em;
+}
+
+.preamble__entry--small {
+    font-size: 1em;
+}
+
+/* Chatlog */
+
+.chatlog {
+    max-width: 100%;
+}
+
+.chatlog__message-group {
+    display: grid;
+    margin: 0 0.6em;
+    padding: 0.9em 0;
+    border-top: 1px solid;
+    grid-template-columns: auto 1fr;
+}
+
+.chatlog__author-avatar-container {
+    grid-column: 1;
+    width: 40px;
+    height: 40px;
+}
+
+.chatlog__author-avatar {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+
+.chatlog__messages {
+    grid-column: 2;
+    margin-left: 1.2em;
+    min-width: 50%;
+}
+
+.chatlog__author-name {
+    font-weight: 500;
+}
+
+.chatlog__timestamp {
+    margin-left: 0.3em;
+    font-size: 0.75em;
+}
+
+.chatlog__message {
+    padding: 0.1em 0.3em;
+    margin: 0 -0.3em;
+    background-color: transparent;
+    transition: background-color 1s ease;
+}
+
+.chatlog__content {
+    font-size: 0.95em;
+    word-wrap: break-word;
+}
+
+.chatlog__edited-timestamp {
+    margin-left: 0.15em;
+    font-size: 0.8em;
+}
+
+.chatlog__attachment {
+    margin-top: 0.3em;
+}
+
+.chatlog__attachment-thumbnail {
+    vertical-align: top;
+    max-width: 45vw;
+    max-height: 500px;
+    border-radius: 3px;
+}
+
+.chatlog__embed {
+    display: flex;
+    margin-top: 0.3em;
+    max-width: 520px;
+}
+
+.chatlog__embed-color-pill {
+    flex-shrink: 0;
+    width: 0.25em;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.chatlog__embed-content-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em 0.6em;
+    border: 1px solid;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.chatlog__embed-content {
+    display: flex;
+    width: 100%;
+}
+
+.chatlog__embed-text {
+    flex: 1;
+}
+
+.chatlog__embed-author {
+    display: flex;
+    margin-bottom: 0.3em;
+    align-items: center;
+}
+
+.chatlog__embed-author-icon {
+    margin-right: 0.5em;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.chatlog__embed-author-name {
+    font-size: 0.875em;
+    font-weight: 600;
+}
+
+.chatlog__embed-title {
+    margin-bottom: 0.2em;
+    font-size: 0.875em;
+    font-weight: 600;
+}
+
+.chatlog__embed-description {
+    font-weight: 500;
+    font-size: 0.85em;
+}
+
+.chatlog__embed-fields {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chatlog__embed-field {
+    flex: 0;
+    min-width: 100%;
+    max-width: 506px;
+    padding-top: 0.6em;
+    font-size: 0.875em;
+}
+
+.chatlog__embed-field--inline {
+    flex: 1;
+    flex-basis: auto;
+    min-width: 150px;
+}
+
+.chatlog__embed-field-name {
+    margin-bottom: 0.2em;
+    font-weight: 600;
+}
+
+.chatlog__embed-field-value {
+    font-weight: 500;
+}
+
+.chatlog__embed-thumbnail {
+    flex: 0;
+    margin-left: 1.2em;
+    max-width: 80px;
+    max-height: 80px;
+    border-radius: 3px;
+}
+
+.chatlog__embed-image-container {
+    margin-top: 0.6em;
+}
+
+.chatlog__embed-image {
+    max-width: 500px;
+    max-height: 400px;
+    border-radius: 3px;
+}
+
+.chatlog__embed-footer {
+    margin-top: 0.6em;
+}
+
+.chatlog__embed-footer-icon {
+    margin-right: 0.2em;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.chatlog__embed-footer-text {
+    font-size: 0.75em;
+    font-weight: 500;
+}
+
+.chatlog__reactions {
+    display: flex;
+}
+
+.chatlog__reaction {
+    display: flex;
+    align-items: center;
+    margin: 0.35em 0.1em 0.1em 0.1em;
+    padding: 0.2em 0.35em;
+    border-radius: 3px;
+}
+
+.chatlog__reaction-count {
+    min-width: 9px;
+    margin-left: 0.35em;
+    font-size: 0.875em;
+}
+
+.chatlog__bot-tag {
+    position: relative;
+    top: -.2em;
+    margin-left: 0.3em;
+    padding: 0.05em 0.3em;
+    border-radius: 3px;
+    vertical-align: middle;
+    line-height: 1.3;
+    background: #7289da;
+    color: #ffffff;
+    font-size: 0.625em;
+    font-weight: 500;
+}
+
+/* Postamble */
+
+.postamble {
+    margin: 1.4em 0.3em 0.6em 0.3em;
+    padding: 1em;
+    border-top: 1px solid;
+}
+    </style>
+    <style>
+        /* General */
+
+body {
+    background-color: #36393e;
+    color: #dcddde;
+}
+
+a {
+    color: #0096cf;
+}
+
+.spoiler-text {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.spoiler--hidden .spoiler-text {
+    background-color: #202225;
+}
+
+.spoiler--hidden:hover .spoiler-text {
+    background-color: rgba(32, 34, 37, 0.8);
+}
+
+.quote {
+    border-color: #4f545c;
+}
+
+.pre {
+    background-color: #2f3136 !important;
+}
+
+.pre--multiline {
+    border-color: #282b30 !important;
+    color: #b9bbbe !important;
+}
+
+/* === Preamble === */
+
+.preamble__entry {
+    color: #ffffff;
+}
+
+/* Chatlog */
+
+.chatlog__message-group {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.chatlog__author-name {
+    color: #ffffff;
+}
+
+.chatlog__timestamp {
+    color: rgba(255, 255, 255, 0.2);
+}
+
+.chatlog__message--highlighted {
+    background-color: rgba(114, 137, 218, 0.2) !important;
+}
+
+.chatlog__message--pinned {
+    background-color: rgba(249, 168, 37, 0.05);
+}
+
+.chatlog__edited-timestamp {
+    color: rgba(255, 255, 255, 0.2);
+}
+
+.chatlog__embed-color-pill--default {
+    background-color: rgba(79, 84, 92, 1);
+}
+
+.chatlog__embed-content-container {
+    background-color: rgba(46, 48, 54, 0.3);
+    border-color: rgba(46, 48, 54, 0.6);
+}
+
+.chatlog__embed-author-name {
+    color: #ffffff;
+}
+
+.chatlog__embed-author-name-link {
+    color: #ffffff;
+}
+
+.chatlog__embed-title {
+    color: #ffffff;
+}
+
+.chatlog__embed-description {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.chatlog__embed-field-name {
+    color: #ffffff;
+}
+
+.chatlog__embed-field-value {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.chatlog__embed-footer {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.chatlog__reaction {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.chatlog__reaction-count {
+    color: rgba(255, 255, 255, 0.3);
+}
+
+/* Postamble */
+
+.postamble {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.postamble__entry {
+    color: #ffffff;
+}
+    </style>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/solarized-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.pre--multiline').forEach(block => hljs.highlightBlock(block));
+        });
+    </script>
+
+    <script>
+        function scrollToMessage(event, id) {
+            var element = document.getElementById('message-' + id);
+
+            if (element) {
+                event.preventDefault();
+
+                element.classList.add('chatlog__message--highlighted');
+
+                window.scrollTo({
+                    top: element.getBoundingClientRect().top - document.body.getBoundingClientRect().top - (window.innerHeight / 2),
+                    behavior: 'smooth'
+                });
+
+                window.setTimeout(function() {
+                    element.classList.remove('chatlog__message--highlighted');
+                }, 2000);
+            }
+        }
+
+        function showSpoiler(event, element) {
+            if (element && element.classList.contains('spoiler--hidden')) {
+                event.preventDefault();
+                element.classList.remove('spoiler--hidden');
+            }
+        }
+    </script>
+</head>
+<body>
+
+<div class="preamble">
+    <div class="preamble__guild-icon-container">
+        <img class="preamble__guild-icon" src="https://cdn.discordapp.com/icons/712519441258250241/9c80cb017c964c4d9f2dcaa3d4686dfc.png" alt="Guild icon">
+    </div>
+    <div class="preamble__entries-container">
+        <div class="preamble__entry">Papal State</div>
+        <div class="preamble__entry">▬▬▬&#119808;&#119811;&#119820;&#119816;&#119821;&#119826;▬▬▬ / │invite-logs</div>
+
+
+    </div>
+</div>
+
+<div class="chatlog">
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/235088799074484224/16c197c4c3f0eb808f9bceb6e1075e71.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Rythm#3722" data-user-id="235088799074484224" style="color: rgb(146,151,156)">Rythm</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">06-Sep-20 04:37 AM</span>
+
+            <div class="chatlog__message " data-message-id="752100107683496058" id="message-752100107683496058">
+                <div class="chatlog__content">
+                    <div class="markdown">❌ <strong>No messages found to prune</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="UnbelievaBoat#1046" data-user-id="292953664492929025" style="color: rgb(146,151,156)">UnbelievaBoat</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">06-Sep-20 04:37 AM</span>
+
+            <div class="chatlog__message " data-message-id="752100107989811230" id="message-752100107989811230">
+                <div class="chatlog__content">
+                    <div class="markdown"><img class="emoji " alt="xmark" title="xmark" src="https://cdn.discordapp.com/emojis/338071972330209281.png"> No messages were found to delete.
+Note: Messages older than 2 weeks cannot be deleted. <span class="chatlog__edited-timestamp" title="06-Sep-20 04:37 AM">(edited)</span></div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">06-Sep-20 06:58 AM</span>
+
+            <div class="chatlog__message " data-message-id="752135565863944202" id="message-752135565863944202">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>10</strong> Invites). We are now at <strong>241 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">06-Sep-20 12:14 PM</span>
+
+            <div class="chatlog__message " data-message-id="752215050206445679" id="message-752215050206445679">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Nukey6</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">06-Sep-20 08:23 PM</span>
+
+            <div class="chatlog__message " data-message-id="752338275414573091" id="message-752338275414573091">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>11</strong> Invites). We are now at <strong>240 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+            <div class="chatlog__message " data-message-id="752338352757407914" id="message-752338352757407914">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>B34</strong>, invited by <strong>Pope Benedict XV</strong> (<strong>10 invites</strong>) </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">06-Sep-20 10:12 PM</span>
+
+            <div class="chatlog__message " data-message-id="752365559236132984" id="message-752365559236132984">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>baker</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">06-Sep-20 11:10 PM</span>
+
+            <div class="chatlog__message " data-message-id="752380322645278801" id="message-752380322645278801">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>KPIBM</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">06-Sep-20 11:45 PM</span>
+
+            <div class="chatlog__message " data-message-id="752389041135288451" id="message-752389041135288451">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>superioroberto</strong> (<strong>1</strong> Invites). We are now at <strong>238 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+            <div class="chatlog__message " data-message-id="752389101982056488" id="message-752389101982056488">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>KPIBM</strong>, invited by <strong>superioroberto</strong> (<strong>0 invites</strong>) </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">07-Sep-20 03:23 AM</span>
+
+            <div class="chatlog__message " data-message-id="752443919756820481" id="message-752443919756820481">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>11</strong> Invites). We are now at <strong>238 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+            <div class="chatlog__message " data-message-id="752444144496148580" id="message-752444144496148580">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>beeman</strong>, invited by <strong>Pope Benedict XV</strong> (<strong>10 invites</strong>) </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">07-Sep-20 04:59 AM</span>
+
+            <div class="chatlog__message " data-message-id="752468003127296020" id="message-752468003127296020">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>superioroberto</strong> (<strong>1</strong> Invites). We are now at <strong>238 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">07-Sep-20 10:34 AM</span>
+
+            <div class="chatlog__message " data-message-id="752552359741095976" id="message-752552359741095976">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>11</strong> Invites). We are now at <strong>239 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">07-Sep-20 11:17 AM</span>
+
+            <div class="chatlog__message " data-message-id="752563315472859226" id="message-752563315472859226">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>12</strong> Invites). We are now at <strong>241 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+            <div class="chatlog__message " data-message-id="752563336910209054" id="message-752563336910209054">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Miguel &#193;ngel F&#233;lix Gallardo</strong>, invited by <strong>Pope Benedict XV</strong> (<strong>11 invites</strong>) </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">07-Sep-20 01:40 PM</span>
+
+            <div class="chatlog__message " data-message-id="752599283374489651" id="message-752599283374489651">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Atelerix Albiventris</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">07-Sep-20 03:12 PM</span>
+
+            <div class="chatlog__message " data-message-id="752622313052045534" id="message-752622313052045534">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Basileus Alexios VI Apokios</strong> (<strong>1</strong> Invites). We are now at <strong>240 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">07-Sep-20 06:22 PM</span>
+
+            <div class="chatlog__message " data-message-id="752670194891096144" id="message-752670194891096144">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Constantine the Great</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">07-Sep-20 08:42 PM</span>
+
+            <div class="chatlog__message " data-message-id="752705492727627968" id="message-752705492727627968">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Anth</strong> (<strong>1</strong> Invites). We are now at <strong>240 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">07-Sep-20 11:47 PM</span>
+
+            <div class="chatlog__message " data-message-id="752751864864309310" id="message-752751864864309310">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>12</strong> Invites). We are now at <strong>241 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">08-Sep-20 04:09 AM</span>
+
+            <div class="chatlog__message " data-message-id="752817766024740884" id="message-752817766024740884">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Reference</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">08-Sep-20 11:00 PM</span>
+
+            <div class="chatlog__message " data-message-id="753102427514994699" id="message-753102427514994699">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>FARTIONDISCORD58</strong>, invited by <strong>Pope Benedict XV</strong> (<strong>11 invites</strong>) </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">09-Sep-20 06:28 AM</span>
+
+            <div class="chatlog__message " data-message-id="753215205214781542" id="message-753215205214781542">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>12</strong> Invites). We are now at <strong>240 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">09-Sep-20 11:17 AM</span>
+
+            <div class="chatlog__message " data-message-id="753287977928491129" id="message-753287977928491129">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Chimarr&#227;o</strong>, invited by <strong>Pope Benedict XV</strong> (<strong>11 invites</strong>) </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">09-Sep-20 05:29 PM</span>
+
+            <div class="chatlog__message " data-message-id="753381490967969832" id="message-753381490967969832">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>King Edward I</strong> (<strong>1</strong> Invites). We are now at <strong>240 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">09-Sep-20 05:50 PM</span>
+
+            <div class="chatlog__message " data-message-id="753386821626364005" id="message-753386821626364005">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong><img class="emoji " alt="☦" title="☦" src="https://twemoji.maxcdn.com/2/72x72/2626.png">Bagration<img class="emoji " alt="☦" title="☦" src="https://twemoji.maxcdn.com/2/72x72/2626.png"></strong>, invited by <strong>King Edward I</strong> (<strong>0 invites</strong>) </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">09-Sep-20 10:55 PM</span>
+
+            <div class="chatlog__message " data-message-id="753463614848892969" id="message-753463614848892969">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Basileus Alexios VI Apokios</strong> (<strong>1</strong> Invites). We are now at <strong>240 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">10-Sep-20 02:01 AM</span>
+
+            <div class="chatlog__message " data-message-id="753510348622921819" id="message-753510348622921819">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>12</strong> Invites). We are now at <strong>241 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">10-Sep-20 03:56 PM</span>
+
+            <div class="chatlog__message " data-message-id="753720703164874813" id="message-753720703164874813">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>13</strong> Invites). We are now at <strong>243 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">10-Sep-20 04:17 PM</span>
+
+            <div class="chatlog__message " data-message-id="753725988722049084" id="message-753725988722049084">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Basileus Alexios VI Apokios</strong> (<strong>3</strong> Invites). We are now at <strong>244 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">10-Sep-20 08:28 PM</span>
+
+            <div class="chatlog__message " data-message-id="753789138469388308" id="message-753789138469388308">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Basileus Alexios VI Apokios</strong> (<strong>4</strong> Invites). We are now at <strong>245 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">11-Sep-20 07:34 PM</span>
+
+            <div class="chatlog__message " data-message-id="754137773266436188" id="message-754137773266436188">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>kert</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">12-Sep-20 12:39 AM</span>
+
+            <div class="chatlog__message " data-message-id="754214592137396264" id="message-754214592137396264">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Shad (Kaizev)</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">12-Sep-20 02:32 AM</span>
+
+            <div class="chatlog__message " data-message-id="754242937126387752" id="message-754242937126387752">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Carl Gustaf Emil Mannerheim</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">12-Sep-20 08:01 AM</span>
+
+            <div class="chatlog__message " data-message-id="754325944168349736" id="message-754325944168349736">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong><img class="emoji " alt="𝕮" title="𝕮" src="https://twemoji.maxcdn.com/2/72x72/1d56e.png"> <img class="emoji " alt="𝖔" title="𝖔" src="https://twemoji.maxcdn.com/2/72x72/1d594.png"> <img class="emoji " alt="𝖓" title="𝖓" src="https://twemoji.maxcdn.com/2/72x72/1d593.png"> <img class="emoji " alt="𝖘" title="𝖘" src="https://twemoji.maxcdn.com/2/72x72/1d598.png"> <img class="emoji " alt="𝖙" title="𝖙" src="https://twemoji.maxcdn.com/2/72x72/1d599.png"> <img class="emoji " alt="𝖆" title="𝖆" src="https://twemoji.maxcdn.com/2/72x72/1d586.png"> <img class="emoji " alt="𝖓" title="𝖓" src="https://twemoji.maxcdn.com/2/72x72/1d593.png"> <img class="emoji " alt="𝖙" title="𝖙" src="https://twemoji.maxcdn.com/2/72x72/1d599.png"> <img class="emoji " alt="𝖎" title="𝖎" src="https://twemoji.maxcdn.com/2/72x72/1d58e.png"> <img class="emoji " alt="𝖓" title="𝖓" src="https://twemoji.maxcdn.com/2/72x72/1d593.png"> <img class="emoji " alt="𝖊" title="𝖊" src="https://twemoji.maxcdn.com/2/72x72/1d58a.png"></strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">12-Sep-20 04:17 PM</span>
+
+            <div class="chatlog__message " data-message-id="754450606365868113" id="message-754450606365868113">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>FJ</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">12-Sep-20 08:20 PM</span>
+
+            <div class="chatlog__message " data-message-id="754511670285435001" id="message-754511670285435001">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>14</strong> Invites). We are now at <strong>241 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">12-Sep-20 09:28 PM</span>
+
+            <div class="chatlog__message " data-message-id="754528915493617725" id="message-754528915493617725">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>The Papal State</strong>! Invited by <strong>DISBOARD</strong> (<strong>1</strong> Invites). We are now at <strong>242 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">13-Sep-20 08:54 AM</span>
+
+            <div class="chatlog__message " data-message-id="754701593944784917" id="message-754701593944784917">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Hazelov</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">13-Sep-20 12:46 PM</span>
+
+            <div class="chatlog__message " data-message-id="754760033232879716" id="message-754760033232879716">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>SmolStarry</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">13-Sep-20 08:06 PM</span>
+
+            <div class="chatlog__message " data-message-id="754870653215178833" id="message-754870653215178833">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>DNW07</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">14-Sep-20 06:17 AM</span>
+
+            <div class="chatlog__message " data-message-id="755024390663700543" id="message-755024390663700543">
+                <div class="chatlog__content">
+                    <div class="markdown"> </div>
+                </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(0,119,190,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown">Welcome <span class="mention" title="Unknown">@Unknown</span> to <strong>Papal States</strong>! Invited by <strong>Pope Benedict XV</strong> (<strong>15</strong> Invites). We are now at <strong>240 members</strong>!</div>
+                                        </div>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">14-Sep-20 07:19 AM</span>
+
+            <div class="chatlog__message " data-message-id="755040031948800040" id="message-755040031948800040">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>Azrue</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="https://cdn.discordapp.com/avatars/716967712844414996/623c9b35d437e2a00619783bffb0baaf.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Plasma#3518" data-user-id="716967712844414996" style="color: rgb(146,151,156)">Plasma</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">14-Sep-20 07:52 AM</span>
+
+            <div class="chatlog__message " data-message-id="755048414214881301" id="message-755048414214881301">
+                <div class="chatlog__content">
+                    <div class="markdown">Goodbye <strong>ConecoTheIII</strong>, invited by <strong>Unknown</strong> </div>
+                </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+</div>
+
+<div class="postamble">
+    <div class="postamble__entry">Exported 45 message(s)</div>
+</div>
+
+</body>
+</html>
